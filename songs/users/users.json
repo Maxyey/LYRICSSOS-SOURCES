@@ -4,20 +4,20 @@
     "name": "Admin User",
     "email": "maxyrocs01@gmail.com",
     "role": "admin",
-    "createdAt": "2025-05-02T03:37:30.825Z"
+    "createdAt": "2025-05-02T03:35:41.933Z"
   },
   {
     "id": "editor-1",
     "name": "Content Editor",
     "email": "editor@example.com",
     "role": "editor",
-    "createdAt": "2025-05-02T03:37:30.825Z"
+    "createdAt": "2025-05-02T03:35:41.933Z"
   },
   {
-    "id": "9ca01d57-0729-44ec-987b-49969029cac1",
-    "name": "alx",
-    "email": "alex01@gmail.com",
-    "role": "user",
-    "createdAt": "2025-05-02T03:39:45.097Z"
+    "id": "69f7d0fa-b41d-4d5c-ad4a-a25d413a5f54",
+    "name": "editor ",
+    "email": "editor@gmail.com",
+    "role": "editor",
+    "createdAt": "2025-05-02T03:49:17.836Z"
   }
 ]
