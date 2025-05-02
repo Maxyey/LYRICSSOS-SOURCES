@@ -19,5 +19,12 @@
     "email": "editor@gmail.com",
     "role": "editor",
     "createdAt": "2025-05-02T03:49:17.836Z"
+  },
+  {
+    "id": "3c8a679e-bc2a-4efe-8f3b-d65d4d32c0e8",
+    "name": "HAPPY",
+    "email": "happy@1gmail.com",
+    "role": "user",
+    "createdAt": "2025-05-02T04:02:01.005Z"
   }
 ]
