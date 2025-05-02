@@ -1,0 +1,23 @@
+[
+  {
+    "id": "admin-1",
+    "name": "Admin User",
+    "email": "maxyrocs01@gmail.com",
+    "role": "admin",
+    "createdAt": "2025-05-02T03:37:30.825Z"
+  },
+  {
+    "id": "editor-1",
+    "name": "Content Editor",
+    "email": "editor@example.com",
+    "role": "editor",
+    "createdAt": "2025-05-02T03:37:30.825Z"
+  },
+  {
+    "id": "9ca01d57-0729-44ec-987b-49969029cac1",
+    "name": "alx",
+    "email": "alex01@gmail.com",
+    "role": "user",
+    "createdAt": "2025-05-02T03:39:45.097Z"
+  }
+]
