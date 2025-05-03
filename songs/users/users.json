@@ -1,37 +1,10 @@
 [
   {
-    "id": "admin-1",
-    "name": "Admin User",
-    "email": "maxyrocs01@gmail.com",
-    "role": "admin",
-    "createdAt": "2025-05-02T03:35:41.933Z"
-  },
-  {
-    "id": "editor-1",
-    "name": "maxyrocs01@gmail.com",
-    "email": "editor@example.com",
-    "role": "editor",
-    "createdAt": "2025-05-02T03:35:41.933Z"
-  },
-  {
-    "id": "69f7d0fa-b41d-4d5c-ad4a-a25d413a5f54",
-    "name": "editor ",
-    "email": "editor@gmail.com",
-    "role": "editor",
-    "createdAt": "2025-05-02T03:49:17.836Z"
-  },
-  {
-    "id": "3c8a679e-bc2a-4efe-8f3b-d65d4d32c0e8",
-    "name": "HAPPY",
-    "email": "happy@1gmail.com",
+    "id": "b2af4142-1f8b-42d2-9257-6dbe8d9d7b10",
+    "email": "genui@gmail.com",
+    "name": "genui",
+    "password": "genui@gmail.com",
     "role": "user",
-    "createdAt": "2025-05-02T04:02:01.005Z"
-  },
-  {
-    "id": "c1af136e-d9bb-4d6f-9dc8-e08845b08857",
-    "name": "Soseditor",
-    "email": "soseditor01@gmail.com",
-    "role": "editor",
-    "createdAt": "2025-05-03T13:32:28.305Z"
+    "createdAt": "2025-05-03T15:20:00.541Z"
   }
 ]
