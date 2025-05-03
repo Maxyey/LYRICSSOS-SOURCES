@@ -26,5 +26,12 @@
     "email": "happy@1gmail.com",
     "role": "user",
     "createdAt": "2025-05-02T04:02:01.005Z"
+  },
+  {
+    "id": "c1af136e-d9bb-4d6f-9dc8-e08845b08857",
+    "name": "Soseditor",
+    "email": "soseditor01@gmail.com",
+    "role": "editor",
+    "createdAt": "2025-05-03T13:32:28.305Z"
   }
 ]
