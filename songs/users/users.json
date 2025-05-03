@@ -1,18 +1,16 @@
 [
   {
     "id": "b2af4142-1f8b-42d2-9257-6dbe8d9d7b10",
-    "email": "genui@gmail.com",
     "name": "genui",
-    "password": "genui@gmail.com",
+    "email": "genui@gmail.com",
     "role": "user",
     "createdAt": "2025-05-03T15:20:00.541Z"
   },
   {
     "id": "ae5ae3f1-a694-4be1-ab6d-b3ae66d75388",
-    "email": "maxyrocs01@gmail.com",
     "name": "maxyrocs01@gmail.com",
-    "password": "maxyrocs01@gmail.com",
-    "role": "user",
+    "email": "maxyrocs01@gmail.com",
+    "role": "admin",
     "createdAt": "2025-05-03T15:21:54.060Z"
   }
 ]
