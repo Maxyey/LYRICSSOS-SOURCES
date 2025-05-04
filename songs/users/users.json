@@ -11,14 +11,16 @@
     "id": "ae5ae3f1-a694-4be1-ab6d-b3ae66d75388",
     "name": "maxyrocs01@gmail.com",
     "email": "maxyrocs01@gmail.com",
+    "password": "maxyrocs01@gmail.com",
     "role": "admin",
     "createdAt": "2025-05-03T15:21:54.060Z"
   },
   {
     "id": "5810163c-8906-42b0-86ba-bcdc2a8df339",
     "name": "Alx",
-    "email": "alex01@gmail.com",
-    "role": "user",
+    "email": "alexeditor01@gmail.com",
+    "password": "alexeditor01@gmail.com",
+    "role": "admin",
     "createdAt": "2025-05-04T03:39:02.421Z"
   }
 ]
