@@ -3,7 +3,8 @@
     "id": "b2af4142-1f8b-42d2-9257-6dbe8d9d7b10",
     "name": "genui",
     "email": "genui@gmail.com",
-    "role": "user",
+    "password": "genui@gmail.com",
+    "role": "editor",
     "createdAt": "2025-05-03T15:20:00.541Z"
   },
   {
