@@ -22,5 +22,13 @@
     "password": "alexeditor01@gmail.com",
     "role": "admin",
     "createdAt": "2025-05-04T03:39:02.421Z"
+  },
+  {
+    "id": "b8f01a71-f290-49eb-871e-59abb1396990",
+    "name": "EDITOR ADMIN",
+    "email": "editor@gmail.com",
+    "password": "editor@gmail.com",
+    "role": "admin",
+    "createdAt": "2025-05-05T16:16:31.115Z"
   }
 ]
