@@ -28,7 +28,7 @@
     "name": "EDITOR ADMIN",
     "email": "editor@gmail.com",
     "password": "editor@gmail.com",
-    "role": "admin",
+    "role": "editor",
     "createdAt": "2025-05-05T16:16:31.115Z"
   }
 ]
