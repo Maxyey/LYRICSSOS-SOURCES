@@ -16,8 +16,8 @@
       "audioUrl": "",
       "audioType": "audio",
       "version": "...",
-      "key": "C",
-      "scaleSet": false
+      "key": "C#",
+      "scaleSet": true
     },
     {
       "id": "e783eae0-7586-400b-816d-af1976366279",
@@ -2131,5 +2131,5 @@
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-16T13:03:32.685Z"
+  "lastUpdated": "2026-09-16T13:04:01.156Z"
 }
