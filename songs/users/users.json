@@ -30,13 +30,5 @@
     "password": "editor@gmail.com",
     "role": "editor",
     "createdAt": "2025-05-05T16:16:31.115Z"
-  },
-  {
-    "id": "user-1789577913197",
-    "name": "Avijit",
-    "email": "avijit@gmail.com",
-    "password": "avijit@gmail.com",
-    "role": "user",
-    "createdAt": "2026-09-16T17:00:40.484Z"
   }
 ]
