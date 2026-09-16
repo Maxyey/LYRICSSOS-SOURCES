@@ -1167,7 +1167,7 @@
         },
         {
           "id": "src-1789559283893-he73",
-          "label": "Scratch Version",
+          "label": "Instrumental Track",
           "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/1789557884921_khwnasongdw_jwngni_gabnai.mp3",
           "type": "audio",
           "versionType": "scratch"
@@ -2023,5 +2023,5 @@
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-16T11:50:50.736Z"
+  "lastUpdated": "2026-09-16T12:19:33.924Z"
 }
