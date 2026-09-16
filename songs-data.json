@@ -16,8 +16,8 @@
       "audioUrl": "",
       "audioType": "audio",
       "version": "...",
-      "key": "C#",
-      "scaleSet": true
+      "key": "",
+      "scaleSet": false
     },
     {
       "id": "e783eae0-7586-400b-816d-af1976366279",
@@ -43,8 +43,8 @@
         }
       ],
       "version": "",
-      "key": "A#",
-      "scaleSet": true
+      "key": "C",
+      "scaleSet": false
     },
     {
       "id": "dbd9f283-c0be-4148-b2f6-847d0fb7ae37",
@@ -2131,5 +2131,5 @@
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-16T13:04:01.156Z"
+  "lastUpdated": "2026-09-16T13:04:20.046Z"
 }
