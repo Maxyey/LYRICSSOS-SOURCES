@@ -2,8 +2,11 @@
   "songs": [
     {
       "id": "efc43d16-f7f5-46f9-90c9-78561d38a8ee",
+      "serialNumber": 1,
       "title": "Aaj maha paritran bhai ",
       "composer": "xxxxxxxxxxxxxx",
+      "date": "2025-09-25T11:37:33.480Z",
+      "composeDate": "0001-01-01",
       "lyrics": "আজ মহা পরিত্রান ভাই আজ মহা পরিত্রান -2\nযীশুই উঠেছেন দেখো, পাপীরে করিতে ত্রাণ\n(1)\nচেয়ে দেখো কবর পানে, যীশুর দেহ নাই সেখানে  -2\nশুধু - বস্ত্রগুলি পরে আছে, দূতে করে সাক্ষ্যদান,\n(2)\nবিশ্বাসী যদিও মরে, তবু সে উঠিবে পরে, -2\nও ভাই - মৃত্যুঞ্জয়ী সেই যীশু সত্যের চীর প্রমাণ\n(3)\nযীশু আগে স্বর্গে গিয়ে, স্বর্গ দুয়ার দিলেন খুলে -2\nআমরা - যাব যাব স্বর্গে যাব, যীশুর রক্তে পেয়ে ত্রাণ\n(4)\nনেচে নেচে তালে তালে, সবে মিলে বাহু তুলে -2\nএখন । জয় যীশু জয় যীশু বলে কর তাহার গুন কীর্তন\n\n\n\n\n--------------------------------------------\n\n\n\n\n\n\nAaj maha paritran bhai aaj maha paritran -2\nJishui uthechen dekho, papire korite tran\n(1)\nCheye dekho kabar pane, Jishur deh nai shekhane -2\nShudhu - bastraguli pore ache, dute kore sakshyadan,\n(2)\nBishwasi jodi o more, tabu se uthibe pore -2\nO bhai - mritunjoyi sei Jishu satyer chir praman\n(3)\nJishu age swarge giye, swarg duar dilen khule -2\nAmra - jabo jabo swarge jabo, Jishur rakhte peye tran\n(4)\nNeche neche tale tale, shabe mile bahu tule -2\nEkhon - Joy Jishu Joy Jishu bole koro tahara gun kirtan\n",
       "tags": [
         "Bengali",
@@ -12,15 +15,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "...",
-      "serialNumber": 1,
-      "date": "2025-09-25T11:37:33.480Z"
+      "key": "C"
     },
     {
       "id": "e783eae0-7586-400b-816d-af1976366279",
+      "serialNumber": 2,
       "title": "Aya vo jagat mein",
       "composer": "Lyrics _ Alen Mochari & Swar_Mrinal Iswarari",
+      "date": "2025-09-30T08:14:37.852Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Aaya vo jagat mein, paapiyon ko karne paritran\nLaya vo jeevan deep sansar ko karne ujjala -2\nMarg vahi, satya vahi, jeevan bhi vahi hai -2\n(A)\nVo vahi Masi hai jo aane wala\nVo vahi Masi hai jo bachane wala -2\nSwarg uska, dharti bhi, sabka vahi hai rakha wala\n(B)\nDukh uthaya Prabhu ne, taaki hamen mukti mile\nBalidan hua Ishu ne, taise hamen jeevan mile-2\nMukti vahi hai, jeevan bhi, sabka vahi hai rakha wala\n",
       "tags": [
         "Hindi",
@@ -28,15 +32,16 @@
       ],
       "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/bc92c01f-fde9-4f63-b65a-e550e69d4f2d.m4a",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 2,
-      "date": "2025-09-30T08:14:37.852Z"
+      "key": "C"
     },
     {
       "id": "dbd9f283-c0be-4148-b2f6-847d0fb7ae37",
+      "serialNumber": 3,
       "title": "Afa Isora jwngkhou lananwi",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:21:43.944Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Afa Isora jwngkhou lananwi\nSonani nikhor dagwn\n“Bwi gwjwn swrgwao”-2 -2\n(1)\nRongza-mini jug-jugani Afa Isor jwng\nAlw-gwnwn, ruju-rumu bwi swrgwao -2\nSwrgiding Isorni, Abraham-Isahaqjwng -2\nJwngbw lwgwse Arpho fwrjwng\nJwngbw lwgwse raijw jagwn -2\n",
       "tags": [
         "Bodo",
@@ -45,30 +50,32 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 3,
-      "date": "2025-05-04T07:21:43.944Z"
+      "key": "C"
     },
     {
       "id": "71fa2708-c533-44b2-8861-0cb0bde8355f",
+      "serialNumber": 4,
       "title": "Afa Isorni noa",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:21:08.426Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Aa . . . . . . . . . . Aa . . . . . . . . . . -2\nAfa Isorni noa, Swithw-dhwrwmni dera\nShrang alari jwngblaobai thathwng\nJwngni sibithiliao -2\n(A)\nWi menglinai fwr, fwi nwngswrw fwi\nWi unkhwinaifwr, fwi nwngswrw fwi -2\nKhwmsi lamanifrai ongkharnan fwi\nIswrni raijwao bahafw lafwi -2\n(B)\nJiu hwsartnanwi dhwrwm sibinangwn\nGwsw hwsartnanwi swithw lakhinangwn -2\nAros thanangwn firi-firi\nMwngwn oblasw bwrni jhwri -2\n",
       "tags": [
         "Bodo"
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 4,
-      "date": "2025-05-04T07:21:08.426Z"
+      "key": "C"
     },
     {
       "id": "8555fae3-0062-4027-9513-fef513e9cebd",
+      "serialNumber": 5,
       "title": "Afa nwng ankhou manw ",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:23:00.329Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Afa nwng ankhou manw \nLenghorbai thayw, gaoni jaigayao -2\n(A)\nJanw hagou Afa nwngni lenghornaia\n mwnse thanki -2\nDinwigwn nwng gwjwnpuriao\n“Gaoni jaigayao” -2\n(B)\nNathai afa Ang  mwdainw burkhainayao\nGwlwdwng papni buhumao -2\nOblabw nagara nwng angkhou\n“Ang papi khou” -2\n",
       "tags": [
         "Bodo",
@@ -76,15 +83,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 5,
-      "date": "2025-05-04T07:23:00.329Z"
+      "key": "C"
     },
     {
       "id": "3dd1760c-7909-4366-ada0-c2ff31a14127",
+      "serialNumber": 6,
       "title": "Akhaijwng akhai homnanwi",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:23:09.884Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Akhaijwng akhai homnanwi\nAganjwng agan surnanwi -2\nFwidwng jwng, beao boibw, rongza-rongza\n(A)\nFwi jwng gwsw khousewi\nFwi jwng jiu mwnsewi -2\nDhwrwm guruni fwrwngnaikhou gwsw hwni\n(B)\nLwrbang fwthainaikhou\nFwgwmfwi Phwrbuniao -2\nGwsw-gwrbwni, gajri mani, siman lani\n",
       "tags": [
         "Bodo",
@@ -92,15 +100,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 6,
-      "date": "2025-05-04T07:23:09.884Z"
+      "key": "C"
     },
     {
       "id": "ef1c4dd9-d90c-4d39-ae1d-86802a873496",
+      "serialNumber": 7,
       "title": "Ami asibo abar ekdin ",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-09-30T17:17:07.617Z",
+      "composeDate": "0001-01-01",
       "lyrics": "আমি আসিব আবার একদিন-2\nসেই দিন-2 সেই দিন ডাকিব সবারে -2\n(A)\nযে যেমন কর্ম করিবে তাকে তেমন ফল দিব\nযদি কেহ মন না ফিরায়, সে মরিবেই মরিবে\nযেইদিনে কাঁপিবে ভূবন, সেইদিনে দেখিবে সেজন -2\n(B)\nধন্য যারা আত্মাতে দীনহীন স্বর্গরাজ্য তাহাদেরই\nধন্য যারা নির্মলান্তকরন, সে দেখিবে জীবন পথ\nযেইদিনে আসিব আমি, সেই দিনে ডাকিব তোমায় -2\n\n\n\n\n\n\n\nAmi asibo abar ekdin -2\nSei din -2 sei din dakibo sabare -2\n(A)\nJe jemon kormo koribe take temon phal dibo\nJodi keho mon na phiray, se moribei moribe\nJeidin khampe bhuvan, seidin dekhibe sejon -2\n(B)\nDhanya jara atmate dinhin swargarajya tahaderi\nDhanya jara nirmal antar karane, se dekhibe jibon path\nJeidin asibo ami, seidin dakibo tomay -2\n\n\n",
       "tags": [
         "Bengali",
@@ -108,15 +117,16 @@
       ],
       "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/5ac40d10-dae6-4bef-a5a1-5ad32cc7e281.m4a",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 7,
-      "date": "2025-09-30T17:17:07.617Z"
+      "key": "C"
     },
     {
       "id": "61fbb8c4-3d70-43eb-abcc-51bb2fbd48b7",
+      "serialNumber": 8,
       "title": "Amra khelibo sworgete",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:23:33.048Z",
+      "composeDate": "0001-01-01",
       "lyrics": "আমরা খেলিব স্বর্গেতে, স্বর্গদূতের আলোতে -2\nসকল পাপী নরক গামী, আমরা স্বর্গগামী -2\n(A)\nনতুন আকাশ, নতুন পৃথিবী নেত্রজল আর নাই\nমনুষ্য আর সদাপ্রভুর একত্র বাস সেথায়-2\n\n\n\n\n\n\n\n\nAmra khelibo sworgete, sworgoduter alote -2\nShokol papi narok gami, amra sworggami -2\n(A)\nNotun akash, notun prithibi, netrojol ar nai\nManush ar Sadaprabhur ekotro bas shethay -2\n",
       "tags": [
         "Bengali",
@@ -125,15 +135,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 8,
-      "date": "2025-05-04T07:23:33.048Z"
+      "key": "C"
     },
     {
       "id": "15e1f7a3-1bbe-4727-aa73-2c178cc6d05f",
+      "serialNumber": 9,
       "title": "Arose gabw nwng khwnasong",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:23:48.375Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Arose gabw nwng khwnasong\nJwng sibiyw nwng khwnasong -2\nJwng rwjabbai thagwn nwngni khamsalia\nJwng nebai thagwn nwng fwifin jase\n“Nwng langfa nangwn- jwngkhou langfanangwn” -2\n(A)\nSwithw dhwrwm khou jwng sibiyw\nJiuni derakhou jwng hastayw -2\n“Nwng langfa nangwn- jwngkhou langfanangwn” -2\n(B)\nFwthai nayao jwng khwose jarwnga\nSibinayao jwng gwsw hwrwnga -2\n“Nwng langfa nangwn- jwngkhou langfanangwn” -2\n",
       "tags": [
         "Bodo",
@@ -141,15 +152,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 9,
-      "date": "2025-05-04T07:23:48.375Z"
+      "key": "C"
     },
     {
       "id": "14334b05-6cf3-4c83-b00b-b124b7134dbd",
+      "serialNumber": 10,
       "title": "Arose gabw nwngni sigangao",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:24:15.766Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Arose gabw nwngni sigangao -2\nGaswi jwngni nangou khou\nNwng gaswi mithijwbgou\n“O . . . swrgw Bifa jwngni”-2 -2\n(A)\nAnldainai subungni Bifa nwngw\nMenglinai subungni laokhar nwngw -2\nJiu arw jiu, Rajani raja, Gwthar fwrni gwthar -2\n(B)\nGwthar khwmsalini gudi nwngw\nGwmanai subungni lama nwngw -2\nBifa-Bisa, Gwthar jiu jwng\nSaselo Isor Nwng-2\n",
       "tags": [
         "Bodo",
@@ -157,15 +169,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 10,
-      "date": "2025-05-04T07:24:15.766Z"
+      "key": "C"
     },
     {
       "id": "69102d04-dfd4-49b0-a569-b646b1bf4aec",
+      "serialNumber": 11,
       "title": "Barfwngwn jwng mondoliao",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:24:25.262Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Barfwngwn jwng mondoliao\nJankhrigwng jwng mondoliao -2\n“Rongzagwn- mwsagwn\nKhouse jana jwng gaswibw” -2\n(A)\nBwi nuhornai san fwr badi\nJwngblou hwgwn jwng mondoli khou -2\n(B)\nDorshi songsarao rongzagwn jwng\nPapi subungkhou fwjagwng jwng\n",
       "tags": [
         "Bodo",
@@ -173,15 +186,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 11,
-      "date": "2025-05-04T07:24:25.262Z"
+      "key": "C"
     },
     {
       "id": "7f51f9f3-3350-4c54-899e-2f268bed5dbf",
+      "serialNumber": 12,
       "title": "Basaigiri nwng angni",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:24:38.353Z",
+      "composeDate": "2022-03-30",
       "lyrics": "Basaigiri nwng angni\nRwikhagiri nwng angni-2\nSwmw nangtao Fwrbu nwngni onnai -2\n(A)\nAngni ayen barsinnai takwi nwngw\nJokhom jabai\nAngni inai maonaini takwisw nwngw \nBukrup jabai-2\n(B)\nKrushni sayao alaijablabw nwng ankhou\n Nimaha hwbai\nNwngw banso haywi dukhu swinanwibw\nAnkhou basai bai-2\n",
       "tags": [
         "Bodo",
@@ -189,15 +203,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "2022-03-30",
       "version": "Standard Version",
-      "serialNumber": 12,
-      "date": "2025-05-04T07:24:38.353Z"
+      "key": "C"
     },
     {
       "id": "e9d21a3d-594f-474b-a5dd-bdf585686aaf",
+      "serialNumber": 13,
       "title": "Beseba gwjwn gaoni swrgwpuri khou",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:24:55.686Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Beseba gwjwn gaoni swrgwpuri khou\nNagarnan fwibai nwng papi buhumao -2\nDukhu swibai papifwrni thakwi\nAlai jabai krush sayao\n(A)\nRaobw gwiya be buhum bicayao\nMwdwi hugarnw Porbu nwngni duhkuao -2\nDersin sanbai gaswi gaoni dukhukhou\nGwjaolangbai gaswi nongkhai lamajwng\nMuluk subung-a , gwjan eraibai\n(B)\nRaobw naihora nwngi krush bannai khou\nGwja thwijwng bwhwifanai  dukhukhou -2\nDai gwiwi nwngni thwini nijira\nPapi subunga dinwi nwngkhou fwthaia\nMuluk subung-a , gwjan eraibai\n",
       "tags": [
         "Bodo",
@@ -205,15 +220,16 @@
       ],
       "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/e5484a73-1155-419b-b8ff-59f2989631ad.mp3",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 13,
-      "date": "2025-05-04T07:24:55.686Z"
+      "key": "C"
     },
     {
       "id": "f346c572-673b-438c-9678-eb334df4db60",
+      "serialNumber": 14,
       "title": "Bethelhem hadorni goali noao",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:25:09.471Z",
+      "composeDate": "2021-12-05",
       "lyrics": "Bethelhem hadorni goali noao\nJisu Gotho khou khulumni de khulumni – 2\n(A)\nHaila-huila, minibala -2\nJisu sari jabai dinwi Boorodin\nkhulumni de khulumni ……….\n(B)\nRongja-mini mwsaglangni -2\nGannai-jwmnai arw janai-lwngnai jwng\nkhulumni de khulumni ……….\n",
       "tags": [
         "BODO",
@@ -221,15 +237,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "2021-12-05",
       "version": "Standard Version",
-      "serialNumber": 14,
-      "date": "2025-05-04T07:25:09.471Z"
+      "key": "C"
     },
     {
       "id": "1feb3a68-8b16-4af9-81c4-073535c0cb42",
+      "serialNumber": 15,
       "title": "Bethelhem ni bwi Goaliao",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:25:22.112Z",
+      "composeDate": "2021-12-05",
       "lyrics": "Bethelhem ni bwi Goaliao\nJisu  Gotho khou  fwi khulumni\n‘Okhwrangao mohima jathwng\nBe buhumao Shanti jathwng’ -2\n(A)\nMenda laokhar fwra rongjaswng\nRongja nanwi biswr mwsaglangdwng\nHalleluiya O Halleluiya . . . .\n(B)\nJwngni mondoliao sarifwidw\nJwngni nokhoraobw sarifwidw\nHalleluiya O Halleluiya . . . .\n",
       "tags": [
         "BODO",
@@ -237,30 +254,32 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "2021-12-05",
       "version": "Standard Version",
-      "serialNumber": 15,
-      "date": "2025-05-04T07:25:22.112Z"
+      "key": "C"
     },
     {
       "id": "a47b8b38-bab9-4376-8474-f2b1eaa479b7",
+      "serialNumber": 16,
       "title": "Bidinthani gelenayao . . .",
       "composer": "Mrinal Iswarari ",
+      "date": "2026-04-11T15:44:48.175Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Bidinthani gelenayao . . . 2\nBuhumao subunga gwmalangjwbbai -2\n(A)\nSwr naigirw nwngkhou\nSwr kulumw nwngkhou\nOh . . . . .  swr dongw,\nswithw arw dhwrwmkhou sibiswgwra\nIsorni huda khou maniswgwra\nRaobw gwiya . . . be buhumao\n(B)\nSwr naigirw nwngkhou\nSwr sibiyw nwngkhou\nOh . . . . .  Bifa Isor\nAdri dakhalam jwngkhou kholaiyw jwng\nDagalang be khwmsi buhumao nwng\nGithaobathao be buhumao\n",
       "tags": [
         "Bodo"
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 16,
-      "date": "2026-04-11T15:44:48.175Z"
+      "key": "C"
     },
     {
       "id": "e5a8fa74-1d16-4315-8bd2-9020b6ef9df0",
+      "serialNumber": 17,
       "title": "Bwi Golgothayao mani hangkw",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:26:08.206Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Bwi Golgothayao mani hangkw\nBwi Kalvaryao mani hangkw -2\nBenwsw nama Krushni hangkw-a\nBenwsw nama jiuni lamaya -2\n(A)\nBifa, Bisa, Gwthar Jiu nwng\nGaswi subung swrjigiri nwng -2\nMuluk subungni papni thakwi\nGolgothani krushkhou somai hwbai -2\n(B)\nJwngblow jwngni sibithili nwng\nKrushni hangkw orai lananwi -2\nGwthar bijabni gwthar batra\nJwngblowbai thathwng Krushni sayao -2\n",
       "tags": [
         "Bodo",
@@ -268,15 +287,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 17,
-      "date": "2025-05-04T07:26:08.206Z"
+      "key": "C"
     },
     {
       "id": "b4fd0885-ac05-4d7c-8ad8-f5998197c35e",
+      "serialNumber": 18,
       "title": "Bwi naihor gada bisayao",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:26:22.700Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Bwi naihor gada bisayao\nIsorni menda bisaya -2\nJerusalemni gwthar lamajwng\nBifa Isorni mwndirao thangw -2\n(A)\nHalleluiya Hossanna, subungni jiuni raja\nMwndir nonga bi, Isorni saogari\nSeler nonga be jiuni malasw -2\n",
       "tags": [
         "Bodo",
@@ -284,15 +304,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 18,
-      "date": "2025-05-04T07:26:22.700Z"
+      "key": "C"
     },
     {
       "id": "7d3513b0-0ee1-4d0e-90b1-d8cf84122503",
+      "serialNumber": 19,
       "title": "Bwithelhem hadorni bwi goali noao",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:26:40.381Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Bwithelhem hadorni bwi goali noao\nThu lwgwfwr rongzalangni\nThu lwgwfwr mwsalangni\n(a)\nSari jabai ou sari jabai\nJiuni rajaya dinwi sari jabai\n“Sona-rupa lanan thangw\nBwi naihor Jotisifra\n Dinthilangw lama honwi\nBwi gwjwn hathorkifra” -2\n(b)\nSari jabai ou sari jabai\nJiuni rajaya dinwi sari jabai\n“Papifwrkhou fwjakhangnw\nkhwmsi be buhum bikhayao\nSwrangbwgou Jiuni sranga\nbwi gwthar Bwithelhemao” -2\n",
       "tags": [
         "BODO",
@@ -300,15 +321,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 19,
-      "date": "2025-05-04T07:26:40.381Z"
+      "key": "C"
     },
     {
       "id": "521b3fee-0749-4679-beb7-82baf2d81794",
+      "serialNumber": 20,
       "title": "Cholre cholre chol Khriste tarun dal",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:26:53.598Z",
+      "composeDate": "0001-01-01",
       "lyrics": "চলরে চলরে চল খ্রীষ্টতে তরুণ দল\nচলরে চলরে চল বিশ্বাসি ও ভক্ত দল\nছাড়ি লজ্জা দুঃখ ভাবনায় পরে থেকো না\nমিথ্যা ভয়ে পরে থেকো না\n(1)\nদূর দিগন্তে কালো মেধে ছেয়ে গেছে এ ভূবন\nহিংসা দ্বন্দ ভেদে-ভেদে পাপে ভরা ক্লান্ত মন -2\nদাওহে প্রানে আশার চেতনা, পাপ আধরে থেকোনা -2\n(2)\nপ্রেম ও আলো ছড়িয়ে দাও, বিশ্ববাসির মাঝারে\nপ্রেম কাহিনি শোনাও তাদের, যারা আছে আধাঁরে -2\nদাওহে প্রানে আশার চেতনা, পাপ আধরে থেকোনা -2\n\n\n\n\n\n\n\n\n\n\n\nCholre cholre chol Khriste tarun dal\nCholre cholre chol bishwasi o bhakta dal\nChhari lajja dukh bhabonay pore thako na\nMithya bhaye pore thako na\n(1)\nDur digante kalo medhe cheye geche e bhuvan\nHingsha dwand bhede-bhede pape bhara klanto mon -2\nDaoh prane ashar chetana, pap adhare thekona -2\n(2)\nPrem o alo chhuriye dao, bishwabasir majhare\nPrem kahini shonawo tader, jara ache adhare -2\nDaoh prane ashar chetana, pap adhare thekona -2\n",
       "tags": [
         "Bengali",
@@ -316,15 +338,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 20,
-      "date": "2025-05-04T07:26:53.598Z"
+      "key": "C"
     },
     {
       "id": "7d161b27-d94e-4ba9-a6e4-707b521bf79f",
+      "serialNumber": 21,
       "title": "Dabw undwi gotho jwngw",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:27:11.803Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Dabw undwi gotho jwngw\nRwnga raya jwng sibiyw\n“O . . Bifa Isor”-2\n(1)\nDhwrwm hangkhw khou barlangfrangw jwng\nOblabw jwngnikhou khwnasongdo\nJwngni nokhor arw bima-bifa\nNwngnao gothayw jwng Afa\n",
       "tags": [
         "Bodo",
@@ -333,15 +356,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 21,
-      "date": "2025-05-04T07:27:11.803Z"
+      "key": "C"
     },
     {
       "id": "3fa7c589-5ff0-4999-92e6-34df123e8ef7",
+      "serialNumber": 22,
       "title": "Daoharu jwng khristo harini ",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:27:26.790Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Daoharu jwng khristo harini -2\nGwdan swdwmsri swrjini mijing hwjanai jwng\nKhristo harini -4\n(A)\nGwtharBijabni thungri jwng rwn hwgwn jwngw\nKrushni biban bannanwi daogagwn jwngw -2\nBe buhumni khwmsikhou shranghwgwn jwngw\n",
       "tags": [
         "Bodo",
@@ -350,15 +374,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 22,
-      "date": "2025-05-04T07:27:26.790Z"
+      "key": "C"
     },
     {
       "id": "f57ee0de-7d56-4142-8658-81f41faef010",
+      "serialNumber": 23,
       "title": "David nwgwrni bwi goaliao",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:27:43.182Z",
+      "composeDate": "2021-12-05",
       "lyrics": "David nwgwrni bwi goaliao\nJisu raja sari… jafwibai -2\n‘Okhwrangao mohima jathwng\nBe buhumao Shanti jathwng’ -2\n(A)\nMenda laokhar fwra rongjaswng\nRongja nanwi biswr mwsaglangdwng -2\nHalleluiya O Halleluiya . . . .\n(B)\nJwngni mondoliao sarifwidw\nJwngni nokhoraobw sarifwidw -2\nHalleluiya O Halleluiya . . . .\n",
       "tags": [
         "Bodo",
@@ -366,15 +391,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "2021-12-05",
       "version": "Standard Version",
-      "serialNumber": 23,
-      "date": "2025-05-04T07:27:43.182Z"
+      "key": "C"
     },
     {
       "id": "dcb79569-052c-4a52-bd94-5cc07f8ba14c",
+      "serialNumber": 24,
       "title": "Derhasat jwngni Phorbua",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:28:00.457Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Derhasat jwngni Phorbua\nHomtha haya raobw Phowbukhou\nDerhasat jwngni Phorbua\nSantham unao sikhangfinbai --2\nHa ha . . . Halleluiya, Ho ho Hossanna -2\n(A)\nOkhanaisi phungni somao\nKharbwdwngmwn Mariama -2\nMariamkhou Arphoa bungbai\nNwngswrni Jisua thangkhangfinbai -2\n(B)\nRongza nwngswr bima-bifafwr\nMwsa nwngswr subung harifwr -2\nGwthwini raja nwng laginangbai\nNwngni raijwabw jwbsrankhabai -2\n",
       "tags": [
         "Bodo",
@@ -382,15 +408,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 24,
-      "date": "2025-05-04T07:28:00.457Z"
+      "key": "C"
     },
     {
       "id": "50130c09-8b71-4c41-95c2-987fa6922618",
+      "serialNumber": 25,
       "title": "Dihun janai dibosa",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:31:51.702Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Dihun janai dibosa\nJwngni mwnse jarimin\nBe jarimin dihun jandwng\nSubungkhou fwjakhangnw -2\n(A)\nJwng sibigwn khouse janan\n“Kristoni gaham batra-2”\nJwng rwjabgwn Kristni methai\n“Subungkhou fwjakhangnw-2” -2\n(B)\nKhonsaibwdwng be dibosa\n“Buhumni subung fwrkhou-2”\nSomai hwdwng be dibosa\n“Geremsa khwmsali khou-2”\n",
       "tags": [
         "BODO",
@@ -398,15 +425,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 25,
-      "date": "2025-05-04T07:31:51.702Z"
+      "key": "C"
     },
     {
       "id": "7ec772f0-dfee-414f-bbbb-f4296680e532",
+      "serialNumber": 26,
       "title": "Dinwi jwng gwdan gwthar sanao",
       "composer": "xxxxxxxxxxxxxx ",
+      "date": "2025-05-04T07:35:06.166Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Dinwi jwng gwdan gwthar sanao\nFwibai jwng gwdan gwswkhou gothainw -2\n(A)\nSofwinw habai jwng beao gaswi\nBekhainw Iswarkhou hambai hwnswi\nLaya jwng, laya jwng -2\nKhwmsini btrakhou swlwnga jwng\n(B)\nJisu Krishtoni gaham btra\nSwlwngwn jwng boibw rongja-baja\nLaya jwng, laya jwng -2\nKhwmsini btrakhou swlwnga jwng\n",
       "tags": [
         "Bodo",
@@ -415,15 +443,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 26,
-      "date": "2025-05-04T07:35:06.166Z"
+      "key": "C"
     },
     {
       "id": "842ba86e-ba94-4c3e-b6ac-2392eb2557b6",
+      "serialNumber": 27,
       "title": "Dinwini be dibosha, Bibar badi somaina",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:35:34.008Z",
+      "composeDate": "2021-11-01",
       "lyrics": "Dinwini be dibosha, Bibar badi somaina\nJwngkhou fwjakhangw, Jwngkhou thulungayw-2\n(A)\nBifang, Bibar, bithaibw thaiyw, Daosen daolafwrbw Bafwiyw\nFwrbuni mungwi gabjrikhaow, Be buhuma somaiswtharw -2\n(B)\nGwthar bibelkhou bujinw hayw, Dhwrwm lamakhou sinai hayw\nGwthar Jiua basa lafwiyw, Jwbnw gwiywi jiu mwnkhatharw-2\n(C)\nDukhu somaobw Banjaifwyw,  Andaibwla lama dinthiyw\nSudem bara suglaihwfwyw, Hajw halabw rongzakhangw-2\n",
       "tags": [
         "BODO",
@@ -431,15 +460,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "2021-11-01",
       "version": "Standard Version",
-      "serialNumber": 27,
-      "date": "2025-05-04T07:35:34.008Z"
+      "key": "C"
     },
     {
       "id": "191a710a-8358-4603-997a-05a44ef585f3",
+      "serialNumber": 28,
       "title": "Dinwini be soma",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:35:51.547Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Dinwini be soma -2\nKhwmsi dorsi ni din,\ngithao-bathao be mulug-a\n(A)\nBekheo nwngni megon khou,\nnaihor nwng be mugakhou -2\nBar hungka fwr baidi, bangrim fwr baidi\n“Swrgwmbwgou honwi” -3  Swrgwmbwgou\n(B)\nKalvari-ni Krushnifri,\nswdwb mwnse honwi jabwgou -2\nTham-tim jadw hwnnanwi,\ngwsw swlaidw hwnnanwi\n“Swrgwmbwgou honwi” -3  Swrgwmbwgou\n",
       "tags": [
         "Bodo",
@@ -447,15 +477,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 28,
-      "date": "2025-05-04T07:35:51.547Z"
+      "key": "C"
     },
     {
       "id": "81f717ca-1750-46fd-8547-562a699262c4",
+      "serialNumber": 29,
       "title": "Dinwini dina bese somaina",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:36:34.565Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Dinwini dina bese somaina\nFwi jwng rongjani -2\n(A)\nDinwi subunga, gwswkhangdwng nwngkhou\nDinwi subunga, gsomaihwdwng nwngkhou -2\n(B)\nGwthar dibosao, fwrwng Phwrbu nwngni rao\nGwthar dibosao, hepajab hw jwngnw -2\n",
       "tags": [
         "BODO",
@@ -463,15 +494,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 29,
-      "date": "2025-05-04T07:36:34.565Z"
+      "key": "C"
     },
     {
       "id": "e512918b-ad3a-40e7-af3a-5027790e6673",
+      "serialNumber": 30,
       "title": "Dorshi khwmsi jabwgou, be buhumni bicayao",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:36:55.732Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Dorshi khwmsi jabwgou, be buhumni bicayao\nBarhunka bw barbwgou, bwi nuhornai krusnifai -2\n(A)\nSanso haywi dukhu swina \nBangarbai nwng papni biban -2\nThanki dongwmwn gwthar bijabao\nSakhi domgwmwn gwthar bijab -2\n(B)\nPapni mulug khou basainai khai\nSwiya Porbu nwng khou be songsara -2\nMithiya Porbu nwngkhou dinwi\nBaogar langbai be muluga -2\n\n",
       "tags": [
         "Bodo",
@@ -479,15 +511,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 30,
-      "date": "2025-05-04T07:36:55.732Z"
+      "key": "C"
     },
     {
       "id": "be1f1fb2-0466-4af6-8cc5-f338a7a90ace",
+      "serialNumber": 31,
       "title": "Dui hazzar bwswrni sigangao",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:37:09.239Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Dui hazzar bwswrni sigangao\nSwithw jugni amwlnw goali no-ao, goali no-ao \nNo-bang gwiya badi mwswuni goaliao jwnwm labai -2\n(A)\nDongkhayw mwn Nabifwrni Bijabao -2\nDongkha tharwmwn,Dongtharkaywmwn\nLerjakhadwng mwn, dinthi jadwng mwn -2\n(B)\nHathorkia lingbwbai Gwnwkhwfwrkhou -2\nMwswu goliao, naodra sayao\nGugrup khulumbai, Jiuni Rajakhou -2\n(C)\nNeywi neywi nuaswi Simion-a -2\nJisu gothokhou bamnw mwnaswi\nBamnw mwnanwi, rongzaswa swi -2\n",
       "tags": [
         "Bodo",
@@ -496,15 +529,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 31,
-      "date": "2025-05-04T07:37:09.239Z"
+      "key": "C"
     },
     {
       "id": "7b5d4b20-b2a4-4337-bdf2-fc50903aaa27",
+      "serialNumber": 32,
       "title": "Fungzani dinwi honwi",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-09-29T16:06:32.784Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Fungzani dinwi honwi\nDaoma-daosa birnai jwng -2\nSana swrangbwgwu honwi\nBwthwra nujabwgwu -2\n(A)\nSukhu-dukhuni bwthwr jagwn\nRongza-miniwi dwidenbaogwn -2\nHangkrayw jwng nwngkhwu\nBorayw jwng nwngkhwu -2\n",
       "tags": [
         "Bodo",
@@ -512,30 +546,32 @@
       ],
       "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/53045a7a-1b5a-4e84-a4f6-a8b20df46c8e.m4a",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 32,
-      "date": "2025-09-29T16:06:32.784Z"
+      "key": "C"
     },
     {
       "id": "9fb23ac9-bbb9-425e-b5cc-fb7315d80410",
+      "serialNumber": 33,
       "title": "Fwithargou-2 Jisua fwithargou",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:37:43.276Z",
+      "composeDate": "2020-08-20",
       "lyrics": "Fwithargou-2 Jisua fwithargou\nThamtim ja-2 Jisujwng thangfanw -2\nGaojwng gaobw onjlaidw\nDai fwrkhoubw khema hwdw -2\n(De khema hwdw de)\n(A)\nGwrbw khamgli nanwi\nBika souwi-souwi\nFwidw fwi Iswrnao -2\n(De fwifinthardw de)\n(B)\nWi subung harifwr\nPhapjwng gelenaifwr\nFwidw de fwi Iswrnao -2\n(De fwifinthardw de) \n",
       "tags": [
         "Bodo"
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "2020-08-20",
       "version": "Standard Version",
-      "serialNumber": 33,
-      "date": "2025-05-04T07:37:43.276Z"
+      "key": "C"
     },
     {
       "id": "49f87414-efd2-4b79-9678-24a564ef5b1f",
+      "serialNumber": 34,
       "title": "Fwrbuni mungwi sofwinai subung",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:38:09.052Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Fwrbuni mungwi sofwinai subung\nJiuni nangoukhou hastainai subung – 2\nJwng hambai hwnw rwja-rwja\nPhwrbuni mungwi borai layw - 2\n(A)\nGaswi nangou fwrkhou, jrab garnanwi\nGaswi hengta fwrkhou baogarnanwi – 2\nSofwi habai dinwi be langwnao - 2\n(B)\nJiuni gangnai arw unkwinaikhou\nPhwrbu Jisuniao swfungjanw – 2\nSofwi habai dinwi be langwnao - 2\n",
       "tags": [
         "BODO",
@@ -543,15 +579,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 34,
-      "date": "2025-05-04T07:38:09.052Z"
+      "key": "C"
     },
     {
       "id": "18686984-349d-436e-a611-c334ab117512",
+      "serialNumber": 35,
       "title": "Gaoba gao krush banna nwngswr",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:38:23.781Z",
+      "composeDate": "2021-06-25",
       "lyrics": "Gaoba gao krush banna nwngswr\nDhwrwmni lamayao agan surdw -2\nKapalao Bikayao Jwngha Krushni Hangkw-4\n(A)\nNwngswr sinai janai nonthara\nKrushni biban banna bla-2\nSushra Jadw arw phusob jadw-2\n(B)\nNwngswr papjwng dagele thar swi\nNonga bla adri jagwn -2\nSushra Jadw arw phusob jadw-2\n",
       "tags": [
         "Bodo",
@@ -559,15 +596,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "2021-06-25",
       "version": "Standard Version",
-      "serialNumber": 35,
-      "date": "2025-05-04T07:38:23.781Z"
+      "key": "C"
     },
     {
       "id": "c8ab75fa-572d-44dd-98a4-3102facc1f2a",
+      "serialNumber": 36,
       "title": "Garangsewi thangkisewi",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:38:47.452Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Garangsewi thangkisewi\nRwjab Halleluiya Hossanna -2\nSubungni raja, Buhumni raja\nRongza boibw rongza -2\n(A)\nHonwi naihor Menda bisaya\nGadha bisayao daogabwgou\nSomaihwdwng subung hanzaya\nBifang bilaijwng somaihwdwng -2\nSubungni raja, Buhumni raja\nRongza boibw rongza -2\n",
       "tags": [
         "Bodo",
@@ -575,15 +613,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 36,
-      "date": "2025-05-04T07:38:47.452Z"
+      "key": "C"
     },
     {
       "id": "af340c62-dfdf-45d7-8ba4-d15f292ea662",
+      "serialNumber": 37,
       "title": "God's have no impossible",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:39:13.820Z",
+      "composeDate": "0001-01-01",
       "lyrics": "God's have no impossible -2\nJesus Christ is the resurrection and the life -2\n(A)\nWokeup and be glad\nJesus Christ rose today -2\nAt dawn from the death -2\nJesus Christ never die\nHe is mighty and strong\nHe is alive , He is alive\n",
       "tags": [
         "English",
@@ -591,15 +630,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 37,
-      "date": "2025-05-04T07:39:13.820Z"
+      "key": "C"
     },
     {
       "id": "3e68c65b-a99a-4284-b8d2-b9fc0cbae3cd",
+      "serialNumber": 38,
       "title": "Gwdan okhwrang, San arw okhafwr",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:39:32.180Z",
+      "composeDate": "2015-12-15",
       "lyrics": "Gwdan okhwrang, San arw okhafwr\nBar sandung okha\nHwbaobai nwng, wrwinw jwngnw\nDinwi be gwdan bwthwr – 2\n(A)\nRongja-2 hanja -2 \nFwi jwng rongjaswnwni\nGwsw hwnanwi, Bakhnaini fwi \nSwrjigiri Afakhou -2\n(B)\nDita hwdw, dwiden baodw\nJwnkhou alw alw\nNimaha hw, gaswi papkhou\nGwdanwi dwiden baodw - 2\n",
       "tags": [
         "Bodo",
@@ -607,15 +647,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "2015-12-15",
       "version": "Standard Version",
-      "serialNumber": 38,
-      "date": "2025-05-04T07:39:32.180Z"
+      "key": "C"
     },
     {
       "id": "ee1776e9-29c0-40ac-95c5-5cbf8f94dd8f",
+      "serialNumber": 39,
       "title": "Gwila bwi dina",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:39:50.172Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Gwila bwi dina -2\nRuju- rumu raijw janaya\nRongza-rongza dhwrwm sibinaia -2\n(A)\nGwdw dongomwn sibinai-ginai\nGaojwng-gao hengta thayamwn\nDukhu-nidanao, khwifwd-afwdao\nBoikhoubw lwgw mwnwmwn -2\nWi   subung hari, manwthw khwmalangkhw -2\n",
       "tags": [
         "BODO",
@@ -623,30 +664,32 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 39,
-      "date": "2025-05-04T07:39:50.172Z"
+      "key": "C"
     },
     {
       "id": "fe226aa1-a0a3-403b-8b4f-afcf01194aac",
+      "serialNumber": 40,
       "title": "Gwjwn sudem bwi swrgw-ao",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:40:12.494Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Gwjwn sudem bwi swrgw-ao\nArphofra dinwi rongzadwng -2\n(A)\nDukhuni lwithw khou nwng derhananwi\nSwrgw Bifani thangki jafung hwbai -2\nBekainw dinwi swrgw Bifaya\nDor khou kheonan hwbai -2\n(B)\nGwjwn hwnan jwngkhou banjainanwi\nSwrgw Bifani serao dwnnw thakwi -2\nThangbai nwng bwi gwjwn swrgwao\nBifanw khwnta hwinw -2\n",
       "tags": [
         "Bodo"
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 40,
-      "date": "2025-05-04T07:40:12.494Z"
+      "key": "C"
     },
     {
       "id": "c16831b7-0eb4-444a-9e29-9a016299b8d0",
+      "serialNumber": 41,
       "title": "Gwthar Gwthar Sandayschool san",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:40:30.244Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Gwthar  Gwthar\n Sandayschool san- sandayschool san\n“Dinwi bese rongzanai” -2\n(a)\nRongzagwn jwng, rwjabgwn jwng -2\nDinwini be dibosao\n(b)\nPhorai boibw khwnta boibw -2\nGwthar Bibleni batra\n",
       "tags": [
         "BODO",
@@ -654,15 +697,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 41,
-      "date": "2025-05-04T07:40:30.244Z"
+      "key": "C"
     },
     {
       "id": "5e16f273-cf11-4794-86d1-5f6d8149b824",
+      "serialNumber": 42,
       "title": "Hamesha ekta ki bandhan mein",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:40:51.038Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Hamesha ekta ki bandhan mein\nHamesha ekta ki chhatra chhaya mein -2\nHam khilenge phool, phool khilenge ham -2\nPrabhu tere bagano mein\n(A)\nChahe ham jitne bhi door rahe\nTere hi nigahon se (door na hate-2) -2\n",
       "tags": [
         "Hindi",
@@ -671,15 +715,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 42,
-      "date": "2025-05-04T07:40:51.038Z"
+      "key": "C"
     },
     {
       "id": "8c19d30f-1ca2-4f88-9fdf-2653fc2e4989",
+      "serialNumber": 43,
       "title": "He amar Ishwar, he amar Rajon ",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:41:20.796Z",
+      "composeDate": "0001-01-01",
       "lyrics": "হে আমার ঈশ্বর, \nহে আমার রাজন -2\n(A)\nবাক্য তোমার শক্তিমান\nসৃষ্টি করেছো এ জগৎ\nহস্ত তোমার পরাক্রমী\nসৃষ্টি করেছো মানব -2\n(B)\nদিন প্রতিদিন তোমার নামের\nধন্যবাদ করিব\nযুগে যুগে তোমার নামের\nপ্রশংসা গাহিব।\n\n\n\n\n\n\n\n\n\n\n\nHe amar Ishwar, he amar Rajon -2\n(A)\nBokto tomar shoktiman\nShrishti korecho e jagot\nHath tomar porokromi\nShrishti korecho manob -2\n(B)\nDin protidin tomar nam er\nDhonnobad koribo\nJuge juge tomar nam er\nProshonsho gahibo\n",
       "tags": [
         "Bengali",
@@ -687,15 +732,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 43,
-      "date": "2025-05-04T07:41:20.796Z"
+      "key": "C"
     },
     {
       "id": "420bb5b6-0b6e-427d-9fcb-5631fb4a4005",
+      "serialNumber": 44,
       "title": "He bisso bidhata tumi amay ",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:41:43.256Z",
+      "composeDate": "0001-01-01",
       "lyrics": "হে বিশ্ব বিধাতা তুমি আমায়-2\nনিয়ে চলো তোমার আলোয়\nতোমার জয়ো গান গাহিব, প্রভুগো -2\n(A)\nস্থির করেছি তোমার পদ চিহ্নে চলিব\nসদাপ্রভুর ভয় জানি জ্ঞানের আরম্ভ -2\nচিত্তে, কণ্ঠে প্রার্থনাতে তোমায় স্মরিব -2\n(B)\nপাপি আমি অজ্ঞ প্রভু তোমার সম্মুখে\nতবুও প্রভু ধৈর্য্য ধরো আমার প্রতি হে -2\nচিত্তে, কণ্ঠে প্রার্থনাতে তোমায় স্মরিব -2\n\n\n\n\n\n\n\nHe bisso bidhata tumi amay -2\nNiye cholo tomar aloy\nTomar jayo gan gahibo, Prabhu go -2\n(A)\nSthir korechi tomar pod chinhe chalibo\nSadaprabhur bhoy jani jnaner arambh -2\nChitte, kanthhe prarthanate tomay smaribo -2\n(B)\nPapi ami ajna Prabhu tomar sammukhe\nTabu Prabhu dhiryo dhoro amar prati he -2\nChitte, kanthhe prarthanate tomay smaribo -2\n",
       "tags": [
         "Bengali",
@@ -704,15 +750,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 44,
-      "date": "2025-05-04T07:41:43.256Z"
+      "key": "C"
     },
     {
       "id": "9e7c61f9-d05d-4c6d-b13c-8930c4abc865",
+      "serialNumber": 45,
       "title": "He chir mangalmoy tumi dhonno",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:41:59.058Z",
+      "composeDate": "0001-01-01",
       "lyrics": "হে চীর মঙ্গলময় তুমি ধন্য\nধন্য তুমি ধন্য\n(A)\nআদিতে ছিলে তুমি এখনো আছো\nযুগে-যুগে তুমি থাকবে -2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHe chiro mangalmoy tumi dhonno\nDhonno tumi dhonnobad\n(A)\nAdite chhile tumi, ekhono acho\nJuge-juge tumi thakbe -2\n",
       "tags": [
         "Bengali",
@@ -720,15 +767,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 45,
-      "date": "2025-05-04T07:41:59.058Z"
+      "key": "C"
     },
     {
       "id": "9cd5149a-d00a-4615-aeee-ab7a43914adb",
+      "serialNumber": 46,
       "title": "He Prabhu Bipode apode bhara",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:42:26.263Z",
+      "composeDate": "2015-11-12",
       "lyrics": "হে প্রভু . . .\nবিপদে আপদে ভরা, এইতো হল ধরা\nএরই মাঝে আছি আমরা -2\n(A)\nগত দিন গুলিতে কত সুখে ছিলাম -2\nকিন্তু আজ আর সেই দিন নেই।\nখুঁজিতে খুঁজিতে কোথায় যে গেলাম -2\nশেষে দেখি জীবনে আর দিন নেই।\nএই প্রাণের যে শ্বাস তার নেই যে বিশ্বাস\nআজ আছে তার কাল যেন নেই -2\n(B)\nজানেনা মানেনা কত কি বোঝেনা -2\nতবু প্রভু তোমায় মনে পড়ে না।\nকারও পাপের বোঝা কেউ বহিবে না -2\nকারও পূণ্য কেহ কারিবে না\nহে প্রভু হে প্রভু কত না বলিবে\nকিন্তু তাতে কোন ফল যেন নেই-2\n\n\n\n\n\n\n\n\n\n\n\n\nHe Prabhu . . .\nBipode apode bhara, eito hol dhora\nEri majhe achi amra -2\n(A)\nGoto din gulite koto sukhe chhilam -2\nKintu aj ar shei din nei.\nKhujite khujite kothay je gelam -2\nSheshe dekhi jibone ar din nei.\nEi praner je shaas tar nei je bishas\nAj ache tar, kal jeno nei -2\n(B)\nJani na mani na koto ki bujhina -2\nTabu Prabhu tomay mone pore na.\nKaro paper bojha keo bohibe na -2\nKar puno keho karibe na.\nHe Prabhu he Prabhu koto na bolibe\nKintu tate kon phol jeno nei -2\n",
       "tags": [
         "Bengali",
@@ -739,15 +787,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "2015-11-12",
       "version": "Standard Version",
-      "serialNumber": 46,
-      "date": "2025-05-04T07:42:26.263Z"
+      "key": "C"
     },
     {
       "id": "ae5196da-d06a-4a69-a146-1321e3fad3f9",
+      "serialNumber": 47,
       "title": "Hossanna  -4, Halleluiya   -4",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:42:42.236Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Hossanna  - - -4, Halleluiya   - - - 4\nJerusalemni Raja / . . . Hossanna\nJihudi fwrni Raja  / . . . Hossanna\nJisrael ni  Raja  / . . . Hossanna\nSubungfwrni  Raja  / . . . Hossanna\nSwrgwpurini  Raja  / . . . Hossanna\nJwngni jiuni  Raja  / . . . Hossanna\nRajafwrni  Raja  / . . . Hossanna\nGwthar fwrni  Raja  / . . . Hossanna\nPapifwrni  Raja  / . . . Hossanna\nDwhwrwmiani  Raja  / . . . Hossanna\nNazarethni  Raja  / . . . Hossanna\nGalil ni  Raja  / . . . Hossanna\n",
       "tags": [
         "Bodo",
@@ -755,15 +804,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 47,
-      "date": "2025-05-04T07:42:42.236Z"
+      "key": "C"
     },
     {
       "id": "d3a926ef-7c89-4a2e-98eb-1ca918dc6f11",
+      "serialNumber": 48,
       "title": "Hossanna Halleluiya",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:42:55.230Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Hossanna Halleluiya  -4\n“Bwi jerusalemni gwthar mwndira\nManwba rongza khandwng “-2\n(A)\nPapi buhum khou fwjakhangnw\nGwmanai subung khou naigirfinnw -2\nDaogabwgou gada bisayao  daogabwgou -2\n(B)\nKhwmse hadorkhou swrang hwnw\nHaoria gwsw khou gwjwn hwnw -2\nDaogabwgou gada bisayao  daogabwgou -2\n",
       "tags": [
         "Bodo",
@@ -771,15 +821,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 48,
-      "date": "2025-05-04T07:42:55.230Z"
+      "key": "C"
     },
     {
       "id": "7028224f-2367-4e3e-909a-41a0346037e4",
+      "serialNumber": 49,
       "title": "Immanuel jwngni Isor",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:43:13.179Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Immanuel jwngni Isor -4\nPapifwrkhou basainw jwnwm labai be\nBwithelhemni bwi goali no-ao-2\n(A)\nRaobw gwijaya Nwngha\nBe buhum bikayao -2\nBima-Bifa arw Jiuni Raja -2\nBwithelhemni bwi goali no-ao\n",
       "tags": [
         "BODO",
@@ -787,30 +838,32 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 49,
-      "date": "2025-05-04T07:43:13.179Z"
+      "key": "C"
     },
     {
       "id": "2f0e5bda-1b56-4549-ac59-416f2c12d635",
+      "serialNumber": 50,
       "title": "Ishu bulauchhan sabailai ",
       "composer": "xxxxxxxxxxxxxx",
+      "date": "2025-05-04T07:43:55.803Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Yeshu bulauchhan sabailai -2\nPrem sath bulauchhan angalomaa unko\n'Yeshu bulauchhan sabailai -2\n(A)\nHriday timro hatas bhayo, shanti cha tim laagi -2\nMuktiko jyoti tim laagi, Ishu kaha linu aaja -2\n(B)\nSab rog lai niko parne, shakti cha unai kaha -2\nMuktiko jyoti tim laagi, pyar garnu sada timilai -2\n",
       "tags": [
         "Nepali"
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 50,
-      "date": "2025-05-04T07:43:55.803Z"
+      "key": "C"
     },
     {
       "id": "ec9cff8c-4547-43a7-a9ba-08a7c0097312",
+      "serialNumber": 51,
       "title": "Iswra onkhang baobai",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:44:16.851Z",
+      "composeDate": "2021-12-07",
       "lyrics": "Iswra onkhang baobai -2\n“Gwdan bwswr jwngnw hwbai\nFwrbukhou hambai bwnw”-2\n(A)\nRongja-mini mwsani de \nDinwi gwdan bwthwrao\nPap mani khou garnanwi\n Fwidw dhwrwm lamayao-2\n\n“Bese somaina be san hatorkhi\nKhwlw-Khwlw bar gwjwn sudem”-2\n(B)\nGwdan gwsw lananwi \nPhwrbu khou jwng sibigwn\nNwngni guar gangkhongao\nGojobdw jwng boikhoubw\n\n“Bese somaina be san hatorkhi\nKhwlw-Khwlw bar gwjwn sudem”-2\n",
       "tags": [
         "Bodo",
@@ -818,15 +871,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "2021-12-07",
       "version": "Standard Version",
-      "serialNumber": 51,
-      "date": "2025-05-04T07:44:16.851Z"
+      "key": "C"
     },
     {
       "id": "56940562-42d4-4910-b3c7-0eff178f26c6",
+      "serialNumber": 52,
       "title": "Je Dharmik Apon Shiddhotai Chole",
       "composer": "Mrinal Iswarari",
+      "date": "2025-05-04T07:44:40.379Z",
+      "composeDate": "2025-04-01",
       "lyrics": "Ch-\nযে ধার্মিক আপন সিদ্ধতায় চলে -২\nতাহার সন্তানেরাও সিদ্ধতায় চলিবে-২\n(১)\nআপন প্রাণের বিরুদ্ধে পাপ করিও না\nতুমি কারোও সাথে ঈর্শা বিবাদ করিও না-২\nহিংসা-দ্বন্দ, হানা-হানি আর করিও না\nপ্রভুর প্রেমে আপন কর ছুড়ে ফেলো না -২\n(২)\nযে দরীদ্রকে কৃপা করে\nঋণ দেয় সে সদাপ্রভুকে\nযে দান করে ঈশ্বরের ভান্ডারে\nসহশ্র গুণে পাইবে সে পরে -২\nCh-",
       "tags": [
         "Bengali",
@@ -834,15 +888,16 @@
       ],
       "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/62613756-6b23-4305-bc64-0e91a3847692.mp3",
       "audioType": "audio",
-      "composeDate": "2025-04-01",
       "version": "Scratch reference",
-      "serialNumber": 52,
-      "date": "2025-05-04T07:44:40.379Z"
+      "key": "C"
     },
     {
       "id": "efbd78a0-777f-4f23-b27a-c205305bdca4",
+      "serialNumber": 53,
       "title": "Jerusalem er oi pobitro pathe ",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:44:57.476Z",
+      "composeDate": "0001-01-01",
       "lyrics": "যীরুশালেমের ঐ পবিত্র পথে -2\nদেখো সঙ্গীত গায় খেজুর বিছায়\n'ত্রানকর্তার অপেক্ষায় -2\n(A)\nদেখো যিনি আসিতেছেন, গর্দ্ধবারোহি হয়ে\nদ্বার খুলে দাও হৃদয়ের দ্বার, প্রবেশিবেন তিনি -2\n(B)\nজন্ম যাহার গোশালাতে, আবাস তাহার হৃদয়ে\nদূর করিবেন সব দুরাচার, চীর নুতন করে -2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJerusalem er oi pobitro pathe -2\nDekho shongit gay khejur bichay\n'Tranokartar opekkhay -2\n(A)\nDekho jini asitechen, gordhabarohi hoye\nDwar khule dao hridoyer dwar, probeshiben tini -2\n(B)\nJonmo jahar goshalate, abash tahar hridoye\nDur koriben shob durachar, chir nuton kore -2\n",
       "tags": [
         "Bengali",
@@ -850,15 +905,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 53,
-      "date": "2025-05-04T07:44:57.476Z"
+      "key": "C"
     },
     {
       "id": "39102ebd-cfad-4075-be51-e61e8e282965",
+      "serialNumber": 54,
       "title": "Jibon jol dao Prabhu tumi amay ",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-09-30T08:16:50.443Z",
+      "composeDate": "0001-01-01",
       "lyrics": "জীবন জল দাও প্রভু তুমি আমায় -2\nকর প্রভু আশীর্বাদ -2\n(A)\nযেখানে যাই প্রভু তোমাকেই চাই\nযেখানে থাকি প্রভু তোমাকে রাখি -2\nপ্রভু আমার, ঈশ্বর আমার -2\n(B)\nআকাশ-বাতাশ প্রভু তোমাকে জানে\nপাথার-পাহাড় প্রভু তোমাকে চেনে -2\nথাকবে তুমি যুগে যুগে -2\n\n\n\n\n\nJibon jal dao Prabhu tumi amay -2\nKoro Prabhu ashirbad -2\n(A)\nJekhane jai Prabhu tomay chai\nJekhane thaki Prabhu tomay rakhi -2\nPrabhu amar, Ishwar amar -2\n(B)\nAkash-batash Prabhu tomay jane\nPathar-pahar Prabhu tomay chene -2\nThakbe tumi juge juge -2\n\n",
       "tags": [
         "Bengali",
@@ -866,30 +922,32 @@
       ],
       "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/c8287292-ad8d-4c14-be5d-6393b65db382.m4a",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 54,
-      "date": "2025-09-30T08:16:50.443Z"
+      "key": "C"
     },
     {
       "id": "8c99ae40-e9db-4b38-9843-c5ef3adc4e1e",
+      "serialNumber": 55,
       "title": "Jibon jaler dhare amay chorao",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:45:35.788Z",
+      "composeDate": "0001-01-01",
       "lyrics": "জীবন জলের ধারে আমায় চড়াও\nতোমার ইচ্ছা মত চড়ো সদাপ্রভু,\nআমার এই ক্ষুদ্র জীবন -2\n(A)\nএ জীবন মন সদাপ্রভু তোমার স্মরনাগত\nআমার প্রতি সুধু একবার দৃষ্টি ফেরাও হে প্রভু -2\n(B)\nএই দু চোখে দেখেছি প্রভু তোমারি সৃষ্ট জগৎ\nএই জীবনে পেয়েছি প্রভু তোমার অমর আত্মা -2\n\n\n\n\n\n\n\n\n\nJibon jaler dhare amay chorao\nTomar ichcha mat charo Sadaprabhu,\nAmay ei kshudra jibon -2\n(A)\nE jibon mon Sadaprabhu tomar smaranagat\nAmar prati sudhu ekbar drishti ferao he Prabhu -2\n(B)\nEi du chokhe dekhechi Prabhu tomar srishti jagat\nEi jibone peyechhi Prabhu tomar amar atma -2\n",
       "tags": [
         "Bengali"
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 55,
-      "date": "2025-05-04T07:45:35.788Z"
+      "key": "C"
     },
     {
       "id": "0a9e22c6-d052-453f-9fb3-b460abbe0e21",
+      "serialNumber": 56,
       "title": "Jisu amader shokti dao",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:45:58.451Z",
+      "composeDate": "0001-01-01",
       "lyrics": "যীশু আমাদের শক্তি দাও\nআশীর্বাদ তুমি ঢেলে দাও\nদুর্বল মোরা বিশ্বাসে\nকর্ণপাত কর প্রার্থনতে\nধন্য প্রভু ধন্য\nজয় জয় প্রভু জয় জয়\n\n\n\n\n\n\n\n\n\n\nJisu amader shokti dao\nAshirbad tumi dhele dao\nDurbal mora bishwashe\nKornopat koro prarthanate\nDhonnobad Prabhu dhonnobad\nJoy joy Prabhu joy joy\n",
       "tags": [
         "Bengali",
@@ -898,15 +956,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 56,
-      "date": "2025-05-04T07:45:58.451Z"
+      "key": "C"
     },
     {
       "id": "8efaea4f-b692-4676-b4a0-95508a6cdade",
+      "serialNumber": 57,
       "title": "Jisu Jisu Jisu Gotho",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:46:18.028Z",
+      "composeDate": "2021-09-01",
       "lyrics": "Jisu Jisu Jisu Gotho\nSari Sari Sari Jabai -2\nBwithelhemao, Goaliao, Naodra sayao\n(A)\nJerusalem ni , David nwgwrao\nBwithelhemni goali Noyao -2\nSari fwibbai basaigiria-2\nBwithelhemao…….\n(B)\nSuhab gwthou hor, Sakkhi olongbar\nArphoni radabjwng fwibai laokhar fwr-2\nArw fwibaobai Gwnwkhw fwr -2\nBwithelhemao……\n",
       "tags": [
         "BODO",
@@ -914,45 +973,48 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "2021-09-01",
       "version": "Standard Version",
-      "serialNumber": 57,
-      "date": "2025-05-04T07:46:18.028Z"
+      "key": "C"
     },
     {
       "id": "6fe3810c-1fc8-4db4-b906-b7fc70340637",
+      "serialNumber": 58,
       "title": "Jisua lenghordwngswi",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:46:36.716Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Jisua lenghordwngswi, gaowijwng lwgwse -2\nJiuni derayao -2\n(A)\nLubwinai dongwmwng, gwbangthar songsarao\nMabwrwi ang derhasart janw\nDukhuni dwikhongao, ang gabrobl\nSwr dongw angkhou bwkhangnw -2\nOh . . Porbu, Nwngnw jiu, nwngnw lama arw swithwa-2\n(B)\nMwdwi nonga be, onnaini nerswnsw\nZion harikhou sushrang hagra\nThwi nonga be papni suthur sw\nKhwmsi songsarao bekheosart janai -2\nBenw  hagou nwng papni suthurjwng daoha hwnw -2\n",
       "tags": [
         "Bodo"
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 58,
-      "date": "2025-05-04T07:46:36.716Z"
+      "key": "C"
     },
     {
       "id": "d4be8a7b-a5d9-4957-91e4-d7ec155685dd",
+      "serialNumber": 59,
       "title": "Jiuni janw nangou khou",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:46:51.676Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Jiuni janw nangou khou\nJisuniao sw mwnw\nFwidw boibw Phwrbu Jisu niao – 2\n(A)\nBoini Khurwi sabsin-hamsin\nJwng Bifa Isorni bisafwr – 2\nJebw ankal gwiya\nJwngha thwyi gwiya – 2\n(B)\nJwng Jisuni akhai homna\nIswrni raijwao habhwigwn – 2\nRaobw homta haya\nJwngkhou hwpta haya – 2\n",
       "tags": [
         "Bodo"
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 59,
-      "date": "2025-05-04T07:46:51.676Z"
+      "key": "C"
     },
     {
       "id": "4f652c18-79c4-420d-9853-b113930125bd",
+      "serialNumber": 60,
       "title": "Jo cruse par kurbaan",
       "composer": "xxxxxxxxxxxxx",
+      "date": "2025-05-04T07:47:08.420Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Jo cruse par kurbaan, o mera Masiha hai\nHar zakhm jo uska hai, o mere gunah ka hai -2\n-1\nIs duniya mein le aaye, (mere gunah usko -2)\nYe zulm sitam us par, (maine hi karaya hai -2)\n-2\nInsan hai wo kabil, (aur sachcha Khuda wo hai -2)\nO pyar ka dariya hai, (sachchai ka rastaa hai -2)\n-3\nDene ko tujhe jeevan, (khud mot se hi usne -2)\nKya khub hai kurbaani, (kya pyar anokha hai -2)\n",
       "tags": [
         "Hindi",
@@ -960,30 +1022,32 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 60,
-      "date": "2025-05-04T07:47:08.420Z"
+      "key": "C"
     },
     {
       "id": "d7c2c108-afaa-41e4-9c47-67b7c19498e1",
+      "serialNumber": 61,
       "title": "Jwng bifangni dalai janai khai",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:47:33.675Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Jwng bifangni dalai janai khai\nGwjwnnai mwnw\nJwng Isorni bisa janai khai\nRongzanai mwnw\nSwithw arw dhwrwmni huda\nDongo jwngni sibithili ao\n",
       "tags": [
         "Bodo"
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 61,
-      "date": "2025-05-04T07:47:33.675Z"
+      "key": "C"
     },
     {
       "id": "99330b66-9537-4e07-ba03-e7d4d26dad34",
+      "serialNumber": 62,
       "title": "Jwnglai bima-bifani fwswn lagwn",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:47:56.051Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Jwnglai bima-bifani fwswn lagwn\n\"Swlwngwn jwng Isornibw rao\"-2, -2\n(B)\nSomaihwdw jwngkhou\nNwngni mohimajwng -2\nSwithw dhwrwmni swrang lamajwng\nDwiden jwngkhou alw-gwjwn -2\n(B)\nOh ! Bima-Bifa fwr  \nGwsw Swlaidw nwngswr -2\nSwrgwni raijwao Afa Isorjwng\nRongza-baja lwgwse thani -2\n",
       "tags": [
         "Bodo",
@@ -991,15 +1055,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 62,
-      "date": "2025-05-04T07:47:56.051Z"
+      "key": "C"
     },
     {
       "id": "37903ad2-7441-4783-9dcb-202a171c88b5",
+      "serialNumber": 63,
       "title": "Khugajwng gwswjwng  sannai maonai jwng",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:48:17.089Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Khugajwng gwswjwng  sannai maonai jwng\nJwng nwngni sigangao udayee jabai -2\nJwngkhou nimaha hwdw -2\n(A)\nJwng papi blabw, simang nuyw jwng\nSwrgwao Arphoni gelenaikhou\nJwng rwnga blabw, hastayw jwng\nDhwrwm huda badi khulumlangnw -2\nJwngni binaikhou nwng khwnasongdw\nJwngkhou nwngni serao dwn -2\n",
       "tags": [
         "Bodo",
@@ -1007,15 +1072,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 63,
-      "date": "2025-05-04T07:48:17.089Z"
+      "key": "C"
     },
     {
       "id": "cea86075-44ce-4d4d-99ae-12815d9a304a",
+      "serialNumber": 64,
       "title": "Khwlw khwlw, Alw-alw",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:48:36.003Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Khwlw khwlw, Alw-alw\nRongza -rongza, hanza-hanza -2\nGwsw khwuse jwngha, Jiu-a mwnse jwngha -2\n(A)\nGwswanw jwngha birkhangw\nJiuanw jwngha mwsaglangw -2\nPhwrbu be jiua nwngni\nSusradw wdhwrwm jwngni -2\nGole-gole gabjriyw jwng, Phwrbu nwngkhou\n(B)\nPhwrbuni thwnnaikhou jwng lagwn\nPhwrbuni girjayao jwng thagwn -2\nSwithwkhou jwngbw hastayw\nDwhwmkhou jwngbw sibiyw -2\nSukhublabw dukhublabw, Jiuao gwkhrwng\n",
       "tags": [
         "Bodo",
@@ -1023,31 +1089,42 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 64,
-      "date": "2025-05-04T07:48:36.003Z"
+      "key": "C"
     },
     {
       "id": "ce3e34dd-7c85-4080-bd16-23b1c57cd2c6",
+      "serialNumber": 65,
       "title": "Khwnasongdw jwngni gabnai",
-      "composer": "Mrinal Iswarari ",
-      "lyrics": "Khwnasongdw jwngni gabnai\nJwng haoria alai-silai -2\nNwngni swrjinai gwsw-mwdwm-jiu\nNimaha hwdw jwngkhou -2\n(A)\nSubunga dhwrwmkhou baogarlangbai\nBifa Isorkhou lajihwbai -2\nGwmalangbai gwmwrlangbai\nGwjaolangbai bwi lwithwao -2\n(B)\nSubunga jiukhou khwmalangbai\nSongsarni dhwnkhou hastainanwi -2\nGwmalangbai gwmwrlangbai\nGwjaolangbai bwi lwithwao -2\n",
+      "composer": "Mrinal Iswarari",
+      "date": "2026-09-16",
+      "composeDate": "0001-01-01",
+      "key": "C",
+      "version": "Standard Version",
+      "audioType": "youtube",
+      "audioUrl": "https://youtu.be/_MyLHQKk6qE?si=2QbINKmBUQQ5F14I",
+      "audioSources": [
+        {
+          "id": "src-1",
+          "label": "YouTube Official Published Version",
+          "url": "https://youtu.be/_MyLHQKk6qE?si=2QbINKmBUQQ5F14I",
+          "type": "youtube",
+          "versionType": "youtube"
+        }
+      ],
       "tags": [
         "Bodo",
         "Prayer"
       ],
-      "audioUrl": "https://youtu.be/_MyLHQKk6qE?si=2QbINKmBUQQ5F14I",
-      "audioType": "youtube",
-      "composeDate": "0001-01-01",
-      "version": "Standard Version",
-      "serialNumber": 65,
-      "date": "2026-09-12T15:54:03.678Z"
+      "lyrics": "Khwnasongdw jwngni gabnai\nJwng haoria alai-silai -2\nNwngni swrjinai gwsw-mwdwm-jiu\nNimaha hwdw jwngkhou -2\n(A)\nSubunga dhwrwmkhou baogarlangbai\nBifa Isorkhou lajihwbai -2\nGwmalangbai gwmwrlangbai\nGwjaolangbai bwi lwithwao -2\n(B)\nSubunga jiukhou khwmalangbai\nSongsarni dhwnkhou hastainanwi -2\nGwmalangbai gwmwrlangbai\nGwjaolangbai bwi lwithwao -2"
     },
     {
       "id": "ff250ca3-7453-4263-8477-c84b997402db",
+      "serialNumber": 66,
       "title": "Maninang Christoni maothi bias",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:49:25.954Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Maninang Christoni maothi bias\nManinang subungkhow gumden giri -2\nBenw Krushni biban, Benw Jiuni thangki -2\n(a)\nMajwng somai hwnw jebw gwiya\nMajwng gwjwn hwnw jwng haoria\n“Jwng bibaiari” -2\n(b)\nGwsw mwdwm jiujwng borayw jwng\nOnnanwi najaodw O guru -2\n“Bwr hwdw jwngnw” -2\n",
       "tags": [
         "BODO",
@@ -1055,15 +1132,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 66,
-      "date": "2025-05-04T07:49:25.954Z"
+      "key": "C"
     },
     {
       "id": "4f83113b-4ed9-46c2-94a0-b76a8ac66b24",
+      "serialNumber": 67,
       "title": "Maninang Kristo maharini fwrwngiri",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:49:44.761Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Maninang Kristo maharini fwrwngiri\nSofwinw hanai be khwmsaliao -2\nGaoba gaoni besen gwsa somkhow\nJrab gargarnanwi nuja fwibai dinwi be thiliao -2\n(a)\nMa lananwi jwnglai somai hwnw\nMa hwnanwi jwnglai gwjwn hwnw -2\nGwsw gwrbwni khulumnaikhou najaodw\nSarsrwnan hwlangdw bwrni jhwri -2\n(b)\nDihunnan hw jwngnw mwnse raha\nThulunga hw jwngnw gosongtanw -2\nPhwthainayao jwngkhow fwgwmnanwi galangdw\nLukhanglangdw jwngkhow O guru -2\n",
       "tags": [
         "BODO",
@@ -1071,15 +1149,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 67,
-      "date": "2025-05-04T07:49:44.761Z"
+      "key": "C"
     },
     {
       "id": "8d99515b-9a10-4be2-a816-e3fe30571f1a",
+      "serialNumber": 68,
       "title": "Mwsaglangw anglai mwsaglangw",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:50:01.092Z",
+      "composeDate": "2018-12-15",
       "lyrics": "Mwsaglangw anglai mwsaglangw\nJisuni jwnwmao mwsaglangw\n(A)\nBwi David nwgwrni goki bwithelhemao\nMwdwu golini naodra sahao\n \nBwi hatorkia lama dinthidwng\nSanja desh ni gwnwkhw fwrkhou\n \nIswra esegrap onbai songsarkhou\nSaselo bisakhou jwngnw hwbai\n \nDukhu gwila jwngha daha gweila\nPhwrbuanw jwngkhou onkhang kabai\n \nJisu rajani sari janai jwng\nJwngbw jiao dinwi sari mwnbai\n",
       "tags": [
         "Bodo",
@@ -1087,30 +1166,32 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "2018-12-15",
       "version": "Standard Version",
-      "serialNumber": 68,
-      "date": "2025-05-04T07:50:01.092Z"
+      "key": "C"
     },
     {
       "id": "f208644e-006f-4f57-83d6-4ea342b73f6b",
+      "serialNumber": 69,
       "title": "Naya jeevan ko hamein de Prabhu",
       "composer": "A.Mochari & M. Iswarari",
+      "date": "2025-09-30T08:07:23.706Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Naya jeevan ko hamen de Prabhu\nTere pyar ko bhi de -2\nJaise ham tere saath chalun -2\n(A)\nHam hain paap se doobe hue insaan\nKaro tum hamen paritran -2\nJaise ham ho saken tera (insaan-3)\n(B)\nJab tum is duniya mein aoge\nSach-jhooth ka insaaf karoge -2\nJaise ham ho saken tera (insaan-3)\n",
       "tags": [
         "Hindi"
       ],
       "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/d11fc0bf-8d18-4f5e-932b-9d23e9a2e601.m4a",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 69,
-      "date": "2025-09-30T08:07:23.706Z"
+      "key": "C"
     },
     {
       "id": "08e48a15-f472-474b-a071-21be88ae540d",
+      "serialNumber": 70,
       "title": "Nwng gwjwn hwlang jwngnw",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:50:43.481Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Nwng gwjwn hwlang jwngnw\nNwng ashis hwlang jwngnw -2\n(a)\nKhwntalang Pwrbu jwngnw\nNwngni fwifinnai somkhou\nDinthilang fwrbu jwngnw\nNwngni dwnnai lamakhou -2\n(b)\nGejen jwng saitan jwng\nHaya jwng gosontanw\nRwnga jwng thabainw\nNwngni swrang lamajwng -2\n",
       "tags": [
         "BODO",
@@ -1118,15 +1199,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 70,
-      "date": "2025-05-04T07:50:43.481Z"
+      "key": "C"
     },
     {
       "id": "24c49a23-b322-49c9-99b7-602956ed0da8",
+      "serialNumber": 71,
       "title": "Nwng swisw nangbai",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:51:04.355Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Nwng swisw nangbai\n\"Thwijase dukhuthia Nwngni Jiua\" -2\n(A)\nFwthai khebso jabai Judasa\nPetorabw bekhou fwlabai -2\nBesedi dorshi khwmsi\nPhorbu \" O Phorbu\"-2\n(B)\nNaihor honwi Menda bisaya\nSongsarni pap biban banlangdwng -2\nBesedi sohainangdwng\nO Phorbu, O Jisu, O- Nwngw\n",
       "tags": [
         "Bodo",
@@ -1134,45 +1216,48 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 71,
-      "date": "2025-05-04T07:51:04.355Z"
+      "key": "C"
     },
     {
       "id": "efb53479-a863-4a8f-911d-0c5ffb6b0dfb",
+      "serialNumber": 72,
       "title": "O Phwrbu dwiden jwngkhou",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:51:25.683Z",
+      "composeDate": "0001-01-01",
       "lyrics": "O Phwrbu dwiden jwngkhou\nO Phwrbu fwrwng jwngkhou -2\n\n\n“Nwngni haywi jebw gwiya Phwrbu-2”\n“Nangou jwngnw nwngni gwthar jiu\nNangou jwngnw nwngni gwhw khou -2”\n(A)\n“San  arw hatorki nwngni swrjinai\nSrang arw khwmsibw nwngni swrjinai -2”\n“Nwngni haywi jebw -------------2”\n (B)\n“Jwbnw gwiywi jiu nwngniao lonw\nJwbnw gwiywi onnai nwngniao lonw-2”\n“Nwngni haywi jebw -------------2”\n",
       "tags": [
         "Bodo"
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 72,
-      "date": "2025-05-04T07:51:25.683Z"
+      "key": "C"
     },
     {
       "id": "5a6cbc55-f8f5-438b-a804-0581f175ade7",
+      "serialNumber": 73,
       "title": "Oh ! our Father in heaven",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:51:46.660Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Oh ! our Father in heaven\nMay your holy name be honoured\nMay your kingdom come\nMay your will be done on earth\nAs it is in Heaven\nGive us today the food we need\nForgive us the wrongs\nThat others have done to us\nDon't bring us to hard testing\nBut keep us save from the evil one.\n",
       "tags": [
         "English"
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 73,
-      "date": "2025-05-04T07:51:46.660Z"
+      "key": "C"
     },
     {
       "id": "bb712cc7-e0e7-4410-83f6-f0ad78c6475d",
+      "serialNumber": 74,
       "title": "Oh Bifa Isor khaolai horw jwng",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-28T11:02:27.237Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Oh Bifa Isor khaolai horw jwng\nSwrgwni  dorkhou bekheona hw\nSudem baganao jwngbw gelegwn\nGwjwn gwjwn gwjwn, rongza mini -2\nRu ……………..Ru ……………….\n(A)\nGwsw mwdwm hwna dinwi\nSwr sibiyw nwngkhou -2\nRaobw gwiya buhumao subunga -2\n(B)\nJanw hagwu papi jwng dinwi\nArose dwnw oblabw -2\nNima ha hwnangwn jwngkhou -2\n",
       "tags": [
         "Bodo",
@@ -1180,15 +1265,16 @@
       ],
       "audioUrl": "https://youtu.be/31K6JMrnZEA?si=8Fj5dT2n9LXjstuR",
       "audioType": "youtube",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 74,
-      "date": "2025-05-28T11:02:27.237Z"
+      "key": "C"
     },
     {
       "id": "e27768b5-ab87-4ecb-8d92-806becbe9c81",
+      "serialNumber": 75,
       "title": "Prabhu tumi acho kothay",
       "composer": "translated version",
+      "date": "2025-05-04T07:52:29.547Z",
+      "composeDate": "0001-01-01",
       "lyrics": "প্রভু তুমি আছো কোথায়, ভুলে যেওনা আমায়\nযেখানে থাকো তুমি, তব কাছে রেখো আমায় -2\n(1)\nপ্রভু প্রভু ডাকি আমি, দেখা দাওনা আমায় তুমি -2\nরেখো, তোমার পাশে -2\n(2)\nবারে বারে ডাকি আমি, শান্তি দাওনা আমায় তুমি -2\nদুঃখ ভরা মনে -2\n\n\n\n\n\n\n\n\n\n\n\nPrabhu tumi acho kothay, bhule jeyona amay\nJekhane thako tumi, tab kache rekho amay -2\n(1)\nPrabhu Prabhu daki ami, dekha daona amay tumi -2\nRekho, tomar pashe -2\n(2)\nBare bare daki ami, shanti daona amay tumi -2\nDukh bhara mone -2\n",
       "tags": [
         "Bengali",
@@ -1196,15 +1282,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 75,
-      "date": "2025-05-04T07:52:29.547Z"
+      "key": "C"
     },
     {
       "id": "17af3120-0c77-417b-a9db-9773dec37803",
+      "serialNumber": 76,
       "title": "Prarthana kori Prabhu tomar charane pori ",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:52:51.339Z",
+      "composeDate": "0001-01-01",
       "lyrics": "প্রার্থনা করি প্রভু তোমার চরনে পড়ি -2\nহৃদয় মন্দীরে বাস কর প্রভু হৃদয় ফলকে লিখো মোদের -2\n(A)\nজীবন বৃক্ষ তুমি মোদের সকলের জীবন খাদ্য তুমি সকল জাতির -2\nপ্রাণাকাঙ্খী মোরা প্রাণ কর হে তোমার জীবন্ত বাক্যে -2\nহৃদয় মন্দীরে বাস কর প্রভু\nহৃদয় ফলকে লিখো মোদের -2\n(B)\nদীনহীন ন্যামাত্মা তোমাকে কাঁদে সদাপ্রভু\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrarthana kori Prabhu tomar charane pori -2\nHridoy mondire bash koro Prabhu, hridoy pholoke likho moder -2\n(A)\nJibon brikkho tumi moder shokoler, jibon khadyo tumi shokol jatir -2\nPranakankhi mora pran koro he tomar jibonto bakye -2\nHridoy mondire bash koro Prabhu\nHridoy pholoke likho moder -2\n(B)\nDinhin nyam atma tomay kande Sadaprabhu\n",
       "tags": [
         "Bengali",
@@ -1214,15 +1301,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 76,
-      "date": "2025-05-04T07:52:51.339Z"
+      "key": "C"
     },
     {
       "id": "9624005f-3fc1-4ae4-a7ad-ebe3a2320e98",
+      "serialNumber": 77,
       "title": "Rajani raja Jisu rajaya sari jafwibai",
       "composer": "Alex Iswarari",
+      "date": "2025-05-04T07:53:16.301Z",
+      "composeDate": "2022-12-12",
       "lyrics": "Rajani raja Jisu rajaya sari jafwibai\nBwithelhem hadorni goaliao Mariamni gwrbwao\nSa- Re- Ga, Ga- Ma- Pa- Pa- Dha- Ni- Sa\n\n(A)\nLaokhar fwra fwtharao rongjaswdwng honwi\nJisu Gothokhou naodra sayao\nGugrupnanwi honwi khulumdwng.\nNwngni angnibw nokhorao\nSarifwibai dinwi Jisua-2\n\n(B)\nLama dinthibwgou hatorkhia\nSanja deshni gwnwkhw fwrkhou\nFwiwi fwiwi sofwibai Bwithelhemni Goaliao\nUsaobadao Herod rajaya\nGurlab-gutab gikhrongnanwi -2\n",
       "tags": [
         "Bodo",
@@ -1230,15 +1318,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "2022-12-12",
       "version": "Standard Version",
-      "serialNumber": 77,
-      "date": "2025-05-04T07:53:16.301Z"
+      "key": "C"
     },
     {
       "id": "803122ae-d73d-488a-b8ee-75ce558adc8b",
+      "serialNumber": 78,
       "title": "Ramaillo sajho aajoko",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:53:31.723Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Ramaillo sajho aajoko -2\nNachnelai nachi diyo\nGaonelai gai diyo\nAudaeina fheri farkera -2\n\n(A)\nKata gayo bachan haru\nHarigario phulera\nKata gayo jeevan haru\nAndhakar ma bhulera -2\nNachnelai...",
       "tags": [
         "Nepali",
@@ -1246,15 +1335,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 78,
-      "date": "2025-05-04T07:53:31.723Z"
+      "key": "C"
     },
     {
       "id": "e29770b8-2804-4607-8e3e-3ff349aba0d4",
+      "serialNumber": 79,
       "title": "Rongza hwbai nwng angni gwswkhou",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:53:51.211Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Rongza hwbai nwng angni gwswkhou\nThwinaikhou derhananwi\nSwrang hwbai nwng angni be jiukhou\nGwdan mohor lananwi -2\n(A)\nHayakhwswi thwinaya dinwi]\nNwngkhou lakhinw gwthwi mohorwi -2\nGwthwi mohora lajinangbai dinwi\nNwngni sigangao -2\n(B)\nLama nwngw subung harini\nJiu nwngw subung harini -2\nJwbnw gwiywi jiu, jwbnw gwiwi onnai\nNwngnao lonw\n",
       "tags": [
         "Bodo",
@@ -1262,15 +1352,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 79,
-      "date": "2025-05-04T07:53:51.211Z"
+      "key": "C"
     },
     {
       "id": "c68bc22b-292d-4c13-8879-017d241b53d5",
+      "serialNumber": 80,
       "title": "Rongzadwng  . . . . Halleluiya",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:54:07.362Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Rongzadwng  . . . . . . . .  “Halleluiya”- 3\nGabjridwng  . . . . . . . .  “Hossanna”- 3\n“Jerusalemni mwndirao” -2, “2”\n(A)\nJoitun hadorni ser  ser\nPwrbu Jisua honwi gada bisayao -2\nBese rongzadwng honwi, papi subung hari-a\nHalleluiya . . . Hossanna . . . hwnnanwi\n(B)\nUndunai subung harikhou fwjanw\nFwidwng phorbu nwng papi buhumao -2\nHambai hwnw jwng phorbu\nGwjou okhwrangni gwjwn\nBe hayao, jafungthwng, oraibw\n",
       "tags": [
         "Bodo",
@@ -1278,30 +1369,32 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 80,
-      "date": "2025-05-04T07:54:07.362Z"
+      "key": "C"
     },
     {
       "id": "5a14a465-e22b-4bc2-b7c4-4fe3c13f1d1c",
+      "serialNumber": 81,
       "title": "Rota kabhi, kabhi hasata",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-09-30T08:05:33.717Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Rota kabhi, kabhi hasata\nChalata kabhi, kabhi rukhta\nMera Ishwar, Parmeshwar, ha Khuda mera ehua-2\n(A)\nTakdeer se ham nafrat kyun kare\nUlajhan se, ham kyun ghabraye-2\nAake aasu to mithade,\nAake ulajhan to hatade\nMera Ishwar, Parmeshwar, ha Khuda mera ehua-2\n(B)\nKabhi kisiko tu janam diya\nKabhi kisiko tu wapas liya -2\nSabhi to terehi khel hai\nSabhi to tere jalal hai\nMera Ishwar, Parmeshwar, ha Khuda mera yehua-2\n",
       "tags": [
         "Hindi"
       ],
       "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/0d2fedbb-4002-425d-b2dc-03ea1823950c.m4a",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 81,
-      "date": "2025-09-30T08:05:33.717Z"
+      "key": "C"
     },
     {
       "id": "9c9aa97d-9826-4179-814d-edf6e74f62a2",
+      "serialNumber": 82,
       "title": "Sabai ko lagi aayo jagat ma",
       "composer": "Protensing Narjinari",
+      "date": "2025-05-04T07:54:45.731Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Sabai ko lagi aayo jagat ma\nSabai ko lagi gariyo balidan -2\nApani jeevan lai Kalvari kruse ma -2\n(A)\nYo timro jeevanko, euta saharo\nYo timro jeevanko, euta bato -2\nKohi paune chaina, Ishu jasto jagat ma -2\n(B)\nYo timro jeevanko, euta maya\nYo timro jeevanko, euta mukti -2\nKohi de sakina, Ishu jasto nai jeevan -2\n",
       "tags": [
         "Nepali",
@@ -1309,15 +1402,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 82,
-      "date": "2025-05-04T07:54:45.731Z"
+      "key": "C"
     },
     {
       "id": "6390ddcc-e350-4dc7-8746-939c072ac980",
+      "serialNumber": 83,
       "title": "Sadaprabhu amader prati nij mukher dipti",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:55:06.242Z",
+      "composeDate": "0001-01-01",
       "lyrics": "সদাপ্রভু আমাদের প্রতি নিজ মুখের দিপ্তী\nউদিত কর তুমি মোদের অন্ত:করনে\nসকলকে প্রভু তুমি দীপ্ত কর\n\n\n\n\n\n\n\n\nSadaprabhu amader prati nij mukher dipti\nUdita koro tumi moder antar karane\nSakalke Prabhu tumi dipta koro\n",
       "tags": [
         "Bengali",
@@ -1326,15 +1420,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 83,
-      "date": "2025-05-04T07:55:06.242Z"
+      "key": "C"
     },
     {
       "id": "722e575d-f755-4ebc-86fc-77fdf052d66a",
+      "serialNumber": 84,
       "title": "Sadaprabhu tumi dhonno ",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:55:24.226Z",
+      "composeDate": "0001-01-01",
       "lyrics": "সদাপ্রভু তুমি ধন্য -2\nপ্রতি ক্ষনে তুমি থাকিলে সাথে\nকরিলে জীবন দান -2\n(A)\nফিরিয়ে আনো প্রভু মোদের\nজগতের অভিলাষ হতে\nপাছে অন্ধকারের মন্দ আত্মা\nজীবন কেরে নিয়ে যায় -2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSadaprabhu tumi dhonno -2\nProti khone tumi thakile shathe\nKorile jibon dan -2\n(A)\nPhiriye ano Prabhu moder\nJagoter abhilash hate\nPache ondhokarer manda atma\nJibon kore niye jay -2\n",
       "tags": [
         "Bengali",
@@ -1344,15 +1439,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 84,
-      "date": "2025-05-04T07:55:24.226Z"
+      "key": "C"
     },
     {
       "id": "cb2093ed-77cc-43ca-a4f5-84f1c3f7bb59",
+      "serialNumber": 85,
       "title": "Sadaprabhu tumi Sharon golap",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:55:54.725Z",
+      "composeDate": "0001-01-01",
       "lyrics": "সদাপ্রভু তুমি শারোন গোলাপ, কেনা দেখিবে তোমায়\nসদাপ্রভু তুমি জায়ন পিতা, কেনা সেবিবে তোমায় -2\n(A)\nসপতাকা বাহিনীর ন্যায়, তুমি ভয়ঙ্করী\nযীরুশালেমের ন্যায়, তুমি সুন্দরী -2\nশুনিতে দাও তোমার স্বর, দেখিতে দাও তোমার রুপ -2\nগন্ধরষেতে, কুন্দুরুতে ভরিয়ে দেব তোমায় -2\n(B)\nতুমি জীবন্ত জলের, এক গভীর কূপ\nলিবানোন প্রবাহীত এক শ্রোতমালা -2\nআমি দ্বার খুলিয়া দিলাম, প্রাণ আমার উড়িয়া গেলো -2\nসদাপ্রভু এক প্রেম পতাকা, মম প্রিয়ো শুদ্ধমতি -2\n\n\n\n\n\nSadaprabhu tumi Sharon golap, kena dekhibe tomay\nSadaprabhu tumi Zion pita, kena sevibe tomay -2\n(A)\nSaptaka bahinir nyay, tumi bhayankari\nJerusalemer nyay, tumi sundari -2\nShunite dao tomar swar, dekhaite dao tomar rup -2\nGandharasete, kundurate bhariye deb tomay -2\n(B)\nTumi jibanta jaler, ek gahira kup\nLebanon probahito ek srotamala -2\nAmi dwar khuliya dilam, pran amar udiya gelo -2\nSadaprabhu ek prem pataka, mom priyo shuddhamati -2\n\n",
       "tags": [
         "Bengali",
@@ -1361,30 +1457,32 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 85,
-      "date": "2025-05-04T07:55:54.725Z"
+      "key": "C"
     },
     {
       "id": "3056128e-90b9-4e2d-ace6-03a91ab7c939",
+      "serialNumber": 86,
       "title": "Sana sanjwu langbai",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:56:19.345Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Sana sanjwu langbai\nDabw manw sirimwna\nBwthwra khati jabai\nSanpha mwngpha guslaibwbai -2\n(a)\nDhwrwm andailangbai\nSwithw khwmalangbai\nGwthar khwmsaliao sibiary gwilia\n(b)\nAng swmw nangw\nbe mugani subungkhou\nDahani s\nomaolw Iswrkhou gwswkhangw\n",
       "tags": [
         "BODO"
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 86,
-      "date": "2025-05-04T07:56:19.345Z"
+      "key": "C"
     },
     {
       "id": "9ad89fd9-eb6d-48cd-8d32-a949d3591957",
+      "serialNumber": 87,
       "title": "Sangrame amra egie cholchi chol",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:56:41.474Z",
+      "composeDate": "0001-01-01",
       "lyrics": "সংগ্রামে আমরা এগিয়ে চলেছি চলব -3\nপিছিয়ে কভু পরবনা না না -2\n(A)\nআমাদের একতার বাধনখানি\nশয়তান ছিরতে পারবেনা\nআমাদের উজ্জল জীবন ও দীপ্ত\nকোন মতে যে নিভবে না -2\n(B)\nবাঁধার পাহার ডিঙিয়ে মোরা\nক্রমাগত এগিয়ে চলব\nতুলে নিয়ে ক্রুশ মূক্ত কণ্ঠে\nযীশুর নামটি সুধু বলব -2\n\n\n\n\n\n\n\nSangrame amra egie cholchi cholbo -3\nPichhie kabhu porbona na na -2\n(A)\nAmader ektaar bandhan khani\nShaitan chirte parbena\nAmader ujjal jibon o dipto\nKon mate je nibhebe na -2\n(B)\nBandhar pahar dingiye mora\nKramagato egie cholbo\nTule niye cross mukto kanthe\nJishur namti sudhu bolbo -2\n",
       "tags": [
         "Bengali",
@@ -1392,15 +1490,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 87,
-      "date": "2025-05-04T07:56:41.474Z"
+      "key": "C"
     },
     {
       "id": "472908dd-6b79-45ac-b3a1-199d55ddcbf4",
+      "serialNumber": 88,
       "title": "Shudhu prarthana ei",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:57:36.697Z",
+      "composeDate": "0001-01-01",
       "lyrics": "শুধু প্রার্থনা এই, যেন আমরা সবাই\nতোমার শাস্ত্র বিধিই মেনে রই\nপ্রভু তুমি যেমন কত নিষ্কলঙ্ক\nযন তমনি আমরাও হই -2\n(A)\nমনে মুখে যত বিরুদ্ধাচার\nচীরতরে মুছে দাও\nসৃষ্ট জগৎ যেমন আজও আছে\nচীরতরে রেখে দাও -2\n\n\n\n\n\n\nShudhu prarthana ei, Jeno amra sabai\nTomar shastra bidhi meni rai\nPrabhu tumi jemon koto nishkalanka\nJeno temoni amrao hoi -2\n(A)\nMone mukhe joto biruddhachar\nChiratore muchhe dao\nSrishti jagat jemon aj o ache\nChiratore rekhe dao -2\n\n",
       "tags": [
         "Bengali",
@@ -1410,15 +1509,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 88,
-      "date": "2025-05-04T07:57:36.697Z"
+      "key": "C"
     },
     {
       "id": "cf6761c0-7941-4c43-9713-3d084d978b17",
+      "serialNumber": 89,
       "title": "Sibinang subung harifwr",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:58:04.280Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Sibinang subung harifwr\nSibinang dhwrwm gurufwr\nSofwinai gaswi alashifwr\nPhwrbuni Khamsaliao -2\n(a)\nBorayw jwng Phwrbuni mungwi\nNajaoyw jwng akhai khobjobwi -2\n“Sibiyw jwng gonglaiyw jwng\nKhulum horw boikhowbw” -2\n(b)\nRongza mwnw jwngha Phwrbuniao\nGwjwn mwnw hwngha phwthainayao -2\n“Sibiyw jwng gonglaiyw jwng\nKhulum horw boikhowbw” -2\n",
       "tags": [
         "BODO",
@@ -1426,15 +1526,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 89,
-      "date": "2025-05-04T07:58:04.280Z"
+      "key": "C"
     },
     {
       "id": "7475afc7-5d44-4903-82a1-701d9d746811",
+      "serialNumber": 90,
       "title": "Sikhao nongamwn Ang, khaonw fwiyakwi",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:58:33.793Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Sikhao nongamwn Ang, khaonw fwiyakwi\nThungri lanan angkhou naigirbainw\nHarsing fwidwngmwn ang, papni songsarao\nJiuni lamakhou dinthi langnw -2\nHa . . . . . . . . . . Ho . . . . . . . . . .\n(A)\nJwnwmni jiukhou, krushjwng sujunan\nSohaibai jwbthi saja -2\n“Papi subungni thakwi”-2\n(B)\nSaiko jadwngmwn, swrgw Bifajwng\nBuhumao dukhu swinw -2\n“Papi subungni thakwi”-2\n",
       "tags": [
         "Bodo",
@@ -1442,45 +1543,48 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 90,
-      "date": "2025-05-04T07:58:33.793Z"
+      "key": "C"
     },
     {
       "id": "c55add75-5b57-4a1f-80aa-cb299a993591",
+      "serialNumber": 91,
       "title": "Songsarni maya thiliao",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:58:57.929Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Songsarni maya thiliao\nBese gwbao gelebaonw nwng -2\n(A)\nSongsarni lamayao dathabai nwng lwgw\nAndailangwn nwng be songsarao\nHa . . . . . . . .Ha . . . . . . . .\nDorseni mwjangkhou mwjang dasan nwng lwgw\nKhwmsi songsarni saglwbnayao  - 2\n(B)\nKhristo Jisuni khebnwini fwifinnaya\nSwrgwmbwgou honwi be songsarao\nHo . . . . . . . .Ho . . . . . . . .\nThamtim jananwi thadw nwngswrw lwgw\nSwrgw raijwni lama lanw  -  2\n",
       "tags": [
         "BODO"
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 91,
-      "date": "2025-05-04T07:58:57.929Z"
+      "key": "C"
     },
     {
       "id": "d8ed806d-aa36-45c4-8403-1d553486e2cc",
+      "serialNumber": 92,
       "title": "Subung -4",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T07:59:32.369Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Subung -4, gaoni akhaijwng, gaoni mohorwi\nSwrjidwngmwn Ang nwngswrkhou -2\nAa . . . . . A . . . . .\n(A)\nSwrjinai sana mijingthidwng mwng\nSubunga angkhou sibigwn hwnna -2\nNathai fwimal jabai Angni sannaia\nGaswi baogar langbai subung haria\nPapni biban bannanwi .. . . .\nAa . . . . . A . . . . .\n(B)\nDabwnw Angha gwrbw khamgliyw\nBekhainw dabw lenghorbai thayw -2\nAng nenanwi dongo dorkhong serao\nAng sofwitharsigwn buhum bicayao -2\nMwjang-gajri saikhonw\nAa . . . . . A . . . . .\n",
       "tags": [
         "Bodo"
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 92,
-      "date": "2025-05-04T07:59:32.369Z"
+      "key": "C"
     },
     {
       "id": "99e6373f-d85c-4eb7-8c1c-8e6e08adb5f7",
+      "serialNumber": 93,
       "title": "Subung fwrel khou onnanwi",
       "composer": "Mrinal Iswarari",
+      "date": "2025-05-04T07:59:55.929Z",
+      "composeDate": "2025-04-10",
       "lyrics": "\"Subung fwrel khou onnanwi\nPapni bibankhou bannanwi' -2\n'Krushaonw buli jabai (nwng)-2\n'Papi fwra basaijabai\nBuhuma mitisartbai'-2\nKrushaonw..\n(A)\n'Gaoninw ose mansi fwranw Jisukhou\nHomna hwbai - nasoiglibai -2\n'Bukrub-sukrub kalambai\nHaya haya Krush banhwbai' -2\n\n(B)\n\n\"Aikhang-baikhang janangbai dinwi Jisua\nKalvariao - Krushni sayao' -2\n'Akhai-athingao gazal dwbai\nSuni thopi ganhwbai' -2",
       "tags": [
         "Bodo",
@@ -1488,15 +1592,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "2025-04-10",
       "version": "Standard Version",
-      "serialNumber": 93,
-      "date": "2025-05-04T07:59:55.929Z"
+      "key": "C"
     },
     {
       "id": "eafd141a-4c55-401a-aeb9-59b099dd2e2f",
+      "serialNumber": 94,
       "title": "Sworgo tomar singhasan",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-09-29T16:14:04.959Z",
+      "composeDate": "0001-01-01",
       "lyrics": "স্বর্গ তোমার সিংহাসন, পৃথিবী তোমার পাদপীঠ -2\nতুমি ছিলে, আজও আছো, রহিবে যুগানু-যুগে -2\n(A)\nএই জীবনে প্রভু, এই ভুবনে প্রভু -2\nযেথা দেখি, তোমারি মহিমায় ভরপুর\nযেথা চাহি, তোমারি করুনায় ভরপুর -2\n(B)\nনীলাম্বরের ওপারে, জীবন বৃক্ষ যেখানে -2\nনিয়ে চলো সদাপ্রভু ছেড়না মোদের কভু -2\n\n\n\n\n\n\n\n\n\n\n\n\nSworgo tomar singhasan, prithibi tomar padapith -2\nTumi chhile, aj o acho, rahibe juganu-juge -2\n(A)\nEi jibone Prabhu, ei bhuvone Prabhu -2\nJetha dekhi, tomar mahimay bhorpuro\nJetha chahi, tomar korunay bhorpuro -2\n(B)\nNilamborer opare, jibon brikkho jekhane -2\nNiye cholo Sadaprabhu, chedona moder kabhu -2\n",
       "tags": [
         "Bengali",
@@ -1506,15 +1611,16 @@
       ],
       "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/a43579f8-56e2-4791-a706-7c4461c9719c.m4a",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 94,
-      "date": "2025-09-29T16:14:04.959Z"
+      "key": "C"
     },
     {
       "id": "3f60bc76-66cc-481a-a34b-e51834835a55",
+      "serialNumber": 95,
       "title": "Swrjijanai dina jwngni thakwi",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T08:00:36.345Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Swrjijanai dina jwngni thakwi\nGwthar sundayschool dibos jananwi\nNujafwibai dinwi jwngni gejerao\nSwrang hwbai jwngni khwmsi gwswkhou -2\n(A)\nJoy jathwng joy Jisuni\nSwrjijanai gaswibw bini\nHa . . . . Ha . . . .\nRongzagwn jwng oraibw\nBifani gwthar no-ao\n(B)\nSwrgwpurini Arphofra\nNaihor honwi bese rongzadwng\nGwjwn . . . Swrgw-ao . . .\nRongzagwn jwng oraibw \nSwrgwni mohor lananwi\n",
       "tags": [
         "BODO",
@@ -1522,15 +1628,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 95,
-      "date": "2025-05-04T08:00:36.345Z"
+      "key": "C"
     },
     {
       "id": "cfcd3b59-c63f-459d-a742-38ed2ec35b06",
+      "serialNumber": 96,
       "title": "Thu thangni, rongjalangni boibw",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T08:00:53.865Z",
+      "composeDate": "2015-11-12",
       "lyrics": "Thu thangni, rongjalangni boibw\nDavidni bwi nwgwrao – 2\nMwsou goliao, bwi naodra sayao\nJisu gotho onthao-bathao - 2\n (A)\nGwnwkhw arw laokhar hanza\nJisu gothokhou khulumfwidwng – 2\nSomaina-romaina, gwjwusintharao\nSubungni gejerao gwjwnnai jathwng – 2\nJwngbw de rongza-mini mwsaglangni\n (B)\nIswr Afaya songsarkhou onnanwi\nJisu gothokhou jwngnw hwbai – 2\nBe songsara Jisu jwngnw\nBasaijanaini raha mwnbai - 2\nJwngbw de rongza-mini mwsaglangni\n",
       "tags": [
         "BODO",
@@ -1538,15 +1645,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "2015-11-12",
       "version": "Standard Version",
-      "serialNumber": 96,
-      "date": "2025-05-04T08:00:53.865Z"
+      "key": "C"
     },
     {
       "id": "90db4cc2-bb50-46fd-9707-2d38f8b4020a",
+      "serialNumber": 97,
       "title": "Tumar ja kichu deowa",
       "composer": "Mr Praten Singh Narjinari",
+      "date": "2025-05-04T08:01:14.565Z",
+      "composeDate": "0001-01-01",
       "lyrics": "তামার যা কিছু দেওয়া, তোমাকে ইদিতে চাই গো প্রভু -2\nআমার বলে আর কিছু নেই সবইতো তোমার দেওয় -2\nদেহ, মন, প্রাণ, বিবেক ও আত্মা দিয়ে, গড়েছো বিশ্বে আমাকে -2\n(A)\nপ্রণমে তোমার সমর্পিত হই,\nচালাও তোমার পথের ধারে\nগানের সুরে ডাকি প্রভু,\nদরশন দাও দুরাশা জীবনে -2\nজীবন হয়ে দড়াতে যেন পারি,\nএই বিশ্ব ভবে -2\n\n\n\n\n\nTumar ja kichu deowa, tomay idite chai go Prabhu -2\nAmar bole ar kichu nei, sabito tomar deowa -2\nDeh, mon, pran, bibek o atma diye, godesho bishe amay -2\n(A)\nPronam tomay samarpit hoi,\nChalao tomar pather dhare\nGaner sure daki Prabhu,\nDarshan dao durasha jibone -2\nJibon hoye dharate yen pari,\nEi biswa bhabe -2\n\n\n",
       "tags": [
         "Bengali",
@@ -1555,15 +1663,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 97,
-      "date": "2025-05-04T08:01:14.565Z"
+      "key": "C"
     },
     {
       "id": "8706bb35-5879-4bc8-95fa-f4f939cb7d3c",
+      "serialNumber": 98,
       "title": "Uthiyachen sworger pothe",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T08:01:47.345Z",
+      "composeDate": "0001-01-01",
       "lyrics": "উঠিয়াছেন স্বর্গরথে, মেঘের রথে\nউঠিয়াছেন দেখো উঠিয়াছেন\nচলিয়াছেন পিতার কাছে দক্ষিণ পার্শ্বে\nচলিয়াছেন দেখো চলিয়াছেন -2\nআ. . . আ . . . আ . . . আ . . . -2\n(A)\nশান্তি আমাদিগকে দান করিলেন - দান করিলেন\nআত্মা আমাদিগেতে রাখিয়া গেলেন - রাখিয়া গেলেন -2\nআ. . . আ . . . আ . . . আ . . . -2\n(B)\nস্বর্গীয় দ্বার যেন চোখ মেলেছে - চোখ মেলেছে\nখ্রীষ্টকে যে বরন করেছে - বরন করেছে\nআ. . . আ . . . আ . . . আ . . . -2\n(C)\nযেমনি করে তিনি চলিয়া গেলেন - চলিয়া গেলেন\nতেমনি করে তিনি আসিতেছেন - আসিতেছেন -2\nআ. . . আ . . . আ . . . আ . . . -2\n\n\n\n\n\n\n\n\n\n\n\nUthiyachen sworger pothe, megher rothe\nUthiyachen dekho uthiyachen\nCholiyachen pitar kache dokkhin pashe\nCholiyachen dekho choliyachen -2\nAh . . . Ah . . . Ah . . . Ah . . . -2\n(A)\nShanti amadigoke dan korilen - dan korilen\nAtma amadigoke rakhiya gelen - rakhiya gelen -2\nAh . . . Ah . . . Ah . . . Ah . . . -2\n(B)\nSworgio dwar jeno chokh meleche - chokh meleche\nKhristoke je boron koreche - boron koreche\nAh . . . Ah . . . Ah . . . Ah . . . -2\n(C)\nJemoni kore tini choliya gelen - choliya gelen\nTemoni kore tini asitechen - asitechen -2\nAh . . . Ah . . . Ah . . . Ah . . . -2\n",
       "tags": [
         "Bengali",
@@ -1572,15 +1681,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 98,
-      "date": "2025-05-04T08:01:47.345Z"
+      "key": "C"
     },
     {
       "id": "1361f22b-c0aa-4106-9884-1988a29732b8",
+      "serialNumber": 99,
       "title": "Wi Isorni menda bias",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T08:02:25.944Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Wi Isorni menda bias -2\nFwidwng jwng Nwngni serao\nSibidwng jwng nwngni huda -2\n(A)\nPapni biban khou garsat nanwi\nThabainai lamayao shrang hwnanwi -2\nLingden jwngkhou jiu dwimayao -2\n(B)\nJwngbw jagwn nwngni sibiari\nKhamsalini jwng shrang alari -2\nSubungni jwng shrang alari -2\n",
       "tags": [
         "Bodo",
@@ -1588,15 +1698,16 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 99,
-      "date": "2025-05-04T08:02:25.944Z"
+      "key": "C"
     },
     {
       "id": "70a47165-f520-456d-946f-b3e082ea6da9",
+      "serialNumber": 100,
       "title": "Wi swrgwni Isor Afa",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-10-06T08:50:49.292Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Wi swrgwni Isor Afa\nJwng khwmsini udayee subung\nNwngnaounw khaolai horw jwng\nNwngnaounw aros gabw jwng -2\n(A)\nBe buhumao suku-dukhu khou\nManw galangkhw nwng\nBe buhumao gabnai-mininaikhou\nManw hwlangkhw nwngw -2\nSohainw haya be jiua, Usao badao selera\n(B)\nBe jwnwm arw be dhwrwm-a\nBesen gwiya nama\nJwngnw sibinai dhwrwm-a\nThar nongthara nama -2\nBekhainw subung hariya, Thankinw haya lamakhou -2\n",
       "tags": [
         "Bodo",
@@ -1604,15 +1715,16 @@
       ],
       "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/fae261ee-3347-4f2f-bee3-23f67bdd9c78.m4a",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 100,
-      "date": "2025-10-06T08:50:49.292Z"
+      "key": "C"
     },
     {
       "id": "0d6b2dbf-6c39-43c3-baec-b6c65371d232",
+      "serialNumber": 101,
       "title": "Wi undwi menda hanzafwr",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-05-04T08:03:01.849Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Wi undwi menda hanzafwr\n\"Dagi nwngswr ginw nanga\"-2 ,-2\n(A)\nManwna Isor Afaya\nSwrgwni raijwkhounw\nNwngswrnw hwnw thakhwi\nThankinanwi dwnkabai -2\n",
       "tags": [
         "Bodo",
@@ -1620,60 +1732,64 @@
       ],
       "audioUrl": "",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 101,
-      "date": "2025-05-04T08:03:01.849Z"
+      "key": "C"
     },
     {
       "id": "3e9661e7-cd6c-4168-8e31-8941083c4f15",
+      "serialNumber": 102,
       "title": "Yehua tune jeevan dikhaya mere liye",
       "composer": "Mrinal Iswarari",
+      "date": "2025-09-25T10:02:21.910Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Ha . . . 4, Ho . . . 4\nYehua tune -2 jeevan dikhaya mere liye\nMarg bhi dikhaya mere liye -2\n(A)\nChu hamara sar pavitra hatho se\nBarsa ashish apna karuna se -2\n(B)\nItna shakti hamen de na Pita\nMan ka vishwas kamzor hona na\n",
       "tags": [
         "Hindi"
       ],
       "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/9d17ebaf-1695-4871-bf42-d2bf02c0a5fe.m4a",
       "audioType": "audio",
-      "composeDate": "0001-01-01",
       "version": "Standard Version",
-      "serialNumber": 102,
-      "date": "2025-09-25T10:02:21.910Z"
+      "key": "C"
     },
     {
       "id": "0de9b706-2a78-490a-b69d-c6fa47a251dd",
+      "serialNumber": 103,
       "title": "Yeshule hamro jeevan lai",
       "composer": "xxxxxxxxxxxxxx",
+      "date": "2025-05-05T16:02:43.437Z",
+      "composeDate": "0001-01-01",
       "lyrics": "Yeshule hamro jeevan lai\nYeshule hamro pap lai dhoi dene chan.\n'Aunu hos -2 mukti linu lai -2\n(1)\nChini hamro Prabhu Ishu raja lai\nBishwas garo unai ma aajnai -2\n'Aunu hos -2 shanti linu lai -2\n(2)\nUni hon shanti dine Prabhu\nUni hon bato swarga ko -2\n'Aunu hos -2 jeevan linu lai -2\n",
       "tags": [
         "Nepali"
       ],
       "audioUrl": "https://youtu.be/CQWBbqMcYVw?si=x1h4iLbMS_RUH8Pz",
       "audioType": "youtube",
-      "composeDate": "0001-01-01",
       "version": "Youtube Scratch ",
-      "serialNumber": 103,
-      "date": "2025-05-05T16:02:43.437Z"
+      "key": "C"
     },
     {
       "id": "350a16b7-3fc2-4abe-950b-0ba8f73a2ba7",
+      "serialNumber": 104,
       "title": "Prabhu tum ho Mashi ",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-09-25T10:29:04.972Z",
+      "composeDate": "2025-09-25",
       "lyrics": "Prabhu tum ho Mashi\nPrabhu tum ho Jiwan -2\nSanti Jiwan data\nSabki paritrata -2\n(A)\nTere mahima, tere asish \nYe asman me bhar chhuke hai -2\nTu asman shristi karta\nSabki palan karta-2\n(B)\nTuhi marg, tuhi satya\nTuhi jiwan ye shristika-2\nPapiyoka uddharkarta \nHo teri jay jay kar-2",
       "tags": [
         "Hindi"
       ],
       "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/a3a68a5a-080a-4628-9a70-5b62419b53a4.m4a",
       "audioType": "audio",
-      "composeDate": "2025-09-25",
       "version": "Standard Version",
-      "serialNumber": 104,
-      "date": "2025-09-25T10:29:04.972Z"
+      "key": "C"
     },
     {
       "id": "dfa00a27-b940-48e9-99d8-6dbfd39c8b64",
+      "serialNumber": 105,
       "title": "Iswrni onnajwng, rupati fwrbwao",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-10-06T07:14:43.756Z",
+      "composeDate": "2025-08-23",
       "lyrics": "Ch,\nIswrni onnajwng, rupati fwrbwao\nSofwinw hanai, gaswi alasi\nGaham onsainanwi, gugrup kulumnanwi\n\"Boraiyw maninang alasi fwrkhou\" -2\n\n-A-\n\nDhwrwmiya jiu khangnw, jwngkhou fwrwngdw\nSwithw lama thabainw, tulunga hwdw-2\nThwiso thangso oraibw\nSwithwni lama thabaigwn -2\n\n-B-\n\nRongja rongja de rongja, dinwini sanao\nRongjabaogwn mabwla, dinwi nongabla-2\nPhorbunao jwng rongjayw bla\nSwrgwao arpho rongjayw -2",
       "tags": [
         "Bodo",
@@ -1681,15 +1797,16 @@
       ],
       "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/2c6d6940-4a49-47b0-a96b-fdc6cbfa1255.m4a",
       "audioType": "audio",
-      "composeDate": "2025-08-23",
       "version": "Standard Version",
-      "serialNumber": 105,
-      "date": "2025-10-06T07:14:43.756Z"
+      "key": "C"
     },
     {
       "id": "566870b8-05fd-43da-b818-ef138b74ba89",
+      "serialNumber": 106,
       "title": "Sonadoba N.E.L.C jwngni mondoli",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-10-14T10:33:31.112Z",
+      "composeDate": "2025-07-29",
       "lyrics": "​Ch.\nSonadoba N.E.L.C. jwngni mondoli\n\nKhusi-khusi jwnglai khusi, dinwi Jubilee-2\n\nPhungbili jubilee, nwi jiba bwswrari\n\nSibigwn khulumgwn, boibw jwng firi-firi -2\n\nHa ha... lara la la-3:\n\n(A) \n\nRongjanaini dengkhw, sibinaini hangkhw \n\nSomaina girja, nwng jwngnw hwbai\n\nBaonw haya jwng, hambai hwyw jwng\n\nAogai grwnai, ajou-ajwi fwrkhou -2\n\n(B) \n\nMondolikhou jwngni, ajaonanwi labai \n\nNwi rwja maithaini, dinwini sanao\n\nHambai hwyw jwng, Gothaibari circle\n\nJwngkhou onnanwi, gojobna labai -2",
       "tags": [
         "Bodo",
@@ -1697,15 +1814,16 @@
       ],
       "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/4973ebb9-6127-497a-9c0e-0c697fb4258e.m4a",
       "audioType": "audio",
-      "composeDate": "2025-07-29",
       "version": "Standard Version",
-      "serialNumber": 106,
-      "date": "2025-10-14T10:33:31.112Z"
+      "key": "C"
     },
     {
       "id": "4d4b5987-b75e-4c96-96e3-9d04f8d8e7ce",
+      "serialNumber": 107,
       "title": "San okafwr jwngblaonai jwng",
       "composer": "Mrinal Iswarari ",
+      "date": "2025-09-29T16:19:07.044Z",
+      "composeDate": "2025-09-25",
       "lyrics": "Ch,\n\nSan-okafwr jwngblaonai jwng\nDaosen-daol abirbainai jwng -2\nJwn gboibw rongja khangdwng(dinwi)\nJwng boibw mwsa glangdwng\nOnnain ibari bibar bari\nIswr Afani bwrni jhwri -2\n\n(A)\n\nGaswi jengnafwrkhou barbw nanwi\nJiuni gatwnao jwng sofwinanwi-2\nDhwrwm sibinayao udang jabai\nGwthangni bijabao lerkha jabai\n\n(B) \n\nDhwrmao jebla jwng harsing jayw\nGothaibari Circle gojob fwiyw -2\nOnkhangnanw ijwngkhou gonaithiyw\nRupathi be sana geolang jayw\n\n(C) \n\nGwsw mwdwm jiujwng sibigw njwng\nSabsin hamsin janw najagwn jwng -2\nJwngni onjlainaya jwngni bwlw\nJwngni phwthainaya jwngni gwhw",
       "tags": [
         "Bodo",
@@ -1713,15 +1831,16 @@
       ],
       "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/9eee0fa3-24f4-47e9-8acb-d9e7608c17ac.m4a",
       "audioType": "audio",
-      "composeDate": "2025-09-25",
       "version": "Standard Version",
-      "serialNumber": 107,
-      "date": "2025-09-29T16:19:07.044Z"
+      "key": "C"
     },
     {
       "id": "3ba420b4-3283-4fd6-be77-7d9f5a77b4a6",
+      "serialNumber": 108,
       "title": "Ami Gane Gane sudhu tomar kothai bolbo",
       "composer": "Taken from YouTube [All in One Subip]",
+      "date": "2025-09-25T11:32:48.279Z",
+      "composeDate": "2025-09-25",
       "lyrics": "Ch,\nআমি গানেগানে তোমার কথাই শুধু বলব\nআমি চিরদিন চিরকাল তোমার দেখানো পথে চলব -২\nতুমি অসীমকালের অনাদি-অনন্ত ঈশ্বর\nতুমি শাশ্বতজীবনের উৎস সে কথা মনে রাখব -২\n\n(ক)\n\nওই আকাশের সূর্য তোমার আলোয় এত উজ্জ্বল\nএই পৃথিবীর প্রান্তরে তোমার নামে জাগে শতদল -২\nসুষমা তোমার ঝরে অনিবার মন্দিত কন্ঠে শোনাব -২\n\n(খ)\n\nঅশান্ত ধরণীতে শান্তি ঝরাও, স্নেহাশীষবর্ষনে ক্লান্তি মোছাও -\nতুমি মর্তলোকে এসে দিয়ে গেছ অমর আর সন্ধান\nসেই আনন্দ উচ্ছাসে ভরে ওঠে ভক্তের মন-প্রাণ -২\nস্বপ্ন আমার চরণে তোমার, অঞ্জলী হয়ফুটেরব -২",
       "tags": [
         "Bengali",
@@ -1729,13 +1848,11 @@
       ],
       "audioUrl": "https://youtu.be/whfwCk_YPug?si=QmrDOEuxK08D-MoD",
       "audioType": "youtube",
-      "composeDate": "2025-09-25",
       "version": "Standard Version",
-      "serialNumber": 108,
-      "date": "2025-09-25T11:32:48.279Z"
+      "key": "C"
     }
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-16T10:07:00Z"
+  "lastUpdated": "2026-09-16T11:26:16.174Z"
 }
