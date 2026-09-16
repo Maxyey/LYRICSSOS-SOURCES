@@ -1,7 +1,10 @@
 {
   "id": "e783eae0-7586-400b-816d-af1976366279",
+  "serialNumber": 2,
   "title": "Aya vo jagat mein",
   "composer": "Lyrics _ Alen Mochari & Swar_Mrinal Iswarari",
+  "date": "2025-09-30T08:14:37.852Z",
+  "composeDate": "0001-01-01",
   "lyrics": "Aaya vo jagat mein, paapiyon ko karne paritran\nLaya vo jeevan deep sansar ko karne ujjala -2\nMarg vahi, satya vahi, jeevan bhi vahi hai -2\n(A)\nVo vahi Masi hai jo aane wala\nVo vahi Masi hai jo bachane wala -2\nSwarg uska, dharti bhi, sabka vahi hai rakha wala\n(B)\nDukh uthaya Prabhu ne, taaki hamen mukti mile\nBalidan hua Ishu ne, taise hamen jeevan mile-2\nMukti vahi hai, jeevan bhi, sabka vahi hai rakha wala\n",
   "tags": [
     "Hindi",
@@ -9,8 +12,16 @@
   ],
   "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/bc92c01f-fde9-4f63-b65a-e550e69d4f2d.m4a",
   "audioType": "audio",
-  "composeDate": "0001-01-01",
-  "version": "Standard Version",
-  "serialNumber": 2,
-  "date": "2025-09-30T08:14:37.852Z"
+  "audioSources": [
+    {
+      "id": "src-e783eae0-7586-400b-816d-af1976366279-primary",
+      "label": "Standard Version",
+      "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/bc92c01f-fde9-4f63-b65a-e550e69d4f2d.m4a",
+      "type": "audio",
+      "versionType": "with-music"
+    }
+  ],
+  "version": "",
+  "key": "A#",
+  "scaleSet": true
 }
