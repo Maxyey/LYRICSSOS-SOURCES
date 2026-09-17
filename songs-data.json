@@ -23,7 +23,8 @@
       "id": "e783eae0-7586-400b-816d-af1976366279",
       "serialNumber": 2,
       "title": "Aya vo jagat mein",
-      "composer": "Lyrics _ Alen Mochari & Swar_Mrinal Iswarari",
+      "composer": "Mrinal Iswarari",
+      "lyricist": "Alen Mochari",
       "date": "2026-09-17",
       "composeDate": "0001-01-01",
       "key": "",
@@ -2122,5 +2123,5 @@
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-17T14:12:07.239Z"
+  "lastUpdated": "2026-09-17T14:16:16.209Z"
 }
