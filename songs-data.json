@@ -121,17 +121,15 @@
     {
       "id": "ef1c4dd9-d90c-4d39-ae1d-86802a873496",
       "serialNumber": 7,
-      "title": "Ami asibo abar ekdin ",
-      "composer": "Mrinal Iswarari ",
-      "date": "2025-09-30T17:17:07.617Z",
+      "title": "Ami asibo abar ekdin",
+      "composer": "Mrinal Iswarari",
+      "date": "2026-09-17",
       "composeDate": "0001-01-01",
-      "lyrics": "আমি আসিব আবার একদিন-2\nসেই দিন-2 সেই দিন ডাকিব সবারে -2\n(A)\nযে যেমন কর্ম করিবে তাকে তেমন ফল দিব\nযদি কেহ মন না ফিরায়, সে মরিবেই মরিবে\nযেইদিনে কাঁপিবে ভূবন, সেইদিনে দেখিবে সেজন -2\n(B)\nধন্য যারা আত্মাতে দীনহীন স্বর্গরাজ্য তাহাদেরই\nধন্য যারা নির্মলান্তকরন, সে দেখিবে জীবন পথ\nযেইদিনে আসিব আমি, সেই দিনে ডাকিব তোমায় -2\n\n\n\n\n\n\n\nAmi asibo abar ekdin -2\nSei din -2 sei din dakibo sabare -2\n(A)\nJe jemon kormo koribe take temon phal dibo\nJodi keho mon na phiray, se moribei moribe\nJeidin khampe bhuvan, seidin dekhibe sejon -2\n(B)\nDhanya jara atmate dinhin swargarajya tahaderi\nDhanya jara nirmal antar karane, se dekhibe jibon path\nJeidin asibo ami, seidin dakibo tomay -2\n\n\n",
-      "tags": [
-        "Bengali",
-        "Praise"
-      ],
-      "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/5ac40d10-dae6-4bef-a5a1-5ad32cc7e281.m4a",
+      "key": "",
+      "scaleSet": false,
+      "version": "",
       "audioType": "audio",
+      "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/5ac40d10-dae6-4bef-a5a1-5ad32cc7e281.m4a",
       "audioSources": [
         {
           "id": "src-ef1c4dd9-d90c-4d39-ae1d-86802a873496-primary",
@@ -141,9 +139,11 @@
           "versionType": "with-music"
         }
       ],
-      "version": "",
-      "key": "C",
-      "scaleSet": false
+      "tags": [
+        "Bengali",
+        "Praise"
+      ],
+      "lyrics": "আমি আসিব আবার একদিন-2\nসেই দিন-2 সেই দিন ডাকিব সবারে -2\n(A)\nযে যেমন কর্ম করিবে তাকে তেমন ফল দিব\nযদি কেহ মন না ফিরায়, সে মরিবেই মরিবে\nযেইদিনে কাঁপিবে ভূবন, সেইদিনে দেখিবে সেজন -2\n(B)\nধন্য যারা আত্মাতে দীনহীন স্বর্গরাজ্য তাহাদেরই\nধন্য যারা নির্মলান্তকরন, সে দেখিবে জীবন পথ\nযেইদিনে আসিব আমি, সেই দিনে ডাকিব তোমায় -2\n______________________________________________\n\nAmi asibo abar ekdin -2\nSei din -2 sei din dakibo sabare -2\n(A)\nJe jemon kormo koribe take temon phal dibo\nJodi keho mon na phiray, se moribei moribe\nJeidin khampe bhuvan, seidin dekhibe sejon -2\n(B)\nDhanya jara atmate dinhin swargarajya tahaderi\nDhanya jara nirmal antar karane, se dekhibe jibon path\nJeidin asibo ami, seidin dakibo tomay -2"
     },
     {
       "id": "61fbb8c4-3d70-43eb-abcc-51bb2fbd48b7",
@@ -2122,5 +2122,5 @@
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-17T09:41:39.689Z"
+  "lastUpdated": "2026-09-17T09:42:28.318Z"
 }
