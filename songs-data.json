@@ -1430,16 +1430,16 @@
       "composer": "translated version",
       "date": "2026-09-17",
       "composeDate": "0001-01-01",
-      "key": "",
-      "scaleSet": false,
-      "version": "",
-      "audioType": "audio",
-      "audioUrl": "",
+      "lyrics": "প্রভু তুমি আছো কোথায়, ভুলে যেওনা আমায়\nযেখানে থাকো তুমি, তব কাছে রেখো আমায় -2\n(1)\nপ্রভু প্রভু ডাকি আমি, দেখা দাওনা আমায় তুমি -2\nরেখো, তোমার পাশে -2\n(2)\nবারে বারে ডাকি আমি, শান্তি দাওনা আমায় তুমি -2\nদুঃখ ভরা মনে -2\n\n\n\n\n\n\n\n\n\n\n\nPrabhu tumi acho kothay, bhule jeyona amay\nJekhane thako tumi, tab kache rekho amay -2\n(1)\nPrabhu Prabhu daki ami, dekha daona amay tumi -2\nRekho, tomar pashe -2\n(2)\nBare bare daki ami, shanti daona amay tumi -2\nDukh bhara mone -2",
       "tags": [
         "Bengali",
         "Kids"
       ],
-      "lyrics": "প্রভু তুমি আছো কোথায়, ভুলে যেওনা আমায়\nযেখানে থাকো তুমি, তব কাছে রেখো আমায় -2\n(1)\nপ্রভু প্রভু ডাকি আমি, দেখা দাওনা আমায় তুমি -2\nরেখো, তোমার পাশে -2\n(2)\nবারে বারে ডাকি আমি, শান্তি দাওনা আমায় তুমি -2\nদুঃখ ভরা মনে -2\n\n\n\n\n\n\n\n\n\n\n\nPrabhu tumi acho kothay, bhule jeyona amay\nJekhane thako tumi, tab kache rekho amay -2\n(1)\nPrabhu Prabhu daki ami, dekha daona amay tumi -2\nRekho, tomar pashe -2\n(2)\nBare bare daki ami, shanti daona amay tumi -2\nDukh bhara mone -2"
+      "audioUrl": "",
+      "audioType": "audio",
+      "version": "",
+      "key": "",
+      "scaleSet": false
     },
     {
       "id": "17af3120-0c77-417b-a9db-9773dec37803",
@@ -2098,16 +2098,14 @@
       "id": "3ba420b4-3283-4fd6-be77-7d9f5a77b4a6",
       "serialNumber": 108,
       "title": "Ami Gane Gane sudhu tomar kothai bolbo",
-      "composer": "Taken from YouTube [All in One Subip]",
+      "composer": "Collected from YouTube [All in One Subip]",
       "date": "2026-09-17",
       "composeDate": "2025-09-25",
-      "lyrics": "Ch,\nআমি গানেগানে তোমার কথাই শুধু বলব\nআমি চিরদিন চিরকাল তোমার দেখানো পথে চলব -২\nতুমি অসীমকালের অনাদি-অনন্ত ঈশ্বর\nতুমি শাশ্বতজীবনের উৎস সে কথা মনে রাখব -২\n(ক)\nওই আকাশের সূর্য তোমার আলোয় এত উজ্জ্বল\nএই পৃথিবীর প্রান্তরে তোমার নামে জাগে শতদল -২\nসুষমা তোমার ঝরে অনিবার মন্দিত কন্ঠে শোনাব -২\n(খ)\nঅশান্ত ধরণীতে শান্তি ঝরাও, স্নেহাশীষবর্ষনে ক্লান্তি মোছাও -\nতুমি মর্তলোকে এসে দিয়ে গেছ অমর আর সন্ধান\nসেই আনন্দ উচ্ছাসে ভরে ওঠে ভক্তের মন-প্রাণ -২\nস্বপ্ন আমার চরণে তোমার, অঞ্জলী হয়ফুটেরব -২",
-      "tags": [
-        "Bengali",
-        "Worship"
-      ],
-      "audioUrl": "https://youtu.be/whfwCk_YPug?si=QmrDOEuxK08D-MoD",
+      "key": "",
+      "scaleSet": false,
+      "version": "",
       "audioType": "youtube",
+      "audioUrl": "https://youtu.be/whfwCk_YPug?si=QmrDOEuxK08D-MoD",
       "audioSources": [
         {
           "id": "src-3ba420b4-3283-4fd6-be77-7d9f5a77b4a6-primary",
@@ -2117,12 +2115,14 @@
           "versionType": "youtube"
         }
       ],
-      "version": "",
-      "key": "",
-      "scaleSet": false
+      "tags": [
+        "Bengali",
+        "Worship"
+      ],
+      "lyrics": "Ch,\nআমি গানেগানে তোমার কথাই শুধু বলব\nআমি চিরদিন চিরকাল তোমার দেখানো পথে চলব -২\nতুমি অসীমকালের অনাদি-অনন্ত ঈশ্বর\nতুমি শাশ্বতজীবনের উৎস সে কথা মনে রাখব -২\n(ক)\nওই আকাশের সূর্য তোমার আলোয় এত উজ্জ্বল\nএই পৃথিবীর প্রান্তরে তোমার নামে জাগে শতদল -২\nসুষমা তোমার ঝরে অনিবার মন্দিত কন্ঠে শোনাব -২\n(খ)\nঅশান্ত ধরণীতে শান্তি ঝরাও, স্নেহাশীষবর্ষনে ক্লান্তি মোছাও -\nতুমি মর্তলোকে এসে দিয়ে গেছ অমর আর সন্ধান\nসেই আনন্দ উচ্ছাসে ভরে ওঠে ভক্তের মন-প্রাণ -২\nস্বপ্ন আমার চরণে তোমার, অঞ্জলী হয়ফুটেরব -২"
     }
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-17T18:15:29.119Z"
+  "lastUpdated": "2026-09-17T18:16:18.756Z"
 }
