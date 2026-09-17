@@ -66,37 +66,6 @@
     ]
   },
   {
-    "id": "3252f0ef-e5a7-4025-acfe-9f5b7f37199b",
-    "name": "Iy",
-    "creatorId": "admin",
-    "creatorName": "Rev. Emmanuel Admin",
-    "createdAt": "2026-09-17T02:14:08.555Z",
-    "eventDate": "2026-09-17",
-    "isPublic": true,
-    "items": [
-      {
-        "id": "ba689e9f-39b1-48c8-b4f5-f4db07407d2a",
-        "songId": "e783eae0-7586-400b-816d-af1976366279",
-        "title": "Aya vo jagat mein",
-        "customLabel": "Worship Song",
-        "customLyrics": "Aaya vo jagat mein, paapiyon ko karne paritran\nLaya vo jeevan deep sansar ko karne ujjala -2\nMarg vahi, satya vahi, jeevan bhi vahi hai -2\n(A)\nVo vahi Masi hai jo aane wala\nVo vahi Masi hai jo bachane wala -2\nSwarg uska, dharti bhi, sabka vahi hai rakha wala\n(B)\nDukh uthaya Prabhu ne, taaki hamen mukti mile\nBalidan hua Ishu ne, taise hamen jeevan mile-2\nMukti vahi hai, jeevan bhi, sabka vahi hai rakha wala\n",
-        "customScale": "C",
-        "customTempo": "",
-        "customNotes": ""
-      },
-      {
-        "id": "fd94ca6e-9012-4be0-b6bf-6ad8eb189874",
-        "songId": "18686984-349d-436e-a611-c334ab117512",
-        "title": "Gaoba gao krush banna nwngswr",
-        "customLabel": "Worship Song",
-        "customLyrics": "Gaoba gao krush banna nwngswr\nDhwrwmni lamayao agan surdw -2\nKapalao Bikayao Jwngha Krushni Hangkw-4\n(A)\nNwngswr sinai janai nonthara\nKrushni biban banna bla-2\nSushra Jadw arw phusob jadw-2\n(B)\nNwngswr papjwng dagele thar swi\nNonga bla adri jagwn -2\nSushra Jadw arw phusob jadw-2\n",
-        "customScale": "C",
-        "customTempo": "",
-        "customNotes": ""
-      }
-    ]
-  },
-  {
     "id": "3fa1785a-2685-428e-90af-66672364544d",
     "name": "Tete",
     "creatorId": "b2af4142-1f8b-42d2-9257-6dbe8d9d7b10",
