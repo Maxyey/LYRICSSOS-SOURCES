@@ -92,5 +92,27 @@
         "customNotes": ""
       }
     ]
+  },
+  {
+    "id": "5eb1b96e-ca7f-437c-87c9-a3b105a2ff4a",
+    "name": "Grnu",
+    "creatorId": "b2af4142-1f8b-42d2-9257-6dbe8d9d7b10",
+    "creatorName": "genui",
+    "createdAt": "2026-09-17T11:50:33.153Z",
+    "sessionMode": "event",
+    "eventDate": "2026-09-18",
+    "isPublic": false,
+    "items": [
+      {
+        "id": "b36265d8-e5ad-450e-b299-5e0efc6cd4c6",
+        "songId": "dbd9f283-c0be-4148-b2f6-847d0fb7ae37",
+        "title": "Afa Isora jwngkhou lananwi",
+        "customLabel": "Worship Song",
+        "customLyrics": "Afa Isora jwngkhou lananwi\nSonani nikhor dagwn\n“Bwi gwjwn swrgwao”-2 -2\n(1)\nRongza-mini jug-jugani Afa Isor jwng\nAlw-gwnwn, ruju-rumu bwi swrgwao -2\nSwrgiding Isorni, Abraham-Isahaqjwng -2\nJwngbw lwgwse Arpho fwrjwng\nJwngbw lwgwse raijw jagwn -2\n",
+        "customScale": "C",
+        "customTempo": "",
+        "customNotes": ""
+      }
+    ]
   }
 ]
