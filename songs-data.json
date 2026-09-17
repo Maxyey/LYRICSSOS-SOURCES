@@ -1428,18 +1428,18 @@
       "serialNumber": 75,
       "title": "Prabhu tumi acho kothay",
       "composer": "translated version",
-      "date": "2025-05-04T07:52:29.547Z",
+      "date": "2026-09-17",
       "composeDate": "0001-01-01",
-      "lyrics": "প্রভু তুমি আছো কোথায়, ভুলে যেওনা আমায়\nযেখানে থাকো তুমি, তব কাছে রেখো আমায় -2\n(1)\nপ্রভু প্রভু ডাকি আমি, দেখা দাওনা আমায় তুমি -2\nরেখো, তোমার পাশে -2\n(2)\nবারে বারে ডাকি আমি, শান্তি দাওনা আমায় তুমি -2\nদুঃখ ভরা মনে -2\n\n\n\n\n\n\n\n\n\n\n\nPrabhu tumi acho kothay, bhule jeyona amay\nJekhane thako tumi, tab kache rekho amay -2\n(1)\nPrabhu Prabhu daki ami, dekha daona amay tumi -2\nRekho, tomar pashe -2\n(2)\nBare bare daki ami, shanti daona amay tumi -2\nDukh bhara mone -2\n",
+      "key": "",
+      "scaleSet": false,
+      "version": "",
+      "audioType": "audio",
+      "audioUrl": "",
       "tags": [
         "Bengali",
         "Kids"
       ],
-      "audioUrl": "",
-      "audioType": "audio",
-      "version": "",
-      "key": "C",
-      "scaleSet": false
+      "lyrics": "প্রভু তুমি আছো কোথায়, ভুলে যেওনা আমায়\nযেখানে থাকো তুমি, তব কাছে রেখো আমায় -2\n(1)\nপ্রভু প্রভু ডাকি আমি, দেখা দাওনা আমায় তুমি -2\nরেখো, তোমার পাশে -2\n(2)\nবারে বারে ডাকি আমি, শান্তি দাওনা আমায় তুমি -2\nদুঃখ ভরা মনে -2\n\n\n\n\n\n\n\n\n\n\n\nPrabhu tumi acho kothay, bhule jeyona amay\nJekhane thako tumi, tab kache rekho amay -2\n(1)\nPrabhu Prabhu daki ami, dekha daona amay tumi -2\nRekho, tomar pashe -2\n(2)\nBare bare daki ami, shanti daona amay tumi -2\nDukh bhara mone -2"
     },
     {
       "id": "17af3120-0c77-417b-a9db-9773dec37803",
@@ -1977,15 +1977,15 @@
       "composer": "xxxxxxxxxxxxxx",
       "date": "2026-09-17",
       "composeDate": "0001-01-01",
-      "key": "",
-      "scaleSet": false,
-      "version": "Youtube Scratch ",
-      "audioType": "audio",
-      "audioUrl": "",
+      "lyrics": "Yeshule hamro jeevan lai\nYeshule hamro pap lai dhoi dene chan.\n'Aunu hos -2 mukti linu lai -2\n(1)\nChini hamro Prabhu Ishu raja lai\nBishwas garo unai ma aajnai -2\n'Aunu hos -2 shanti linu lai -2\n(2)\nUni hon shanti dine Prabhu\nUni hon bato swarga ko -2\n'Aunu hos -2 jeevan linu lai -2",
       "tags": [
         "Nepali"
       ],
-      "lyrics": "Yeshule hamro jeevan lai\nYeshule hamro pap lai dhoi dene chan.\n'Aunu hos -2 mukti linu lai -2\n(1)\nChini hamro Prabhu Ishu raja lai\nBishwas garo unai ma aajnai -2\n'Aunu hos -2 shanti linu lai -2\n(2)\nUni hon shanti dine Prabhu\nUni hon bato swarga ko -2\n'Aunu hos -2 jeevan linu lai -2"
+      "audioUrl": "",
+      "audioType": "audio",
+      "version": "Youtube Scratch ",
+      "key": "",
+      "scaleSet": false
     },
     {
       "id": "350a16b7-3fc2-4abe-950b-0ba8f73a2ba7",
@@ -2124,5 +2124,5 @@
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-17T18:14:24.164Z"
+  "lastUpdated": "2026-09-17T18:15:29.119Z"
 }
