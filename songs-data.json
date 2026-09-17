@@ -1040,34 +1040,34 @@
       "composer": "Mrinal Iswarari",
       "date": "2026-09-17",
       "composeDate": "0001-01-01",
+      "lyrics": "জীবন জলের ধারে আমায় চড়াও\nতোমার ইচ্ছা মত চড়ো সদাপ্রভু,\nআমার এই ক্ষুদ্র জীবন -2\n(A)\nএ জীবন মন সদাপ্রভু তোমার স্মরনাগত\nআমার প্রতি সুধু একবার দৃষ্টি ফেরাও হে প্রভু -2\n(B)\nএই দু চোখে দেখেছি প্রভু তোমারি সৃষ্ট জগৎ\nএই জীবনে পেয়েছি প্রভু তোমার অমর আত্মা -2\n________________________________\n\nJibon jaler dhare amay chorao\nTomar ichcha mat charo Sadaprabhu,\nAmay ei kshudra jibon -2\n(A)\nE jibon mon Sadaprabhu tomar smaranagat\nAmar prati sudhu ekbar drishti ferao he Prabhu -2\n(B)\nEi du chokhe dekhechi Prabhu tomar srishti jagat\nEi jibone peyechhi Prabhu tomar amar atma -2",
+      "tags": [
+        "Bengali"
+      ],
+      "audioUrl": "",
+      "audioType": "audio",
+      "version": "",
+      "key": "",
+      "scaleSet": false
+    },
+    {
+      "id": "0a9e22c6-d052-453f-9fb3-b460abbe0e21",
+      "serialNumber": 56,
+      "title": "Jisu amader shokti dao",
+      "composer": "Mrinal Iswarari",
+      "date": "2026-09-17",
+      "composeDate": "0001-01-01",
       "key": "",
       "scaleSet": false,
       "version": "",
       "audioType": "audio",
       "audioUrl": "",
       "tags": [
-        "Bengali"
-      ],
-      "lyrics": "জীবন জলের ধারে আমায় চড়াও\nতোমার ইচ্ছা মত চড়ো সদাপ্রভু,\nআমার এই ক্ষুদ্র জীবন -2\n(A)\nএ জীবন মন সদাপ্রভু তোমার স্মরনাগত\nআমার প্রতি সুধু একবার দৃষ্টি ফেরাও হে প্রভু -2\n(B)\nএই দু চোখে দেখেছি প্রভু তোমারি সৃষ্ট জগৎ\nএই জীবনে পেয়েছি প্রভু তোমার অমর আত্মা -2\n________________________________\n\nJibon jaler dhare amay chorao\nTomar ichcha mat charo Sadaprabhu,\nAmay ei kshudra jibon -2\n(A)\nE jibon mon Sadaprabhu tomar smaranagat\nAmar prati sudhu ekbar drishti ferao he Prabhu -2\n(B)\nEi du chokhe dekhechi Prabhu tomar srishti jagat\nEi jibone peyechhi Prabhu tomar amar atma -2"
-    },
-    {
-      "id": "0a9e22c6-d052-453f-9fb3-b460abbe0e21",
-      "serialNumber": 56,
-      "title": "Jisu amader shokti dao",
-      "composer": "Mrinal Iswarari ",
-      "date": "2025-05-04T07:45:58.451Z",
-      "composeDate": "0001-01-01",
-      "lyrics": "যীশু আমাদের শক্তি দাও\nআশীর্বাদ তুমি ঢেলে দাও\nদুর্বল মোরা বিশ্বাসে\nকর্ণপাত কর প্রার্থনতে\nধন্য প্রভু ধন্য\nজয় জয় প্রভু জয় জয়\n\n\n\n\n\n\n\n\n\n\nJisu amader shokti dao\nAshirbad tumi dhele dao\nDurbal mora bishwashe\nKornopat koro prarthanate\nDhonnobad Prabhu dhonnobad\nJoy joy Prabhu joy joy\n",
-      "tags": [
         "Bengali",
         "Prayer",
         "Kids"
       ],
-      "audioUrl": "",
-      "audioType": "audio",
-      "version": "",
-      "key": "C",
-      "scaleSet": false
+      "lyrics": "যীশু আমাদের শক্তি দাও\nআশীর্বাদ তুমি ঢেলে দাও\nদুর্বল মোরা বিশ্বাসে\nকর্ণপাত কর প্রার্থনতে\nধন্য প্রভু ধন্য\nজয় জয় প্রভু জয় জয়\n________________________________\n\nJisu amader shokti dao\nAshirbad tumi dhele dao\nDurbal mora bishwashe\nKornopat koro prarthanate\nDhonnobad Prabhu dhonnobad\nJoy joy Prabhu joy joy"
     },
     {
       "id": "8efaea4f-b692-4676-b4a0-95508a6cdade",
@@ -2122,5 +2122,5 @@
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-17T10:05:10.562Z"
+  "lastUpdated": "2026-09-17T10:06:03.203Z"
 }
