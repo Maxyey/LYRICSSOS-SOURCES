@@ -1446,18 +1446,18 @@
       "composer": "Mrinal Iswarari",
       "date": "2026-09-17",
       "composeDate": "0001-01-01",
-      "key": "",
-      "scaleSet": false,
-      "version": "",
-      "audioType": "audio",
-      "audioUrl": "",
+      "lyrics": "প্রার্থনা করি প্রভু তোমার চরনে পড়ি -2\nহৃদয় মন্দীরে বাস কর প্রভু হৃদয় ফলকে লিখো মোদের -2\n(A)\nজীবন বৃক্ষ তুমি মোদের সকলের জীবন খাদ্য তুমি সকল জাতির -2\nপ্রাণাকাঙ্খী মোরা প্রাণ কর হে তোমার জীবন্ত বাক্যে -2\nহৃদয় মন্দীরে বাস কর প্রভু\nহৃদয় ফলকে লিখো মোদের -2\n(B)\nদীনহীন ন্যামাত্মা তোমাকে কাঁদে সদাপ্রভু\n_______________________________________________\n\nPrarthana kori Prabhu tomar charane pori -2\nHridoy mondire bash koro Prabhu, hridoy pholoke likho moder -2\n(A)\nJibon brikkho tumi moder shokoler, jibon khadyo tumi shokol jatir -2\nPranakankhi mora pran koro he tomar jibonto bakye -2\nHridoy mondire bash koro Prabhu\nHridoy pholoke likho moder -2\n(B)\nDinhin nyam atma tomay kande Sadaprabhu",
       "tags": [
         "Bengali",
         "Worship",
         "Praise",
         "Prayer"
       ],
-      "lyrics": "প্রার্থনা করি প্রভু তোমার চরনে পড়ি -2\nহৃদয় মন্দীরে বাস কর প্রভু হৃদয় ফলকে লিখো মোদের -2\n(A)\nজীবন বৃক্ষ তুমি মোদের সকলের জীবন খাদ্য তুমি সকল জাতির -2\nপ্রাণাকাঙ্খী মোরা প্রাণ কর হে তোমার জীবন্ত বাক্যে -2\nহৃদয় মন্দীরে বাস কর প্রভু\nহৃদয় ফলকে লিখো মোদের -2\n(B)\nদীনহীন ন্যামাত্মা তোমাকে কাঁদে সদাপ্রভু\n_______________________________________________\n\nPrarthana kori Prabhu tomar charane pori -2\nHridoy mondire bash koro Prabhu, hridoy pholoke likho moder -2\n(A)\nJibon brikkho tumi moder shokoler, jibon khadyo tumi shokol jatir -2\nPranakankhi mora pran koro he tomar jibonto bakye -2\nHridoy mondire bash koro Prabhu\nHridoy pholoke likho moder -2\n(B)\nDinhin nyam atma tomay kande Sadaprabhu"
+      "audioUrl": "",
+      "audioType": "audio",
+      "version": "",
+      "key": "",
+      "scaleSet": false
     },
     {
       "id": "9624005f-3fc1-4ae4-a7ad-ebe3a2320e98",
@@ -1579,20 +1579,20 @@
       "id": "6390ddcc-e350-4dc7-8746-939c072ac980",
       "serialNumber": 83,
       "title": "Sadaprabhu amader prati nij mukher dipti",
-      "composer": "Mrinal Iswarari ",
-      "date": "2025-05-04T07:55:06.242Z",
+      "composer": "Mrinal Iswarari",
+      "date": "2026-09-17",
       "composeDate": "0001-01-01",
-      "lyrics": "সদাপ্রভু আমাদের প্রতি নিজ মুখের দিপ্তী\nউদিত কর তুমি মোদের অন্ত:করনে\nসকলকে প্রভু তুমি দীপ্ত কর\n\n\n\n\n\n\n\n\nSadaprabhu amader prati nij mukher dipti\nUdita koro tumi moder antar karane\nSakalke Prabhu tumi dipta koro\n",
+      "key": "",
+      "scaleSet": false,
+      "version": "",
+      "audioType": "audio",
+      "audioUrl": "",
       "tags": [
         "Bengali",
         "Jingle",
         "Kids"
       ],
-      "audioUrl": "",
-      "audioType": "audio",
-      "version": "",
-      "key": "C",
-      "scaleSet": false
+      "lyrics": "সদাপ্রভু আমাদের প্রতি নিজ মুখের দিপ্তী\nউদিত কর তুমি মোদের অন্ত:করনে\nসকলকে প্রভু তুমি দীপ্ত কর- 2\n_________________________________\n\nSadaprabhu amader prati nij mukher dipti\nUdita koro tumi moder antar karane\nSakalke Prabhu tumi dipta koro"
     },
     {
       "id": "722e575d-f755-4ebc-86fc-77fdf052d66a",
@@ -2122,5 +2122,5 @@
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-17T10:08:06.879Z"
+  "lastUpdated": "2026-09-17T10:11:59.840Z"
 }
