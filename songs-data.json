@@ -377,16 +377,16 @@
       "composer": "Mrinal Iswarari",
       "date": "2026-09-17",
       "composeDate": "0001-01-01",
-      "key": "",
-      "scaleSet": false,
-      "version": "",
-      "audioType": "audio",
-      "audioUrl": "",
+      "lyrics": "চলরে চলরে চল খ্রীষ্টতে তরুণ দল\nচলরে চলরে চল বিশ্বাসি ও ভক্ত দল\nছাড়ি লজ্জা দুঃখ ভাবনায় পরে থেকো না\nমিথ্যা ভয়ে পরে থেকো না\n(1)\nদূর দিগন্তে কালো মেধে ছেয়ে গেছে এ ভূবন\nহিংসা দ্বন্দ ভেদে-ভেদে পাপে ভরা ক্লান্ত মন -2\nদাওহে প্রানে আশার চেতনা, পাপ আধরে থেকোনা -2\n(2)\nপ্রেম ও আলো ছড়িয়ে দাও, বিশ্ববাসির মাঝারে\nপ্রেম কাহিনি শোনাও তাদের, যারা আছে আধাঁরে -2\nদাওহে প্রানে আশার চেতনা, পাপ আধরে থেকোনা -2\n_____________________________________\n\nCholre cholre chol Khriste tarun dal\nCholre cholre chol bishwasi o bhakta dal\nChhari lajja dukh bhabonay pore thako na\nMithya bhaye pore thako na\n(1)\nDur digante kalo medhe cheye geche e bhuvan\nHingsha dwand bhede-bhede pape bhara klanto mon -2\nDaoh prane ashar chetana, pap adhare thekona -2\n(2)\nPrem o alo chhuriye dao, bishwabasir majhare\nPrem kahini shonawo tader, jara ache adhare -2\nDaoh prane ashar chetana, pap adhare thekona -2",
       "tags": [
         "Bengali",
         "worriors"
       ],
-      "lyrics": "চলরে চলরে চল খ্রীষ্টতে তরুণ দল\nচলরে চলরে চল বিশ্বাসি ও ভক্ত দল\nছাড়ি লজ্জা দুঃখ ভাবনায় পরে থেকো না\nমিথ্যা ভয়ে পরে থেকো না\n(1)\nদূর দিগন্তে কালো মেধে ছেয়ে গেছে এ ভূবন\nহিংসা দ্বন্দ ভেদে-ভেদে পাপে ভরা ক্লান্ত মন -2\nদাওহে প্রানে আশার চেতনা, পাপ আধরে থেকোনা -2\n(2)\nপ্রেম ও আলো ছড়িয়ে দাও, বিশ্ববাসির মাঝারে\nপ্রেম কাহিনি শোনাও তাদের, যারা আছে আধাঁরে -2\nদাওহে প্রানে আশার চেতনা, পাপ আধরে থেকোনা -2\n_____________________________________\n\nCholre cholre chol Khriste tarun dal\nCholre cholre chol bishwasi o bhakta dal\nChhari lajja dukh bhabonay pore thako na\nMithya bhaye pore thako na\n(1)\nDur digante kalo medhe cheye geche e bhuvan\nHingsha dwand bhede-bhede pape bhara klanto mon -2\nDaoh prane ashar chetana, pap adhare thekona -2\n(2)\nPrem o alo chhuriye dao, bishwabasir majhare\nPrem kahini shonawo tader, jara ache adhare -2\nDaoh prane ashar chetana, pap adhare thekona -2"
+      "audioUrl": "",
+      "audioType": "audio",
+      "version": "",
+      "key": "",
+      "scaleSet": false
     },
     {
       "id": "7d161b27-d94e-4ba9-a6e4-707b521bf79f",
@@ -799,20 +799,20 @@
     {
       "id": "8c19d30f-1ca2-4f88-9fdf-2653fc2e4989",
       "serialNumber": 43,
-      "title": "He amar Ishwar, he amar Rajon ",
-      "composer": "Mrinal Iswarari ",
-      "date": "2025-05-04T07:41:20.796Z",
+      "title": "He amar Ishwar, he amar Rajon",
+      "composer": "Mrinal Iswarari",
+      "date": "2026-09-17",
       "composeDate": "0001-01-01",
-      "lyrics": "হে আমার ঈশ্বর, \nহে আমার রাজন -2\n(A)\nবাক্য তোমার শক্তিমান\nসৃষ্টি করেছো এ জগৎ\nহস্ত তোমার পরাক্রমী\nসৃষ্টি করেছো মানব -2\n(B)\nদিন প্রতিদিন তোমার নামের\nধন্যবাদ করিব\nযুগে যুগে তোমার নামের\nপ্রশংসা গাহিব।\n\n\n\n\n\n\n\n\n\n\n\nHe amar Ishwar, he amar Rajon -2\n(A)\nBokto tomar shoktiman\nShrishti korecho e jagot\nHath tomar porokromi\nShrishti korecho manob -2\n(B)\nDin protidin tomar nam er\nDhonnobad koribo\nJuge juge tomar nam er\nProshonsho gahibo\n",
+      "key": "",
+      "scaleSet": false,
+      "version": "",
+      "audioType": "audio",
+      "audioUrl": "",
       "tags": [
         "Bengali",
         "Praise"
       ],
-      "audioUrl": "",
-      "audioType": "audio",
-      "version": "",
-      "key": "C",
-      "scaleSet": false
+      "lyrics": "হে আমার ঈশ্বর, \nহে আমার রাজন -2\n(A)\nবাক্য তোমার শক্তিমান\nসৃষ্টি করেছো এ জগৎ\nহস্ত তোমার পরাক্রমী\nসৃষ্টি করেছো মানব -2\n(B)\nদিন প্রতিদিন তোমার নামের\nধন্যবাদ করিব\nযুগে যুগে তোমার নামের\nপ্রশংসা গাহিব।\n________________________________\n\nHe amar Ishwar, he amar Rajon -2\n(A)\nBokto tomar shoktiman\nShrishti korecho e jagot\nHath tomar porokromi\nShrishti korecho manob -2\n(B)\nDin protidin tomar nam er\nDhonnobad koribo\nJuge juge tomar nam er\nProshonsho gahibo"
     },
     {
       "id": "420bb5b6-0b6e-427d-9fcb-5631fb4a4005",
@@ -2122,5 +2122,5 @@
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-17T09:56:12.317Z"
+  "lastUpdated": "2026-09-17T09:57:19.670Z"
 }
