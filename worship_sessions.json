@@ -49,5 +49,26 @@
         "customNotes": ""
       }
     ]
+  },
+  {
+    "id": "dedc87ea-8e63-4115-8da8-f3f78f3cdb2a",
+    "name": "Genuine Iswarari",
+    "creatorId": "admin",
+    "creatorName": "Rev. Emmanuel Admin",
+    "createdAt": "2026-09-17T06:05:01.279Z",
+    "eventDate": "2026-09-21",
+    "isPublic": true,
+    "items": [
+      {
+        "id": "e7653069-a0df-4005-8fdc-8e5db5ee41a2",
+        "songId": "dbd9f283-c0be-4148-b2f6-847d0fb7ae37",
+        "title": "Afa Isora jwngkhou lananwi",
+        "customLabel": "Worship Song",
+        "customLyrics": "Afa Isora jwngkhou lananwi\nSonani nikhor dagwn\n“Bwi gwjwn swrgwao”-2 -2\n(1)\nRongza-mini jug-jugani Afa Isor jwng\nAlw-gwnwn, ruju-rumu bwi swrgwao -2\nSwrgiding Isorni, Abraham-Isahaqjwng -2\nJwngbw lwgwse Arpho fwrjwng\nJwngbw lwgwse raijw jagwn -2\n",
+        "customScale": "C",
+        "customTempo": "",
+        "customNotes": ""
+      }
+    ]
   }
 ]
