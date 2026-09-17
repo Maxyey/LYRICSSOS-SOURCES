@@ -66,16 +66,16 @@
     ]
   },
   {
-    "id": "3fa1785a-2685-428e-90af-66672364544d",
-    "name": "Tete",
-    "creatorId": "b2af4142-1f8b-42d2-9257-6dbe8d9d7b10",
-    "creatorName": "genui",
-    "createdAt": "2026-09-17T04:38:51.444Z",
+    "id": "3252f0ef-e5a7-4025-acfe-9f5b7f37199b",
+    "name": "Iy",
+    "creatorId": "admin",
+    "creatorName": "Rev. Emmanuel Admin",
+    "createdAt": "2026-09-17T02:14:08.555Z",
     "eventDate": "2026-09-17",
     "isPublic": true,
     "items": [
       {
-        "id": "4cc32aa8-1abb-4877-a851-339f725cc717",
+        "id": "ba689e9f-39b1-48c8-b4f5-f4db07407d2a",
         "songId": "e783eae0-7586-400b-816d-af1976366279",
         "title": "Aya vo jagat mein",
         "customLabel": "Worship Song",
@@ -85,11 +85,32 @@
         "customNotes": ""
       },
       {
-        "id": "c24081e7-2f9e-4e86-b1ef-1b9f05944540",
-        "songId": "e9d21a3d-594f-474b-a5dd-bdf585686aaf",
-        "title": "Beseba gwjwn gaoni swrgwpuri khou",
+        "id": "fd94ca6e-9012-4be0-b6bf-6ad8eb189874",
+        "songId": "18686984-349d-436e-a611-c334ab117512",
+        "title": "Gaoba gao krush banna nwngswr",
         "customLabel": "Worship Song",
-        "customLyrics": "Beseba gwjwn gaoni swrgwpuri khou\nNagarnan fwibai nwng papi buhumao -2\nDukhu swibai papifwrni thakwi\nAlai jabai krush sayao\n(A)\nRaobw gwiya be buhum bicayao\nMwdwi hugarnw Porbu nwngni duhkuao -2\nDersin sanbai gaswi gaoni dukhukhou\nGwjaolangbai gaswi nongkhai lamajwng\nMuluk subung-a , gwjan eraibai\n(B)\nRaobw naihora nwngi krush bannai khou\nGwja thwijwng bwhwifanai  dukhukhou -2\nDai gwiwi nwngni thwini nijira\nPapi subunga dinwi nwngkhou fwthaia\nMuluk subung-a , gwjan eraibai\n",
+        "customLyrics": "Gaoba gao krush banna nwngswr\nDhwrwmni lamayao agan surdw -2\nKapalao Bikayao Jwngha Krushni Hangkw-4\n(A)\nNwngswr sinai janai nonthara\nKrushni biban banna bla-2\nSushra Jadw arw phusob jadw-2\n(B)\nNwngswr papjwng dagele thar swi\nNonga bla adri jagwn -2\nSushra Jadw arw phusob jadw-2\n",
+        "customScale": "C",
+        "customTempo": "",
+        "customNotes": ""
+      }
+    ]
+  },
+  {
+    "id": "1ad283ad-33fc-47a9-81b7-e7661a49a534",
+    "name": "T",
+    "creatorId": "b2af4142-1f8b-42d2-9257-6dbe8d9d7b10",
+    "creatorName": "genui",
+    "createdAt": "2026-09-17T04:56:43.065Z",
+    "eventDate": "2026-09-17",
+    "isPublic": true,
+    "items": [
+      {
+        "id": "415c7d61-3b44-4735-be80-7d35fe5a955b",
+        "songId": "15e1f7a3-1bbe-4727-aa73-2c178cc6d05f",
+        "title": "Arose gabw nwng khwnasong",
+        "customLabel": "Worship Song",
+        "customLyrics": "Arose gabw nwng khwnasong\nJwng sibiyw nwng khwnasong -2\nJwng rwjabbai thagwn nwngni khamsalia\nJwng nebai thagwn nwng fwifin jase\n“Nwng langfa nangwn- jwngkhou langfanangwn” -2\n(A)\nSwithw dhwrwm khou jwng sibiyw\nJiuni derakhou jwng hastayw -2\n“Nwng langfa nangwn- jwngkhou langfanangwn” -2\n(B)\nFwthai nayao jwng khwose jarwnga\nSibinayao jwng gwsw hwrwnga -2\n“Nwng langfa nangwn- jwngkhou langfanangwn” -2\n",
         "customScale": "C",
         "customTempo": "",
         "customNotes": ""
