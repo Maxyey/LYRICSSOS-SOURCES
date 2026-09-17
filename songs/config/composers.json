@@ -10,15 +10,16 @@
     "id": "alen-mochari",
     "name": "Alen Mochari",
     "bio": "Renowned lyricist and co-creator of uplifting worship anthems, collaborating closely with the Sonadoba ministry to spread the gospel through music.",
-    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789650019133_1000158164.jpg",
+    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789650084110_1000157968.png",
     "ministryYears": "2018 – Present"
   },
   {
     "id": "alex-iswarari",
     "name": "Alex Iswarari",
     "bio": "Dedicated songwriter and musical arranger contributing spiritual hymns and inspiring melodies to the Songs of Salvation anthology.",
-    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789650057270_1000158164.jpg",
-    "ministryYears": "2016 – Present"
+    "photoUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=80",
+    "ministryYears": "2016 – Present",
+    "featured": true
   },
   {
     "id": "protensing-narjinari",
