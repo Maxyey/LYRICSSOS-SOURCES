@@ -1,26 +1,5 @@
 [
   {
-    "id": "26dbc5c8-6d42-4147-b31b-5c3133c4c8cd",
-    "name": "Gods",
-    "creatorId": "admin",
-    "creatorName": "Administrator",
-    "createdAt": "2026-09-17T10:25:50.182Z",
-    "eventDate": "2026-09-17",
-    "isPublic": true,
-    "items": [
-      {
-        "id": "c0190c8a-7a9d-4680-92d7-d49c095501c4",
-        "songId": "dbd9f283-c0be-4148-b2f6-847d0fb7ae37",
-        "title": "Afa Isora jwngkhou lananwi",
-        "customLabel": "Worship Song",
-        "customLyrics": "Afa Isora jwngkhou lananwi\nSonani nikhor dagwn\n“Bwi gwjwn swrgwao”-2 -2\n(1)\nRongza-mini jug-jugani Afa Isor jwng\nAlw-gwnwn, ruju-rumu bwi swrgwao -2\nSwrgiding Isorni, Abraham-Isahaqjwng -2\nJwngbw lwgwse Arpho fwrjwng\nJwngbw lwgwse raijw jagwn -2\n",
-        "customScale": "C",
-        "customTempo": "",
-        "customNotes": ""
-      }
-    ]
-  },
-  {
     "id": "ae5d1236-475c-4ad7-adc4-a7ff9bca5860",
     "name": "Khc",
     "creatorId": "b2af4142-1f8b-42d2-9257-6dbe8d9d7b10",
