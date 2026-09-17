@@ -149,20 +149,20 @@
       "id": "61fbb8c4-3d70-43eb-abcc-51bb2fbd48b7",
       "serialNumber": 8,
       "title": "Amra khelibo sworgete",
-      "composer": "Mrinal Iswarari ",
-      "date": "2025-05-04T07:23:33.048Z",
+      "composer": "Mrinal Iswarari",
+      "date": "2026-09-17",
       "composeDate": "0001-01-01",
-      "lyrics": "আমরা খেলিব স্বর্গেতে, স্বর্গদূতের আলোতে -2\nসকল পাপী নরক গামী, আমরা স্বর্গগামী -2\n(A)\nনতুন আকাশ, নতুন পৃথিবী নেত্রজল আর নাই\nমনুষ্য আর সদাপ্রভুর একত্র বাস সেথায়-2\n\n\n\n\n\n\n\n\nAmra khelibo sworgete, sworgoduter alote -2\nShokol papi narok gami, amra sworggami -2\n(A)\nNotun akash, notun prithibi, netrojol ar nai\nManush ar Sadaprabhur ekotro bas shethay -2\n",
+      "key": "",
+      "scaleSet": false,
+      "version": "",
+      "audioType": "audio",
+      "audioUrl": "",
       "tags": [
         "Bengali",
         "Jingle",
         "Kids"
       ],
-      "audioUrl": "",
-      "audioType": "audio",
-      "version": "",
-      "key": "C",
-      "scaleSet": false
+      "lyrics": "আমরা খেলিব স্বর্গেতে, স্বর্গদূতের আলোতে -2\nসকল পাপী নরক গামী, আমরা স্বর্গগামী -2\n(A)\nনতুন আকাশ, নতুন পৃথিবী নেত্রজল আর নাই\nমনুষ্য আর সদাপ্রভুর একত্র বাস সেথায়-2\n___________________________________________\n\nAmra khelibo sworgete, sworgoduter alote -2\nShokol papi narok gami, amra sworggami -2\n(A)\nNotun akash, notun prithibi, netrojol ar nai\nManush ar Sadaprabhur ekotro bas shethay -2"
     },
     {
       "id": "15e1f7a3-1bbe-4727-aa73-2c178cc6d05f",
@@ -2099,11 +2099,13 @@
       "composer": "Taken from YouTube [All in One Subip]",
       "date": "2026-09-17",
       "composeDate": "2025-09-25",
-      "key": "",
-      "scaleSet": false,
-      "version": "",
-      "audioType": "youtube",
+      "lyrics": "Ch,\nআমি গানেগানে তোমার কথাই শুধু বলব\nআমি চিরদিন চিরকাল তোমার দেখানো পথে চলব -২\nতুমি অসীমকালের অনাদি-অনন্ত ঈশ্বর\nতুমি শাশ্বতজীবনের উৎস সে কথা মনে রাখব -২\n(ক)\nওই আকাশের সূর্য তোমার আলোয় এত উজ্জ্বল\nএই পৃথিবীর প্রান্তরে তোমার নামে জাগে শতদল -২\nসুষমা তোমার ঝরে অনিবার মন্দিত কন্ঠে শোনাব -২\n(খ)\nঅশান্ত ধরণীতে শান্তি ঝরাও, স্নেহাশীষবর্ষনে ক্লান্তি মোছাও -\nতুমি মর্তলোকে এসে দিয়ে গেছ অমর আর সন্ধান\nসেই আনন্দ উচ্ছাসে ভরে ওঠে ভক্তের মন-প্রাণ -২\nস্বপ্ন আমার চরণে তোমার, অঞ্জলী হয়ফুটেরব -২",
+      "tags": [
+        "Bengali",
+        "Worship"
+      ],
       "audioUrl": "https://youtu.be/whfwCk_YPug?si=QmrDOEuxK08D-MoD",
+      "audioType": "youtube",
       "audioSources": [
         {
           "id": "src-3ba420b4-3283-4fd6-be77-7d9f5a77b4a6-primary",
@@ -2113,14 +2115,12 @@
           "versionType": "youtube"
         }
       ],
-      "tags": [
-        "Bengali",
-        "Worship"
-      ],
-      "lyrics": "Ch,\nআমি গানেগানে তোমার কথাই শুধু বলব\nআমি চিরদিন চিরকাল তোমার দেখানো পথে চলব -২\nতুমি অসীমকালের অনাদি-অনন্ত ঈশ্বর\nতুমি শাশ্বতজীবনের উৎস সে কথা মনে রাখব -২\n(ক)\nওই আকাশের সূর্য তোমার আলোয় এত উজ্জ্বল\nএই পৃথিবীর প্রান্তরে তোমার নামে জাগে শতদল -২\nসুষমা তোমার ঝরে অনিবার মন্দিত কন্ঠে শোনাব -২\n(খ)\nঅশান্ত ধরণীতে শান্তি ঝরাও, স্নেহাশীষবর্ষনে ক্লান্তি মোছাও -\nতুমি মর্তলোকে এসে দিয়ে গেছ অমর আর সন্ধান\nসেই আনন্দ উচ্ছাসে ভরে ওঠে ভক্তের মন-প্রাণ -২\nস্বপ্ন আমার চরণে তোমার, অঞ্জলী হয়ফুটেরব -২"
+      "version": "",
+      "key": "",
+      "scaleSet": false
     }
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-17T09:49:17.195Z"
+  "lastUpdated": "2026-09-17T09:55:04.474Z"
 }
