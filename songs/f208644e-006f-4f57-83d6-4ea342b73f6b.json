@@ -1,15 +1,27 @@
 {
   "id": "f208644e-006f-4f57-83d6-4ea342b73f6b",
+  "serialNumber": 69,
   "title": "Naya jeevan ko hamein de Prabhu",
-  "composer": "A.Mochari & M. Iswarari",
-  "lyrics": "Naya jeevan ko hamen de Prabhu\nTere pyar ko bhi de -2\nJaise ham tere saath chalun -2\n(A)\nHam hain paap se doobe hue insaan\nKaro tum hamen paritran -2\nJaise ham ho saken tera (insaan-3)\n(B)\nJab tum is duniya mein aoge\nSach-jhooth ka insaaf karoge -2\nJaise ham ho saken tera (insaan-3)\n",
+  "composer": "Mrinal Iswarari",
+  "lyricist": "Alen Mochari",
+  "date": "2026-09-17",
+  "composeDate": "0001-01-01",
+  "key": "",
+  "scaleSet": false,
+  "version": "",
+  "audioType": "audio",
+  "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/d11fc0bf-8d18-4f5e-932b-9d23e9a2e601.m4a",
+  "audioSources": [
+    {
+      "id": "src-f208644e-006f-4f57-83d6-4ea342b73f6b-primary",
+      "label": "With Music",
+      "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/d11fc0bf-8d18-4f5e-932b-9d23e9a2e601.m4a",
+      "type": "audio",
+      "versionType": "with-music"
+    }
+  ],
   "tags": [
     "Hindi"
   ],
-  "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/d11fc0bf-8d18-4f5e-932b-9d23e9a2e601.m4a",
-  "audioType": "audio",
-  "composeDate": "0001-01-01",
-  "version": "Standard Version",
-  "serialNumber": 69,
-  "date": "2025-09-30T08:07:23.706Z"
+  "lyrics": "Naya jeevan ko hamen de Prabhu\nTere pyar ko bhi de -2\nJaise ham tere saath chalun -2\n(A)\nHam hain paap se doobe hue insaan\nKaro tum hamen paritran -2\nJaise ham ho saken tera (insaan-3)\n(B)\nJab tum is duniya mein aoge\nSach-jhooth ka insaaf karoge -2\nJaise ham ho saken tera (insaan-3)"
 }
