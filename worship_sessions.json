@@ -95,26 +95,5 @@
         "customNotes": ""
       }
     ]
-  },
-  {
-    "id": "1ad283ad-33fc-47a9-81b7-e7661a49a534",
-    "name": "T",
-    "creatorId": "b2af4142-1f8b-42d2-9257-6dbe8d9d7b10",
-    "creatorName": "genui",
-    "createdAt": "2026-09-17T04:56:43.065Z",
-    "eventDate": "2026-09-17",
-    "isPublic": true,
-    "items": [
-      {
-        "id": "415c7d61-3b44-4735-be80-7d35fe5a955b",
-        "songId": "15e1f7a3-1bbe-4727-aa73-2c178cc6d05f",
-        "title": "Arose gabw nwng khwnasong",
-        "customLabel": "Worship Song",
-        "customLyrics": "Arose gabw nwng khwnasong\nJwng sibiyw nwng khwnasong -2\nJwng rwjabbai thagwn nwngni khamsalia\nJwng nebai thagwn nwng fwifin jase\n“Nwng langfa nangwn- jwngkhou langfanangwn” -2\n(A)\nSwithw dhwrwm khou jwng sibiyw\nJiuni derakhou jwng hastayw -2\n“Nwng langfa nangwn- jwngkhou langfanangwn” -2\n(B)\nFwthai nayao jwng khwose jarwnga\nSibinayao jwng gwsw hwrwnga -2\n“Nwng langfa nangwn- jwngkhou langfanangwn” -2\n",
-        "customScale": "C",
-        "customTempo": "",
-        "customNotes": ""
-      }
-    ]
   }
 ]
