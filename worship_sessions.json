@@ -25,47 +25,6 @@
     ]
   },
   {
-    "id": "83e06c4b-b153-45eb-9d05-829814b49412",
-    "name": "Meth",
-    "creatorId": "b2af4142-1f8b-42d2-9257-6dbe8d9d7b10",
-    "creatorName": "genui",
-    "createdAt": "2026-09-17T02:02:04.499Z",
-    "eventDate": "2026-09-17",
-    "isPublic": true,
-    "items": [
-      {
-        "id": "93a0a666-d90b-46b8-9524-c357a2ac8581",
-        "songId": "3dd1760c-7909-4366-ada0-c2ff31a14127",
-        "title": "Akhaijwng akhai homnanwi",
-        "customLabel": "Worship Song",
-        "customLyrics": "Akhaijwng akhai homnanwi\nAganjwng agan surnanwi -2\nFwidwng jwng, beao boibw, rongza-rongza\n(A)\nFwi jwng gwsw khousewi\nFwi jwng jiu mwnsewi -2\nDhwrwm guruni fwrwngnaikhou gwsw hwni\n(B)\nLwrbang fwthainaikhou\nFwgwmfwi Phwrbuniao -2\nGwsw-gwrbwni, gajri mani, siman lani\n",
-        "customScale": "C",
-        "customTempo": "",
-        "customNotes": ""
-      },
-      {
-        "id": "889de522-a2fb-4c18-a1d2-b057b3d283b3",
-        "songId": "842ba86e-ba94-4c3e-b6ac-2392eb2557b6",
-        "title": "Dinwini be dibosha, Bibar badi somaina",
-        "customLabel": "Worship Song",
-        "customLyrics": "Dinwini be dibosha, Bibar badi somaina\nJwngkhou fwjakhangw, Jwngkhou thulungayw-2\n(A)\nBifang, Bibar, bithaibw thaiyw, Daosen daolafwrbw Bafwiyw\nFwrbuni mungwi gabjrikhaow, Be buhuma somaiswtharw -2\n(B)\nGwthar bibelkhou bujinw hayw, Dhwrwm lamakhou sinai hayw\nGwthar Jiua basa lafwiyw, Jwbnw gwiywi jiu mwnkhatharw-2\n(C)\nDukhu somaobw Banjaifwyw,  Andaibwla lama dinthiyw\nSudem bara suglaihwfwyw, Hajw halabw rongzakhangw-2\n",
-        "customScale": "C",
-        "customTempo": "",
-        "customNotes": ""
-      },
-      {
-        "id": "e1847deb-f158-48c0-9e15-30eccd13078e",
-        "songId": "ce3e34dd-7c85-4080-bd16-23b1c57cd2c6",
-        "title": "Khwnasongdw jwngni gabnai",
-        "customLabel": "Worship Song",
-        "customLyrics": "Khwnasongdw jwngni gabnai\nJwng haoria alai-silai -2\nNwngni swrjinai gwsw-mwdwm-jiu\nNimaha hwdw jwngkhou -2\n(A)\nSubunga dhwrwmkhou baogarlangbai\nBifa Isorkhou lajihwbai -2\nGwmalangbai gwmwrlangbai\nGwjaolangbai bwi lwithwao -2\n(B)\nSubunga jiukhou khwmalangbai\nSongsarni dhwnkhou hastainanwi -2\nGwmalangbai gwmwrlangbai\nGwjaolangbai bwi lwithwao -2",
-        "customScale": "C",
-        "customTempo": "",
-        "customNotes": ""
-      }
-    ]
-  },
-  {
     "id": "3252f0ef-e5a7-4025-acfe-9f5b7f37199b",
     "name": "Iy",
     "creatorId": "admin",
