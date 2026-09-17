@@ -837,19 +837,19 @@
       "id": "9e7c61f9-d05d-4c6d-b13c-8930c4abc865",
       "serialNumber": 45,
       "title": "He chir mangalmoy tumi dhonno",
-      "composer": "Mrinal Iswarari ",
-      "date": "2025-05-04T07:41:59.058Z",
+      "composer": "Mrinal Iswarari",
+      "date": "2026-09-17",
       "composeDate": "0001-01-01",
-      "lyrics": "হে চীর মঙ্গলময় তুমি ধন্য\nধন্য তুমি ধন্য\n(A)\nআদিতে ছিলে তুমি এখনো আছো\nযুগে-যুগে তুমি থাকবে -2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHe chiro mangalmoy tumi dhonno\nDhonno tumi dhonnobad\n(A)\nAdite chhile tumi, ekhono acho\nJuge-juge tumi thakbe -2\n",
+      "key": "",
+      "scaleSet": false,
+      "version": "",
+      "audioType": "audio",
+      "audioUrl": "",
       "tags": [
         "Bengali",
         "Praise"
       ],
-      "audioUrl": "",
-      "audioType": "audio",
-      "version": "",
-      "key": "C",
-      "scaleSet": false
+      "lyrics": "হে চীর মঙ্গলময় তুমি ধন্য\nধন্য তুমি ধন্য\n(A)\nআদিতে ছিলে তুমি এখনো আছো\nযুগে-যুগে তুমি থাকবে -2\n________________________________\n\nHe chiro mangalmoy tumi dhonno\nDhonno tumi dhonnobad\n(A)\nAdite chhile tumi, ekhono acho\nJuge-juge tumi thakbe -2"
     },
     {
       "id": "9cd5149a-d00a-4615-aeee-ab7a43914adb",
@@ -2122,5 +2122,5 @@
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-17T09:58:05.378Z"
+  "lastUpdated": "2026-09-17T09:58:52.428Z"
 }
