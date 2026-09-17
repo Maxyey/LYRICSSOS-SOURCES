@@ -1,49 +1,19 @@
 [
   {
-    "id": "e748e4e2-965f-4ce3-98c6-92eaac83898b",
-    "name": "World Sunday School Day",
-    "creatorId": "b2af4142-1f8b-42d2-9257-6dbe8d9d7b10",
-    "creatorName": "genui",
-    "createdAt": "2026-09-17T05:11:03.865Z",
-    "eventDate": "2026-09-15",
+    "id": "26dbc5c8-6d42-4147-b31b-5c3133c4c8cd",
+    "name": "Gods",
+    "creatorId": "admin",
+    "creatorName": "Administrator",
+    "createdAt": "2026-09-17T10:25:50.182Z",
+    "eventDate": "2026-09-17",
     "isPublic": true,
     "items": [
       {
-        "id": "2a8f42b5-6d97-4ed3-bfec-33b93413748b",
-        "songId": "e783eae0-7586-400b-816d-af1976366279",
-        "title": "Aya vo jagat mein",
+        "id": "c0190c8a-7a9d-4680-92d7-d49c095501c4",
+        "songId": "dbd9f283-c0be-4148-b2f6-847d0fb7ae37",
+        "title": "Afa Isora jwngkhou lananwi",
         "customLabel": "Worship Song",
-        "customLyrics": "Aaya vo jagat mein, paapiyon ko karne paritran\nLaya vo jeevan deep sansar ko karne ujjala -2\nMarg vahi, satya vahi, jeevan bhi vahi hai -2\n(A)\nVo vahi Masi hai jo aane wala\nVo vahi Masi hai jo bachane wala -2\nSwarg uska, dharti bhi, sabka vahi hai rakha wala\n(B)\nDukh uthaya Prabhu ne, taaki hamen mukti mile\nBalidan hua Ishu ne, taise hamen jeevan mile-2\nMukti vahi hai, jeevan bhi, sabka vahi hai rakha wala\n",
-        "customScale": "C",
-        "customTempo": "",
-        "customNotes": ""
-      },
-      {
-        "id": "a3255084-105c-4702-9825-f79d1aa7ec84",
-        "songId": "3dd1760c-7909-4366-ada0-c2ff31a14127",
-        "title": "Akhaijwng akhai homnanwi",
-        "customLabel": "Worship Song",
-        "customLyrics": "Akhaijwng akhai homnanwi\nAganjwng agan surnanwi -2\nFwidwng jwng, beao boibw, rongza-rongza\n(A)\nFwi jwng gwsw khousewi\nFwi jwng jiu mwnsewi -2\nDhwrwm guruni fwrwngnaikhou gwsw hwni\n(B)\nLwrbang fwthainaikhou\nFwgwmfwi Phwrbuniao -2\nGwsw-gwrbwni, gajri mani, siman lani\n",
-        "customScale": "C",
-        "customTempo": "",
-        "customNotes": ""
-      },
-      {
-        "id": "9f4ec28d-bda2-48ae-918b-ff4f0257d748",
-        "songId": "7b5d4b20-b2a4-4337-bdf2-fc50903aaa27",
-        "title": "Fungzani dinwi honwi",
-        "customLabel": "Worship Song",
-        "customLyrics": "Fungzani dinwi honwi\nDaoma-daosa birnai jwng -2\nSana swrangbwgwu honwi\nBwthwra nujabwgwu -2\n(A)\nSukhu-dukhuni bwthwr jagwn\nRongza-miniwi dwidenbaogwn -2\nHangkrayw jwng nwngkhwu\nBorayw jwng nwngkhwu -2\n",
-        "customScale": "C",
-        "customTempo": "",
-        "customNotes": ""
-      },
-      {
-        "id": "97b1f3a1-469b-428b-be42-84bda4c45cae",
-        "songId": "ce3e34dd-7c85-4080-bd16-23b1c57cd2c6",
-        "title": "Khwnasongdw jwngni gabnai",
-        "customLabel": "Worship Song",
-        "customLyrics": "Khwnasongdw jwngni gabnai\nJwng haoria alai-silai -2\nNwngni swrjinai gwsw-mwdwm-jiu\nNimaha hwdw jwngkhou -2\n(A)\nSubunga dhwrwmkhou baogarlangbai\nBifa Isorkhou lajihwbai -2\nGwmalangbai gwmwrlangbai\nGwjaolangbai bwi lwithwao -2\n(B)\nSubunga jiukhou khwmalangbai\nSongsarni dhwnkhou hastainanwi -2\nGwmalangbai gwmwrlangbai\nGwjaolangbai bwi lwithwao -2",
+        "customLyrics": "Afa Isora jwngkhou lananwi\nSonani nikhor dagwn\n“Bwi gwjwn swrgwao”-2 -2\n(1)\nRongza-mini jug-jugani Afa Isor jwng\nAlw-gwnwn, ruju-rumu bwi swrgwao -2\nSwrgiding Isorni, Abraham-Isahaqjwng -2\nJwngbw lwgwse Arpho fwrjwng\nJwngbw lwgwse raijw jagwn -2\n",
         "customScale": "C",
         "customTempo": "",
         "customNotes": ""
