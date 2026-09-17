@@ -1307,11 +1307,12 @@
       "lyricist": "Alen Mochari",
       "date": "2026-09-17",
       "composeDate": "0001-01-01",
-      "key": "",
-      "scaleSet": false,
-      "version": "",
-      "audioType": "audio",
+      "lyrics": "Naya jeevan ko hamen de Prabhu\nTere pyar ko bhi de -2\nJaise ham tere saath chalun -2\n(A)\nHam hain paap se doobe hue insaan\nKaro tum hamen paritran -2\nJaise ham ho saken tera (insaan-3)\n(B)\nJab tum is duniya mein aoge\nSach-jhooth ka insaaf karoge -2\nJaise ham ho saken tera (insaan-3)",
+      "tags": [
+        "Hindi"
+      ],
       "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/d11fc0bf-8d18-4f5e-932b-9d23e9a2e601.m4a",
+      "audioType": "audio",
       "audioSources": [
         {
           "id": "src-f208644e-006f-4f57-83d6-4ea342b73f6b-primary",
@@ -1321,10 +1322,9 @@
           "versionType": "with-music"
         }
       ],
-      "tags": [
-        "Hindi"
-      ],
-      "lyrics": "Naya jeevan ko hamen de Prabhu\nTere pyar ko bhi de -2\nJaise ham tere saath chalun -2\n(A)\nHam hain paap se doobe hue insaan\nKaro tum hamen paritran -2\nJaise ham ho saken tera (insaan-3)\n(B)\nJab tum is duniya mein aoge\nSach-jhooth ka insaaf karoge -2\nJaise ham ho saken tera (insaan-3)"
+      "version": "",
+      "key": "",
+      "scaleSet": false
     },
     {
       "id": "08e48a15-f472-474b-a071-21be88ae540d",
@@ -1847,20 +1847,20 @@
       "id": "90db4cc2-bb50-46fd-9707-2d38f8b4020a",
       "serialNumber": 97,
       "title": "Tumar ja kichu deowa",
-      "composer": "Mr Praten Singh Narjinari",
+      "composer": "Protensing Narjinari",
       "date": "2026-09-17",
       "composeDate": "0001-01-01",
-      "lyrics": "তামার যা কিছু দেওয়া, তোমাকে ইদিতে চাই গো প্রভু -2\nআমার বলে আর কিছু নেই সবইতো তোমার দেওয় -2\nদেহ, মন, প্রাণ, বিবেক ও আত্মা দিয়ে, গড়েছো বিশ্বে আমাকে -2\n(A)\nপ্রণমে তোমার সমর্পিত হই,\nচালাও তোমার পথের ধারে\nগানের সুরে ডাকি প্রভু,\nদরশন দাও দুরাশা জীবনে -2\nজীবন হয়ে দড়াতে যেন পারি,\nএই বিশ্ব ভবে -2\n_____________________________________\n\nTumar ja kichu deowa, tomay idite chai go Prabhu -2\nAmar bole ar kichu nei, sabito tomar deowa -2\nDeh, mon, pran, bibek o atma diye, godesho bishe amay -2\n(A)\nPronam tomay samarpit hoi,\nChalao tomar pather dhare\nGaner sure daki Prabhu,\nDarshan dao durasha jibone -2\nJibon hoye dharate yen pari,\nEi biswa bhabe -2",
+      "key": "",
+      "scaleSet": false,
+      "version": "",
+      "audioType": "audio",
+      "audioUrl": "",
       "tags": [
         "Bengali",
         "Worship",
         "Praise"
       ],
-      "audioUrl": "",
-      "audioType": "audio",
-      "version": "",
-      "key": "",
-      "scaleSet": false
+      "lyrics": "তামার যা কিছু দেওয়া, তোমাকে ইদিতে চাই গো প্রভু -2\nআমার বলে আর কিছু নেই সবইতো তোমার দেওয় -2\nদেহ, মন, প্রাণ, বিবেক ও আত্মা দিয়ে, গড়েছো বিশ্বে আমাকে -2\n(A)\nপ্রণমে তোমার সমর্পিত হই,\nচালাও তোমার পথের ধারে\nগানের সুরে ডাকি প্রভু,\nদরশন দাও দুরাশা জীবনে -2\nজীবন হয়ে দড়াতে যেন পারি,\nএই বিশ্ব ভবে -2\n_____________________________________\n\nTumar ja kichu deowa, tomay idite chai go Prabhu -2\nAmar bole ar kichu nei, sabito tomar deowa -2\nDeh, mon, pran, bibek o atma diye, godesho bishe amay -2\n(A)\nPronam tomay samarpit hoi,\nChalao tomar pather dhare\nGaner sure daki Prabhu,\nDarshan dao durasha jibone -2\nJibon hoye dharate yen pari,\nEi biswa bhabe -2"
     },
     {
       "id": "8706bb35-5879-4bc8-95fa-f4f939cb7d3c",
@@ -2124,5 +2124,5 @@
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-17T14:30:36.520Z"
+  "lastUpdated": "2026-09-17T14:32:31.548Z"
 }
