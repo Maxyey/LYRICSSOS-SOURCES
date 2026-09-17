@@ -1057,17 +1057,17 @@
       "composer": "Mrinal Iswarari",
       "date": "2026-09-17",
       "composeDate": "0001-01-01",
-      "key": "",
-      "scaleSet": false,
-      "version": "",
-      "audioType": "audio",
-      "audioUrl": "",
+      "lyrics": "যীশু আমাদের শক্তি দাও\nআশীর্বাদ তুমি ঢেলে দাও\nদুর্বল মোরা বিশ্বাসে\nকর্ণপাত কর প্রার্থনতে\nধন্য প্রভু ধন্য\nজয় জয় প্রভু জয় জয়\n________________________________\n\nJisu amader shokti dao\nAshirbad tumi dhele dao\nDurbal mora bishwashe\nKornopat koro prarthanate\nDhonnobad Prabhu dhonnobad\nJoy joy Prabhu joy joy",
       "tags": [
         "Bengali",
         "Prayer",
         "Kids"
       ],
-      "lyrics": "যীশু আমাদের শক্তি দাও\nআশীর্বাদ তুমি ঢেলে দাও\nদুর্বল মোরা বিশ্বাসে\nকর্ণপাত কর প্রার্থনতে\nধন্য প্রভু ধন্য\nজয় জয় প্রভু জয় জয়\n________________________________\n\nJisu amader shokti dao\nAshirbad tumi dhele dao\nDurbal mora bishwashe\nKornopat koro prarthanate\nDhonnobad Prabhu dhonnobad\nJoy joy Prabhu joy joy"
+      "audioUrl": "",
+      "audioType": "audio",
+      "version": "",
+      "key": "",
+      "scaleSet": false
     },
     {
       "id": "8efaea4f-b692-4676-b4a0-95508a6cdade",
@@ -1426,6 +1426,24 @@
       "serialNumber": 75,
       "title": "Prabhu tumi acho kothay",
       "composer": "translated version",
+      "date": "2025-05-04T07:52:29.547Z",
+      "composeDate": "0001-01-01",
+      "lyrics": "প্রভু তুমি আছো কোথায়, ভুলে যেওনা আমায়\nযেখানে থাকো তুমি, তব কাছে রেখো আমায় -2\n(1)\nপ্রভু প্রভু ডাকি আমি, দেখা দাওনা আমায় তুমি -2\nরেখো, তোমার পাশে -2\n(2)\nবারে বারে ডাকি আমি, শান্তি দাওনা আমায় তুমি -2\nদুঃখ ভরা মনে -2\n\n\n\n\n\n\n\n\n\n\n\nPrabhu tumi acho kothay, bhule jeyona amay\nJekhane thako tumi, tab kache rekho amay -2\n(1)\nPrabhu Prabhu daki ami, dekha daona amay tumi -2\nRekho, tomar pashe -2\n(2)\nBare bare daki ami, shanti daona amay tumi -2\nDukh bhara mone -2\n",
+      "tags": [
+        "Bengali",
+        "Kids"
+      ],
+      "audioUrl": "",
+      "audioType": "audio",
+      "version": "",
+      "key": "C",
+      "scaleSet": false
+    },
+    {
+      "id": "17af3120-0c77-417b-a9db-9773dec37803",
+      "serialNumber": 76,
+      "title": "Prarthana kori Prabhu tomar charane pori",
+      "composer": "Mrinal Iswarari",
       "date": "2026-09-17",
       "composeDate": "0001-01-01",
       "key": "",
@@ -1435,29 +1453,11 @@
       "audioUrl": "",
       "tags": [
         "Bengali",
-        "Kids"
-      ],
-      "lyrics": "প্রভু তুমি আছো কোথায়, ভুলে যেওনা আমায়\nযেখানে থাকো তুমি, তব কাছে রেখো আমায় -2\n(1)\nপ্রভু প্রভু ডাকি আমি, দেখা দাওনা আমায় তুমি -2\nরেখো, তোমার পাশে -2\n(2)\nবারে বারে ডাকি আমি, শান্তি দাওনা আমায় তুমি -2\nদুঃখ ভরা মনে -2\n________________________________\n\nPrabhu tumi acho kothay, bhule jeyona amay\nJekhane thako tumi, tab kache rekho amay -2\n(1)\nPrabhu Prabhu daki ami, dekha daona amay tumi -2\nRekho, tomar pashe -2\n(2)\nBare bare daki ami, shanti daona amay tumi -2\nDukh bhara mone -2"
-    },
-    {
-      "id": "17af3120-0c77-417b-a9db-9773dec37803",
-      "serialNumber": 76,
-      "title": "Prarthana kori Prabhu tomar charane pori ",
-      "composer": "Mrinal Iswarari ",
-      "date": "2025-05-04T07:52:51.339Z",
-      "composeDate": "0001-01-01",
-      "lyrics": "প্রার্থনা করি প্রভু তোমার চরনে পড়ি -2\nহৃদয় মন্দীরে বাস কর প্রভু হৃদয় ফলকে লিখো মোদের -2\n(A)\nজীবন বৃক্ষ তুমি মোদের সকলের জীবন খাদ্য তুমি সকল জাতির -2\nপ্রাণাকাঙ্খী মোরা প্রাণ কর হে তোমার জীবন্ত বাক্যে -2\nহৃদয় মন্দীরে বাস কর প্রভু\nহৃদয় ফলকে লিখো মোদের -2\n(B)\nদীনহীন ন্যামাত্মা তোমাকে কাঁদে সদাপ্রভু\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrarthana kori Prabhu tomar charane pori -2\nHridoy mondire bash koro Prabhu, hridoy pholoke likho moder -2\n(A)\nJibon brikkho tumi moder shokoler, jibon khadyo tumi shokol jatir -2\nPranakankhi mora pran koro he tomar jibonto bakye -2\nHridoy mondire bash koro Prabhu\nHridoy pholoke likho moder -2\n(B)\nDinhin nyam atma tomay kande Sadaprabhu\n",
-      "tags": [
-        "Bengali",
         "Worship",
         "Praise",
         "Prayer"
       ],
-      "audioUrl": "",
-      "audioType": "audio",
-      "version": "",
-      "key": "C",
-      "scaleSet": false
+      "lyrics": "প্রার্থনা করি প্রভু তোমার চরনে পড়ি -2\nহৃদয় মন্দীরে বাস কর প্রভু হৃদয় ফলকে লিখো মোদের -2\n(A)\nজীবন বৃক্ষ তুমি মোদের সকলের জীবন খাদ্য তুমি সকল জাতির -2\nপ্রাণাকাঙ্খী মোরা প্রাণ কর হে তোমার জীবন্ত বাক্যে -2\nহৃদয় মন্দীরে বাস কর প্রভু\nহৃদয় ফলকে লিখো মোদের -2\n(B)\nদীনহীন ন্যামাত্মা তোমাকে কাঁদে সদাপ্রভু\n__________________________________________________________\n\nPrarthana kori Prabhu tomar charane pori -2\nHridoy mondire bash koro Prabhu, hridoy pholoke likho moder -2\n(A)\nJibon brikkho tumi moder shokoler, jibon khadyo tumi shokol jatir -2\nPranakankhi mora pran koro he tomar jibonto bakye -2\nHridoy mondire bash koro Prabhu\nHridoy pholoke likho moder -2\n(B)\nDinhin nyam atma tomay kande Sadaprabhu"
     },
     {
       "id": "9624005f-3fc1-4ae4-a7ad-ebe3a2320e98",
@@ -2122,5 +2122,5 @@
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-17T10:06:36.107Z"
+  "lastUpdated": "2026-09-17T10:07:22.402Z"
 }
