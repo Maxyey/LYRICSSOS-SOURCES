@@ -16,8 +16,8 @@
       "audioUrl": "",
       "audioType": "audio",
       "version": "...",
-      "key": "",
-      "scaleSet": false
+      "key": "C",
+      "scaleSet": true
     },
     {
       "id": "e783eae0-7586-400b-816d-af1976366279",
@@ -36,7 +36,7 @@
       "audioSources": [
         {
           "id": "src-e783eae0-7586-400b-816d-af1976366279-primary",
-          "label": "Standard Version",
+          "label": "With Music",
           "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/bc92c01f-fde9-4f63-b65a-e550e69d4f2d.m4a",
           "type": "audio",
           "versionType": "with-music"
@@ -135,7 +135,7 @@
       "audioSources": [
         {
           "id": "src-ef1c4dd9-d90c-4d39-ae1d-86802a873496-primary",
-          "label": "Standard Version",
+          "label": "With Music",
           "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/5ac40d10-dae6-4bef-a5a1-5ad32cc7e281.m4a",
           "type": "audio",
           "versionType": "with-music"
@@ -253,7 +253,7 @@
       "audioSources": [
         {
           "id": "src-e9d21a3d-594f-474b-a5dd-bdf585686aaf-primary",
-          "label": "Standard Version",
+          "label": "With Music",
           "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/e5484a73-1155-419b-b8ff-59f2989631ad.mp3",
           "type": "audio",
           "versionType": "with-music"
@@ -607,7 +607,7 @@
       "audioSources": [
         {
           "id": "src-7b5d4b20-b2a4-4337-bdf2-fc50903aaa27-primary",
-          "label": "Standard Version",
+          "label": "With Music",
           "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/53045a7a-1b5a-4e84-a4f6-a8b20df46c8e.m4a",
           "type": "audio",
           "versionType": "with-music"
@@ -1023,7 +1023,7 @@
       "audioSources": [
         {
           "id": "src-39102ebd-cfad-4075-be51-e61e8e282965-primary",
-          "label": "Standard Version",
+          "label": "With Music",
           "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/c8287292-ad8d-4c14-be5d-6393b65db382.m4a",
           "type": "audio",
           "versionType": "with-music"
@@ -1314,7 +1314,7 @@
       "audioSources": [
         {
           "id": "src-f208644e-006f-4f57-83d6-4ea342b73f6b-primary",
-          "label": "Standard Version",
+          "label": "With Music",
           "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/d11fc0bf-8d18-4f5e-932b-9d23e9a2e601.m4a",
           "type": "audio",
           "versionType": "with-music"
@@ -1547,7 +1547,7 @@
       "audioSources": [
         {
           "id": "src-5a14a465-e22b-4bc2-b7c4-4fe3c13f1d1c-primary",
-          "label": "Standard Version",
+          "label": "With Music",
           "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/0d2fedbb-4002-425d-b2dc-03ea1823950c.m4a",
           "type": "audio",
           "versionType": "with-music"
@@ -1795,7 +1795,7 @@
       "audioSources": [
         {
           "id": "src-eafd141a-4c55-401a-aeb9-59b099dd2e2f-primary",
-          "label": "Standard Version",
+          "label": "With Music",
           "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/a43579f8-56e2-4791-a706-7c4461c9719c.m4a",
           "type": "audio",
           "versionType": "with-music"
@@ -1914,7 +1914,7 @@
       "audioSources": [
         {
           "id": "src-70a47165-f520-456d-946f-b3e082ea6da9-primary",
-          "label": "Standard Version",
+          "label": "With Music",
           "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/fae261ee-3347-4f2f-bee3-23f67bdd9c78.m4a",
           "type": "audio",
           "versionType": "with-music"
@@ -1958,7 +1958,7 @@
       "audioSources": [
         {
           "id": "src-3e9661e7-cd6c-4168-8e31-8941083c4f15-primary",
-          "label": "Standard Version",
+          "label": "With Music",
           "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/9d17ebaf-1695-4871-bf42-d2bf02c0a5fe.m4a",
           "type": "audio",
           "versionType": "with-music"
@@ -2010,7 +2010,7 @@
       "audioSources": [
         {
           "id": "src-350a16b7-3fc2-4abe-950b-0ba8f73a2ba7-primary",
-          "label": "Standard Version",
+          "label": "With Music",
           "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/a3a68a5a-080a-4628-9a70-5b62419b53a4.m4a",
           "type": "audio",
           "versionType": "with-music"
@@ -2037,7 +2037,7 @@
       "audioSources": [
         {
           "id": "src-dfa00a27-b940-48e9-99d8-6dbfd39c8b64-primary",
-          "label": "Standard Version",
+          "label": "With Music",
           "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/2c6d6940-4a49-47b0-a96b-fdc6cbfa1255.m4a",
           "type": "audio",
           "versionType": "with-music"
@@ -2064,7 +2064,7 @@
       "audioSources": [
         {
           "id": "src-566870b8-05fd-43da-b818-ef138b74ba89-primary",
-          "label": "Standard Version",
+          "label": "With Music",
           "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/4973ebb9-6127-497a-9c0e-0c697fb4258e.m4a",
           "type": "audio",
           "versionType": "with-music"
@@ -2091,7 +2091,7 @@
       "audioSources": [
         {
           "id": "src-4d4b5987-b75e-4c96-96e3-9d04f8d8e7ce-primary",
-          "label": "Standard Version",
+          "label": "With Music",
           "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/9eee0fa3-24f4-47e9-8acb-d9e7608c17ac.m4a",
           "type": "audio",
           "versionType": "with-music"
@@ -2131,5 +2131,5 @@
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-16T13:04:20.046Z"
+  "lastUpdated": "2026-09-17T05:13:17.077Z"
 }
