@@ -930,19 +930,19 @@
     {
       "id": "2f0e5bda-1b56-4549-ac59-416f2c12d635",
       "serialNumber": 50,
-      "title": "Ishu bulauchhan sabailai ",
+      "title": "Ishu bulauchhan sabailai",
       "composer": "xxxxxxxxxxxxxx",
-      "date": "2025-05-04T07:43:55.803Z",
+      "date": "2026-09-17",
       "composeDate": "0001-01-01",
-      "lyrics": "Yeshu bulauchhan sabailai -2\nPrem sath bulauchhan angalomaa unko\n'Yeshu bulauchhan sabailai -2\n(A)\nHriday timro hatas bhayo, shanti cha tim laagi -2\nMuktiko jyoti tim laagi, Ishu kaha linu aaja -2\n(B)\nSab rog lai niko parne, shakti cha unai kaha -2\nMuktiko jyoti tim laagi, pyar garnu sada timilai -2\n",
+      "key": "",
+      "scaleSet": false,
+      "version": "",
+      "audioType": "audio",
+      "audioUrl": "",
       "tags": [
         "Nepali"
       ],
-      "audioUrl": "",
-      "audioType": "audio",
-      "version": "",
-      "key": "C",
-      "scaleSet": false
+      "lyrics": "Yeshu bulauchhan sabailai -2\nPrem sath bulauchhan angalomaa unko\n'Yeshu bulauchhan sabailai -2\n(A)\nHriday timro hatas bhayo, shanti cha tim laagi -2\nMuktiko jyoti tim laagi, Ishu kaha linu aaja -2\n(B)\nSab rog lai niko parne, shakti cha unai kaha -2\nMuktiko jyoti tim laagi, pyar garnu sada timilai -2"
     },
     {
       "id": "ec9cff8c-4547-43a7-a9ba-08a7c0097312",
@@ -2124,5 +2124,5 @@
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-17T18:13:21.344Z"
+  "lastUpdated": "2026-09-17T18:13:29.124Z"
 }
