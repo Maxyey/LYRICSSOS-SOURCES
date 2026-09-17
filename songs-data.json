@@ -24,15 +24,13 @@
       "serialNumber": 2,
       "title": "Aya vo jagat mein",
       "composer": "Lyrics _ Alen Mochari & Swar_Mrinal Iswarari",
-      "date": "2025-09-30T08:14:37.852Z",
+      "date": "2026-09-17",
       "composeDate": "0001-01-01",
-      "lyrics": "Aaya vo jagat mein, paapiyon ko karne paritran\nLaya vo jeevan deep sansar ko karne ujjala -2\nMarg vahi, satya vahi, jeevan bhi vahi hai -2\n(A)\nVo vahi Masi hai jo aane wala\nVo vahi Masi hai jo bachane wala -2\nSwarg uska, dharti bhi, sabka vahi hai rakha wala\n(B)\nDukh uthaya Prabhu ne, taaki hamen mukti mile\nBalidan hua Ishu ne, taise hamen jeevan mile-2\nMukti vahi hai, jeevan bhi, sabka vahi hai rakha wala\n",
-      "tags": [
-        "Hindi",
-        "GoodFriday"
-      ],
-      "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/bc92c01f-fde9-4f63-b65a-e550e69d4f2d.m4a",
+      "key": "",
+      "scaleSet": false,
+      "version": "",
       "audioType": "audio",
+      "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/bc92c01f-fde9-4f63-b65a-e550e69d4f2d.m4a",
       "audioSources": [
         {
           "id": "src-e783eae0-7586-400b-816d-af1976366279-primary",
@@ -42,9 +40,11 @@
           "versionType": "with-music"
         }
       ],
-      "version": "",
-      "key": "C",
-      "scaleSet": false
+      "tags": [
+        "Hindi",
+        "GoodFriday"
+      ],
+      "lyrics": "Aaya vo jagat mein, paapiyon ko karne paritran\nLaya vo jeevan deep sansar ko karne ujjala -2\nMarg vahi, satya vahi, jeevan bhi vahi hai -2\n(A)\nVo vahi Masi hai jo aane wala\nVo vahi Masi hai jo bachane wala -2\nSwarg uska, dharti bhi, sabka vahi hai rakha wala\n(B)\nDukh uthaya Prabhu ne, taaki hamen mukti mile\nBalidan hua Ishu ne, taise hamen jeevan mile-2\nMukti vahi hai, jeevan bhi, sabka vahi hai rakha wala"
     },
     {
       "id": "dbd9f283-c0be-4148-b2f6-847d0fb7ae37",
@@ -89,16 +89,16 @@
       "composer": "Mrinal Iswarari",
       "date": "2026-09-17",
       "composeDate": "0001-01-01",
-      "key": "",
-      "scaleSet": false,
-      "version": "",
-      "audioType": "audio",
-      "audioUrl": "",
+      "lyrics": "O Afa nwng ankhou manw \nLenghorbai thayw, gaoni jaigayao -2\n(A)\nJanw hagou Afa nwngni lenghornaia\n mwnse thanki -2\nDinwigwn nwng gwjwnpuriao\n“Gaoni jaigayao” -2\n(B)\nNathai afa Ang  mwdainw burkhainayao\nGwlwdwng papni buhumao -2\nOblabw nagara nwng angkhou\n“Ang papi khou” -2",
       "tags": [
         "Bodo",
         "Goodfriday"
       ],
-      "lyrics": "O Afa nwng ankhou manw \nLenghorbai thayw, gaoni jaigayao -2\n(A)\nJanw hagou Afa nwngni lenghornaia\n mwnse thanki -2\nDinwigwn nwng gwjwnpuriao\n“Gaoni jaigayao” -2\n(B)\nNathai afa Ang  mwdainw burkhainayao\nGwlwdwng papni buhumao -2\nOblabw nagara nwng angkhou\n“Ang papi khou” -2"
+      "audioUrl": "",
+      "audioType": "audio",
+      "version": "",
+      "key": "",
+      "scaleSet": false
     },
     {
       "id": "3dd1760c-7909-4366-ada0-c2ff31a14127",
@@ -2122,5 +2122,5 @@
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-17T13:16:42.633Z"
+  "lastUpdated": "2026-09-17T14:11:04.548Z"
 }
