@@ -991,20 +991,20 @@
     {
       "id": "efbd78a0-777f-4f23-b27a-c205305bdca4",
       "serialNumber": 53,
-      "title": "Jerusalem er oi pobitro pathe ",
-      "composer": "Mrinal Iswarari ",
-      "date": "2025-05-04T07:44:57.476Z",
+      "title": "Jerusalem er oi pobitro pathe",
+      "composer": "Mrinal Iswarari",
+      "date": "2026-09-17",
       "composeDate": "0001-01-01",
-      "lyrics": "যীরুশালেমের ঐ পবিত্র পথে -2\nদেখো সঙ্গীত গায় খেজুর বিছায়\n'ত্রানকর্তার অপেক্ষায় -2\n(A)\nদেখো যিনি আসিতেছেন, গর্দ্ধবারোহি হয়ে\nদ্বার খুলে দাও হৃদয়ের দ্বার, প্রবেশিবেন তিনি -2\n(B)\nজন্ম যাহার গোশালাতে, আবাস তাহার হৃদয়ে\nদূর করিবেন সব দুরাচার, চীর নুতন করে -2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJerusalem er oi pobitro pathe -2\nDekho shongit gay khejur bichay\n'Tranokartar opekkhay -2\n(A)\nDekho jini asitechen, gordhabarohi hoye\nDwar khule dao hridoyer dwar, probeshiben tini -2\n(B)\nJonmo jahar goshalate, abash tahar hridoye\nDur koriben shob durachar, chir nuton kore -2\n",
+      "key": "",
+      "scaleSet": false,
+      "version": "",
+      "audioType": "audio",
+      "audioUrl": "",
       "tags": [
         "Bengali",
         "PalmSunday"
       ],
-      "audioUrl": "",
-      "audioType": "audio",
-      "version": "",
-      "key": "C",
-      "scaleSet": false
+      "lyrics": "যীরুশালেমের ঐ পবিত্র পথে -2\nদেখো সঙ্গীত গায় খেজুর বিছায়\n'ত্রানকর্তার অপেক্ষায় -2\n(A)\nদেখো যিনি আসিতেছেন, গর্দ্ধবারোহি হয়ে\nদ্বার খুলে দাও হৃদয়ের দ্বার, প্রবেশিবেন তিনি -2\n(B)\nজন্ম যাহার গোশালাতে, আবাস তাহার হৃদয়ে\nদূর করিবেন সব দুরাচার, চীর নুতন করে -2\n________________________________\n\nJerusalem er oi pobitro pathe -2\nDekho shongit gay khejur bichay\n'Tranokartar opekkhay -2\n(A)\nDekho jini asitechen, gordhabarohi hoye\nDwar khule dao hridoyer dwar, probeshiben tini -2\n(B)\nJonmo jahar goshalate, abash tahar hridoye\nDur koriben shob durachar, chir nuton kore -2"
     },
     {
       "id": "39102ebd-cfad-4075-be51-e61e8e282965",
@@ -2122,5 +2122,5 @@
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-17T10:02:18.337Z"
+  "lastUpdated": "2026-09-17T10:04:33.896Z"
 }
