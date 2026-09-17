@@ -1,0 +1,141 @@
+[
+  {
+    "id": "0438ec05-62dd-4754-9754-c82019052430",
+    "name": "2nd sundey",
+    "creatorId": "b2af4142-1f8b-42d2-9257-6dbe8d9d7b10",
+    "creatorName": "genui",
+    "createdAt": "2026-09-17T01:52:03.191Z",
+    "eventDate": "2026-09-17",
+    "isPublic": false,
+    "items": [
+      {
+        "id": "36469360-397d-415d-afe8-9bc5d0014676",
+        "songId": "14334b05-6cf3-4c83-b00b-b124b7134dbd",
+        "title": "Arose gabw nwngni sigangao",
+        "customLabel": "Worship Song",
+        "customLyrics": "Arose gabw nwngni sigangao -2\nGaswi jwngni nangou khou\nNwng gaswi mithijwbgou\n“O . . . swrgw Bifa jwngni”-2 -2\n(A)\nAnldainai subungni Bifa nwngw\nMenglinai subungni laokhar nwngw -2\nJiu arw jiu, Rajani raja, Gwthar fwrni gwthar -2\n(B)\nGwthar khwmsalini gudi nwngw\nGwmanai subungni lama nwngw -2\nBifa-Bisa, Gwthar jiu jwng\nSaselo Isor Nwng-2\n"
+      },
+      {
+        "id": "8fdd867e-c130-42e7-899a-7e9c52401673",
+        "songId": "e783eae0-7586-400b-816d-af1976366279",
+        "title": "Aya vo jagat mein",
+        "customLabel": "Worship Song",
+        "customLyrics": "Aaya vo jagat mein, paapiyon ko karne paritran\nLaya vo jeevan deep sansar ko karne ujjala -2\nMarg vahi, satya vahi, jeevan bhi vahi hai -2\n(A)\nVo vahi Masi hai jo aane wala\nVo vahi Masi hai jo bachane wala -2\nSwarg uska, dharti bhi, sabka vahi hai rakha wala\n(B)\nDukh uthaya Prabhu ne, taaki hamen mukti mile\nBalidan hua Ishu ne, taise hamen jeevan mile-2\nMukti vahi hai, jeevan bhi, sabka vahi hai rakha wala\n"
+      }
+    ]
+  },
+  {
+    "id": "83e06c4b-b153-45eb-9d05-829814b49412",
+    "name": "Meth",
+    "creatorId": "b2af4142-1f8b-42d2-9257-6dbe8d9d7b10",
+    "creatorName": "genui",
+    "createdAt": "2026-09-17T02:02:04.499Z",
+    "eventDate": "2026-09-17",
+    "isPublic": true,
+    "items": [
+      {
+        "id": "93a0a666-d90b-46b8-9524-c357a2ac8581",
+        "songId": "3dd1760c-7909-4366-ada0-c2ff31a14127",
+        "title": "Akhaijwng akhai homnanwi",
+        "customLabel": "Worship Song",
+        "customLyrics": "Akhaijwng akhai homnanwi\nAganjwng agan surnanwi -2\nFwidwng jwng, beao boibw, rongza-rongza\n(A)\nFwi jwng gwsw khousewi\nFwi jwng jiu mwnsewi -2\nDhwrwm guruni fwrwngnaikhou gwsw hwni\n(B)\nLwrbang fwthainaikhou\nFwgwmfwi Phwrbuniao -2\nGwsw-gwrbwni, gajri mani, siman lani\n",
+        "customScale": "C",
+        "customTempo": "",
+        "customNotes": ""
+      },
+      {
+        "id": "889de522-a2fb-4c18-a1d2-b057b3d283b3",
+        "songId": "842ba86e-ba94-4c3e-b6ac-2392eb2557b6",
+        "title": "Dinwini be dibosha, Bibar badi somaina",
+        "customLabel": "Worship Song",
+        "customLyrics": "Dinwini be dibosha, Bibar badi somaina\nJwngkhou fwjakhangw, Jwngkhou thulungayw-2\n(A)\nBifang, Bibar, bithaibw thaiyw, Daosen daolafwrbw Bafwiyw\nFwrbuni mungwi gabjrikhaow, Be buhuma somaiswtharw -2\n(B)\nGwthar bibelkhou bujinw hayw, Dhwrwm lamakhou sinai hayw\nGwthar Jiua basa lafwiyw, Jwbnw gwiywi jiu mwnkhatharw-2\n(C)\nDukhu somaobw Banjaifwyw,  Andaibwla lama dinthiyw\nSudem bara suglaihwfwyw, Hajw halabw rongzakhangw-2\n",
+        "customScale": "C",
+        "customTempo": "",
+        "customNotes": ""
+      }
+    ]
+  },
+  {
+    "id": "3252f0ef-e5a7-4025-acfe-9f5b7f37199b",
+    "name": "Iy",
+    "creatorId": "admin",
+    "creatorName": "Rev. Emmanuel Admin",
+    "createdAt": "2026-09-17T02:14:08.555Z",
+    "eventDate": "2026-09-17",
+    "isPublic": true,
+    "items": [
+      {
+        "id": "ba689e9f-39b1-48c8-b4f5-f4db07407d2a",
+        "songId": "e783eae0-7586-400b-816d-af1976366279",
+        "title": "Aya vo jagat mein",
+        "customLabel": "Worship Song",
+        "customLyrics": "Aaya vo jagat mein, paapiyon ko karne paritran\nLaya vo jeevan deep sansar ko karne ujjala -2\nMarg vahi, satya vahi, jeevan bhi vahi hai -2\n(A)\nVo vahi Masi hai jo aane wala\nVo vahi Masi hai jo bachane wala -2\nSwarg uska, dharti bhi, sabka vahi hai rakha wala\n(B)\nDukh uthaya Prabhu ne, taaki hamen mukti mile\nBalidan hua Ishu ne, taise hamen jeevan mile-2\nMukti vahi hai, jeevan bhi, sabka vahi hai rakha wala\n",
+        "customScale": "C",
+        "customTempo": "",
+        "customNotes": ""
+      },
+      {
+        "id": "fd94ca6e-9012-4be0-b6bf-6ad8eb189874",
+        "songId": "18686984-349d-436e-a611-c334ab117512",
+        "title": "Gaoba gao krush banna nwngswr",
+        "customLabel": "Worship Song",
+        "customLyrics": "Gaoba gao krush banna nwngswr\nDhwrwmni lamayao agan surdw -2\nKapalao Bikayao Jwngha Krushni Hangkw-4\n(A)\nNwngswr sinai janai nonthara\nKrushni biban banna bla-2\nSushra Jadw arw phusob jadw-2\n(B)\nNwngswr papjwng dagele thar swi\nNonga bla adri jagwn -2\nSushra Jadw arw phusob jadw-2\n",
+        "customScale": "C",
+        "customTempo": "",
+        "customNotes": ""
+      }
+    ]
+  },
+  {
+    "id": "3fa1785a-2685-428e-90af-66672364544d",
+    "name": "Tete",
+    "creatorId": "b2af4142-1f8b-42d2-9257-6dbe8d9d7b10",
+    "creatorName": "genui",
+    "createdAt": "2026-09-17T04:38:51.444Z",
+    "eventDate": "2026-09-17",
+    "isPublic": true,
+    "items": [
+      {
+        "id": "4cc32aa8-1abb-4877-a851-339f725cc717",
+        "songId": "e783eae0-7586-400b-816d-af1976366279",
+        "title": "Aya vo jagat mein",
+        "customLabel": "Worship Song",
+        "customLyrics": "Aaya vo jagat mein, paapiyon ko karne paritran\nLaya vo jeevan deep sansar ko karne ujjala -2\nMarg vahi, satya vahi, jeevan bhi vahi hai -2\n(A)\nVo vahi Masi hai jo aane wala\nVo vahi Masi hai jo bachane wala -2\nSwarg uska, dharti bhi, sabka vahi hai rakha wala\n(B)\nDukh uthaya Prabhu ne, taaki hamen mukti mile\nBalidan hua Ishu ne, taise hamen jeevan mile-2\nMukti vahi hai, jeevan bhi, sabka vahi hai rakha wala\n",
+        "customScale": "C",
+        "customTempo": "",
+        "customNotes": ""
+      },
+      {
+        "id": "c24081e7-2f9e-4e86-b1ef-1b9f05944540",
+        "songId": "e9d21a3d-594f-474b-a5dd-bdf585686aaf",
+        "title": "Beseba gwjwn gaoni swrgwpuri khou",
+        "customLabel": "Worship Song",
+        "customLyrics": "Beseba gwjwn gaoni swrgwpuri khou\nNagarnan fwibai nwng papi buhumao -2\nDukhu swibai papifwrni thakwi\nAlai jabai krush sayao\n(A)\nRaobw gwiya be buhum bicayao\nMwdwi hugarnw Porbu nwngni duhkuao -2\nDersin sanbai gaswi gaoni dukhukhou\nGwjaolangbai gaswi nongkhai lamajwng\nMuluk subung-a , gwjan eraibai\n(B)\nRaobw naihora nwngi krush bannai khou\nGwja thwijwng bwhwifanai  dukhukhou -2\nDai gwiwi nwngni thwini nijira\nPapi subunga dinwi nwngkhou fwthaia\nMuluk subung-a , gwjan eraibai\n",
+        "customScale": "C",
+        "customTempo": "",
+        "customNotes": ""
+      }
+    ]
+  },
+  {
+    "id": "1ad283ad-33fc-47a9-81b7-e7661a49a534",
+    "name": "T",
+    "creatorId": "b2af4142-1f8b-42d2-9257-6dbe8d9d7b10",
+    "creatorName": "genui",
+    "createdAt": "2026-09-17T04:56:43.065Z",
+    "eventDate": "2026-09-17",
+    "isPublic": true,
+    "items": [
+      {
+        "id": "415c7d61-3b44-4735-be80-7d35fe5a955b",
+        "songId": "15e1f7a3-1bbe-4727-aa73-2c178cc6d05f",
+        "title": "Arose gabw nwng khwnasong",
+        "customLabel": "Worship Song",
+        "customLyrics": "Arose gabw nwng khwnasong\nJwng sibiyw nwng khwnasong -2\nJwng rwjabbai thagwn nwngni khamsalia\nJwng nebai thagwn nwng fwifin jase\n“Nwng langfa nangwn- jwngkhou langfanangwn” -2\n(A)\nSwithw dhwrwm khou jwng sibiyw\nJiuni derakhou jwng hastayw -2\n“Nwng langfa nangwn- jwngkhou langfanangwn” -2\n(B)\nFwthai nayao jwng khwose jarwnga\nSibinayao jwng gwsw hwrwnga -2\n“Nwng langfa nangwn- jwngkhou langfanangwn” -2\n",
+        "customScale": "C",
+        "customTempo": "",
+        "customNotes": ""
+      }
+    ]
+  }
+]
