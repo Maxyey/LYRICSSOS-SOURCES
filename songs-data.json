@@ -90,16 +90,16 @@
       "composer": "Protensing Narjinari",
       "date": "2026-09-18",
       "composeDate": "0001-01-01",
-      "key": "",
-      "scaleSet": false,
-      "version": "",
-      "audioType": "audio",
-      "audioUrl": "",
+      "lyrics": "O Afa nwng ankhou manw \nLenghorbai thayw, gaoni jaigayao -2\n(A)\nJanw hagou Afa nwngni lenghornaia\n mwnse thanki -2\nDinwigwn nwng gwjwnpuriao\n“Gaoni jaigayao” -2\n(B)\nNathai afa Ang  mwdainw burkhainayao\nGwlwdwng papni buhumao -2\nOblabw nagara nwng angkhou\n“Ang papi khou” -2",
       "tags": [
         "Bodo",
         "Goodfriday"
       ],
-      "lyrics": "O Afa nwng ankhou manw \nLenghorbai thayw, gaoni jaigayao -2\n(A)\nJanw hagou Afa nwngni lenghornaia\n mwnse thanki -2\nDinwigwn nwng gwjwnpuriao\n“Gaoni jaigayao” -2\n(B)\nNathai afa Ang  mwdainw burkhainayao\nGwlwdwng papni buhumao -2\nOblabw nagara nwng angkhou\n“Ang papi khou” -2"
+      "audioUrl": "",
+      "audioType": "audio",
+      "version": "",
+      "key": "",
+      "scaleSet": false
     },
     {
       "id": "3dd1760c-7909-4366-ada0-c2ff31a14127",
@@ -143,8 +143,8 @@
         }
       ],
       "version": "",
-      "key": "",
-      "scaleSet": false
+      "key": "C",
+      "scaleSet": true
     },
     {
       "id": "61fbb8c4-3d70-43eb-abcc-51bb2fbd48b7",
@@ -2124,5 +2124,5 @@
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-18T15:44:17.391Z"
+  "lastUpdated": "2026-09-18T17:47:30.436Z"
 }
