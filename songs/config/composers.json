@@ -4,7 +4,11 @@
     "name": "Mrinal Iswarari",
     "bio": "Primary composer and lyricist for Songs of Salvation (Sonadoba N.E.L.C.), dedicated to creating heartfelt Christian hymns and spiritual songs in local and regional languages.",
     "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789649745598_1000025037.png",
-    "ministryYears": "2015 – Present"
+    "ministryYears": "Composer, Lyricist, Vocalist, Ministry",
+    "ministryLabel": "Skill Set",
+    "skills": "Composer, Lyricist, Vocalist, Ministry",
+    "badgeTitle": "Melodious Composer & Hymnist",
+    "featured": true
   },
   {
     "id": "alen-mochari",
@@ -12,18 +16,21 @@
     "bio": "Renowned lyricist and co-creator of uplifting worship anthems, collaborating closely with the Sonadoba ministry to spread the gospel through music.",
     "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789706077777_1000104367.jpg",
     "ministryYears": "Lyricist",
-    "badgeTitle": "Lyricist",
     "ministryLabel": "SKILL Set ",
-    "skills": "Lyricist"
+    "skills": "Lyricist",
+    "badgeTitle": "Lyricist",
+    "featured": true
   },
   {
     "id": "alex-iswarari",
     "name": "Alex Iswarari",
-    "badgeTitle": "Lyricis",
-    "ministryLabel": "SINGER",
-    "ministryYears": "Keyboard, guitar, vocal, etc.",
     "bio": "Dedicated songwriter and musical arranger contributing spiritual hymns and inspiring melodies to the Songs of Salvation anthology.",
-    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789650172690_1000158164.jpg"
+    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789650172690_1000158164.jpg",
+    "ministryYears": "Keybordist , Vocalist, Composer",
+    "ministryLabel": "SINGER",
+    "skills": "Keybordist , Vocalist, Composer",
+    "badgeTitle": "Lyricis",
+    "featured": true
   },
   {
     "id": "protensing-narjinari",
@@ -31,10 +38,10 @@
     "bio": "Passionate hymnist and composer contributing traditional and contemporary worship compositions to enrich church fellowship and devotion.",
     "photoUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&auto=format&fit=crop&q=80",
     "ministryYears": "Hmm",
-    "featured": true,
-    "badgeTitle": "Melodious Composer & Hymnist",
     "ministryLabel": "Hlo",
-    "skills": "Hmm"
+    "skills": "Hmm",
+    "badgeTitle": "Melodious Composer & Hymnist",
+    "featured": true
   },
   {
     "id": "composer-1789668796818-7bzurv8",
@@ -43,7 +50,8 @@
     "ministryLabel": "Contributor",
     "ministryYears": "Hu",
     "bio": "Newly added contributor for \"Dinwi jwng gwdan gwthar sanao\".",
-    "photoUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80"
+    "photoUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80",
+    "skills": "Hu"
   },
   {
     "id": "composer-1789668924209-ncz7t6m",
@@ -51,7 +59,9 @@
     "bio": "Newly added contributor for \"Prabhu tumi acho kothay\".",
     "photoUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80",
     "ministryLabel": "Contributor",
-    "badgeTitle": "Hymnist"
+    "badgeTitle": "Hymnist",
+    "skills": "Composer, Lyricist",
+    "ministryYears": "Composer, Lyricist"
   },
   {
     "id": "composer-1789668974578-y2ldncw",
@@ -59,6 +69,8 @@
     "bio": "Newly added contributor for \"Ami Gane Gane sudhu tomar kothai bolbo\".",
     "photoUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80",
     "ministryLabel": "Contributor",
-    "badgeTitle": "Hymnist"
+    "badgeTitle": "Hymnist",
+    "skills": "Composer, Lyricist",
+    "ministryYears": "Composer, Lyricist"
   }
 ]
