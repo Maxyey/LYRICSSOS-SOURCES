@@ -1,7 +1,10 @@
 {
   "id": "49f87414-efd2-4b79-9678-24a564ef5b1f",
+  "serialNumber": 34,
   "title": "Fwrbuni mungwi sofwinai subung",
   "composer": "Mrinal Iswarari ",
+  "date": "2025-05-04T07:38:09.052Z",
+  "composeDate": "0001-01-01",
   "lyrics": "Fwrbuni mungwi sofwinai subung\nJiuni nangoukhou hastainai subung – 2\nJwng hambai hwnw rwja-rwja\nPhwrbuni mungwi borai layw - 2\n(A)\nGaswi nangou fwrkhou, jrab garnanwi\nGaswi hengta fwrkhou baogarnanwi – 2\nSofwi habai dinwi be langwnao - 2\n(B)\nJiuni gangnai arw unkwinaikhou\nPhwrbu Jisuniao swfungjanw – 2\nSofwi habai dinwi be langwnao - 2\n",
   "tags": [
     "BODO",
@@ -9,8 +12,7 @@
   ],
   "audioUrl": "",
   "audioType": "audio",
-  "composeDate": "0001-01-01",
-  "version": "Standard Version",
-  "serialNumber": 34,
-  "date": "2025-05-04T07:38:09.052Z"
+  "version": "",
+  "key": "",
+  "scaleSet": false
 }
