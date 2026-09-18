@@ -87,19 +87,19 @@
       "id": "8555fae3-0062-4027-9513-fef513e9cebd",
       "serialNumber": 5,
       "title": "O Afa nwng ankhou manw",
-      "composer": "Mrinal Iswarari",
-      "date": "2026-09-17",
+      "composer": "Protensing Narjinari",
+      "date": "2026-09-18",
       "composeDate": "0001-01-01",
-      "lyrics": "O Afa nwng ankhou manw \nLenghorbai thayw, gaoni jaigayao -2\n(A)\nJanw hagou Afa nwngni lenghornaia\n mwnse thanki -2\nDinwigwn nwng gwjwnpuriao\n“Gaoni jaigayao” -2\n(B)\nNathai afa Ang  mwdainw burkhainayao\nGwlwdwng papni buhumao -2\nOblabw nagara nwng angkhou\n“Ang papi khou” -2",
+      "key": "",
+      "scaleSet": false,
+      "version": "",
+      "audioType": "audio",
+      "audioUrl": "",
       "tags": [
         "Bodo",
         "Goodfriday"
       ],
-      "audioUrl": "",
-      "audioType": "audio",
-      "version": "",
-      "key": "",
-      "scaleSet": false
+      "lyrics": "O Afa nwng ankhou manw \nLenghorbai thayw, gaoni jaigayao -2\n(A)\nJanw hagou Afa nwngni lenghornaia\n mwnse thanki -2\nDinwigwn nwng gwjwnpuriao\n“Gaoni jaigayao” -2\n(B)\nNathai afa Ang  mwdainw burkhainayao\nGwlwdwng papni buhumao -2\nOblabw nagara nwng angkhou\n“Ang papi khou” -2"
     },
     {
       "id": "3dd1760c-7909-4366-ada0-c2ff31a14127",
@@ -1129,16 +1129,16 @@
       "composer": "xxxxxxxxxxxxxx",
       "date": "2026-09-17",
       "composeDate": "0001-01-01",
-      "key": "",
-      "scaleSet": false,
-      "version": "",
-      "audioType": "audio",
-      "audioUrl": "",
+      "lyrics": "Jo cruse par kurbaan, o mera Masiha hai\nHar zakhm jo uska hai, o mere gunah ka hai -2\n-1\nIs duniya mein le aaye, (mere gunah usko -2)\nYe zulm sitam us par, (maine hi karaya hai -2)\n-2\nInsan hai wo kabil, (aur sachcha Khuda wo hai -2)\nO pyar ka dariya hai, (sachchai ka rastaa hai -2)\n-3\nDene ko tujhe jeevan, (khud mot se hi usne -2)\nKya khub hai kurbaani, (kya pyar anokha hai -2)",
       "tags": [
         "Hindi",
         "GoodFriday"
       ],
-      "lyrics": "Jo cruse par kurbaan, o mera Masiha hai\nHar zakhm jo uska hai, o mere gunah ka hai -2\n-1\nIs duniya mein le aaye, (mere gunah usko -2)\nYe zulm sitam us par, (maine hi karaya hai -2)\n-2\nInsan hai wo kabil, (aur sachcha Khuda wo hai -2)\nO pyar ka dariya hai, (sachchai ka rastaa hai -2)\n-3\nDene ko tujhe jeevan, (khud mot se hi usne -2)\nKya khub hai kurbaani, (kya pyar anokha hai -2)"
+      "audioUrl": "",
+      "audioType": "audio",
+      "version": "",
+      "key": "",
+      "scaleSet": false
     },
     {
       "id": "d7c2c108-afaa-41e4-9c47-67b7c19498e1",
@@ -2124,5 +2124,5 @@
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-17T18:54:46.239Z"
+  "lastUpdated": "2026-09-18T15:44:17.391Z"
 }
