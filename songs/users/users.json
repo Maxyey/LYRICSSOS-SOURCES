@@ -38,5 +38,13 @@
     "password": "User@gmail.com",
     "role": "user",
     "createdAt": "2026-09-17T04:36:05.648Z"
+  },
+  {
+    "id": "user-1789749322385",
+    "name": "Abhijit",
+    "email": "abhijit@gmail.com",
+    "password": "abhijit@gmail.com",
+    "role": "user",
+    "createdAt": "2026-09-18T16:35:22.385Z"
   }
 ]
