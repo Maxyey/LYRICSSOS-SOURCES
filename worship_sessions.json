@@ -62,6 +62,26 @@
         "customScale": "D",
         "customTempo": "",
         "customNotes": ""
+      },
+      {
+        "id": "6f4085f3-adfe-48b1-9c8e-c385bbd95cce",
+        "songId": "71fa2708-c533-44b2-8861-0cb0bde8355f",
+        "title": "Afa Isorni noa",
+        "customLabel": "Worship Song",
+        "customLyrics": "Aa . . . . . . . . . . Aa . . . . . . . . . . -2\nAfa Isorni noa, Swithw-dhwrwmni dera\nShrang alari jwngblaobai thathwng\nJwngni sibithiliao -2\n(A)\nWi menglinai fwr, fwi nwngswrw fwi\nWi unkhwinaifwr, fwi nwngswrw fwi -2\nKhwmsi lamanifrai ongkharnan fwi\nIswrni raijwao bahafw lafwi -2\n(B)\nJiu hwsartnanwi dhwrwm sibinangwn\nGwsw hwsartnanwi swithw lakhinangwn -2\nAros thanangwn firi-firi\nMwngwn oblasw bwrni jhwri -2\n",
+        "customScale": "C",
+        "customTempo": "",
+        "customNotes": ""
+      },
+      {
+        "id": "7c8c163a-6ee1-45b6-9786-d0e0cc7a895c",
+        "songId": "49f87414-efd2-4b79-9678-24a564ef5b1f",
+        "title": "Fwrbuni mungwi sofwinai subung",
+        "customLabel": "Worship Song",
+        "customLyrics": "Fwrbuni mungwi sofwinai subung\nJiuni nangoukhou hastainai subung – 2\nJwng hambai hwnw rwja-rwja\nPhwrbuni mungwi borai layw - 2\n(A)\nGaswi nangou fwrkhou, jrab garnanwi\nGaswi hengta fwrkhou baogarnanwi – 2\nSofwi habai dinwi be langwnao - 2\n(B)\nJiuni gangnai arw unkwinaikhou\nPhwrbu Jisuniao swfungjanw – 2\nSofwi habai dinwi be langwnao - 2\n",
+        "customScale": "C",
+        "customTempo": "",
+        "customNotes": ""
       }
     ]
   }
