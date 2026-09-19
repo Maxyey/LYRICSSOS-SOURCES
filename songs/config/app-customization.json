@@ -20,12 +20,6 @@
       "enabled": false
     },
     {
-      "id": "verse-2",
-      "text": "“FWRBUni lagwi gwdan dwngse mwtai kondw, gaswi buhumni mansifwr, FWRBUni mungwi mwtai kondw.”",
-      "ref": "Gitfwr 69:1",
-      "enabled": false
-    },
-    {
       "id": "verse-3",
       "text": "“Let everything that has breath praise the LORD.”",
       "ref": "Psalm 150:6",
@@ -34,12 +28,12 @@
     {
       "id": "verse-4",
       "text": "“Boibw hang gwnangfwr, FWRBUkou baknaitwng.”",
-      "ref": "Gitfwr 150:6",
+      "ref": "Gitfwr 150:67",
       "enabled": false
     },
     {
       "id": "verse-1789838540230",
-      "text": "Songsarni Maya Thiliao\nSinger _ Sikha Mochari, \nComooser_ Mrinal Iswarari , \nProducer_ Shusil Hazowary",
+      "text": "Singer _ Sikha Mochari, \nComooser_ Mrinal Iswarari , \nProducer_ Shusil Hazowary",
       "ref": "",
       "type": "announcement",
       "imageUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/announcements/photos/1789840390257_1000160727.jpg",
@@ -50,6 +44,25 @@
       "hymnId": "c55add75-5b57-4a1f-80aa-cb299a993591",
       "hymnNumber": "91",
       "hymnTitle": "Songsarni maya thiliao"
+    },
+    {
+      "id": "verse-2",
+      "text": "“FWRBUni lagwi gwdan dwngse mwtai kondw, gaswi buhumni mansifwr, FWRBUni mungwi mwtai kondw.”",
+      "ref": "Gitfwr 69:1",
+      "enabled": false
+    },
+    {
+      "id": "verse-1789845140370",
+      "text": "Singer _ Doli Iswarari, \nComooser_ Mrinal Iswarari , \nProducer_ Shusil Hazowary",
+      "ref": "",
+      "type": "announcement",
+      "enabled": true,
+      "hymnId": "ce3e34dd-7c85-4080-bd16-23b1c57cd2c6",
+      "hymnNumber": "65",
+      "hymnTitle": "Khwnasongdw jwngni gabnai",
+      "imageUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/announcements/photos/1789845198542_1000160731.jpg",
+      "linkUrl": "https://youtu.be/_MyLHQKk6qE?si=DitjiU9xiGV7a-yR",
+      "linkText": "open in youtube "
     }
   ],
   "verseIntervalSeconds": 6,
