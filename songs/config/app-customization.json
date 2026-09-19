@@ -1,0 +1,50 @@
+{
+  "appTitle": "Songs of Salvation",
+  "appTitleColor": "default",
+  "titleTextColor": "default",
+  "appTitleFontSize": 40,
+  "titleFontSize": 40,
+  "appTitleFontFamily": "serif",
+  "titleFontFamily": "serif",
+  "appTitleFontWeight": "extrabold",
+  "titleFontWeight": "extrabold",
+  "bibleVerses": [
+    {
+      "text": "“Sing to the Lord a new song, sing to the Lord, all the earth.”",
+      "ref": "Psalm 96:1"
+    },
+    {
+      "text": "“FWRBUni lagwi gwdan dwngse mwtai kondw, gaswi buhumni mansifwr, FWRBUni mungwi mwtai kondw.”",
+      "ref": "Gitfwr 69:1"
+    },
+    {
+      "text": "“Let everything that has breath praise the LORD.”",
+      "ref": "Psalm 150:6"
+    },
+    {
+      "text": "“Boibw hang gwnangfwr, FWRBUkou baknaitwng.”",
+      "ref": "Gitfwr 150:6"
+    }
+  ],
+  "verseIntervalSeconds": 6,
+  "verseTextColor": "default",
+  "verseFontSize": 12,
+  "appDescription": "Explore the ultimate collection of original songs & timeless hymns.\nfrom Sonadoba N.E.L.C.",
+  "descriptionTextColor": "default",
+  "descTextColor": "default",
+  "descriptionFontSize": 13,
+  "descFontSize": 13,
+  "appLogoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/830746fbdd9cb51284e6c17f6839ff5705a0a3a3/IMG_COM_202505080958427640.png",
+  "headerGlowEnabled": true,
+  "textShadowEnabled": true,
+  "headerAlignment": "center",
+  "adminProfile": {
+    "name": "Admin Maxy",
+    "email": "maxyrocs01@gmail.com",
+    "role": "Ministry Administrator",
+    "title": "Chief Hymnal Curator & Admin",
+    "churchName": "Sonadoba N.E.L.C. Gospel Church",
+    "avatarUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/830746fbdd9cb51284e6c17f6839ff5705a0a3a3/IMG_COM_202505080958427640.png",
+    "bio": "Lead Administrator & Digital Hymnody Curator for Songs of Salvation."
+  }
+}
