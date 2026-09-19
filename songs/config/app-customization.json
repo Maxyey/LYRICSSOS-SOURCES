@@ -16,22 +16,26 @@
     {
       "id": "verse-1",
       "text": "“Sing to the Lord a new song, sing to the Lord, all the earth.”",
-      "ref": "Psalm 96:1"
+      "ref": "Psalm 96:1",
+      "enabled": false
     },
     {
       "id": "verse-2",
       "text": "“FWRBUni lagwi gwdan dwngse mwtai kondw, gaswi buhumni mansifwr, FWRBUni mungwi mwtai kondw.”",
-      "ref": "Gitfwr 69:1"
+      "ref": "Gitfwr 69:1",
+      "enabled": false
     },
     {
       "id": "verse-3",
       "text": "“Let everything that has breath praise the LORD.”",
-      "ref": "Psalm 150:6"
+      "ref": "Psalm 150:6",
+      "enabled": true
     },
     {
       "id": "verse-4",
       "text": "“Boibw hang gwnangfwr, FWRBUkou baknaitwng.”",
-      "ref": "Gitfwr 150:6"
+      "ref": "Gitfwr 150:6",
+      "enabled": false
     },
     {
       "id": "verse-1789838540230",
@@ -41,7 +45,8 @@
       "imageUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/announcements/photos/1789839818432_1000160600.jpg",
       "linkUrl": "https://youtu.be/9rlSD_p2S6c?si=_y93rQTW0FfrJ-e_",
       "linkText": "Open in youtube ",
-      "comments": "Lets praise "
+      "comments": "Lets praise ",
+      "enabled": true
     }
   ],
   "verseIntervalSeconds": 6,
