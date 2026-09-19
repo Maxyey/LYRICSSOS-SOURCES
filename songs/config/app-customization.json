@@ -10,18 +10,22 @@
   "titleFontWeight": "extrabold",
   "bibleVerses": [
     {
+      "id": "verse-1",
       "text": "“Sing to the Lord a new song, sing to the Lord, all the earth.”",
       "ref": "Psalm 96:1"
     },
     {
+      "id": "verse-2",
       "text": "“FWRBUni lagwi gwdan dwngse mwtai kondw, gaswi buhumni mansifwr, FWRBUni mungwi mwtai kondw.”",
       "ref": "Gitfwr 69:1"
     },
     {
+      "id": "verse-3",
       "text": "“Let everything that has breath praise the LORD.”",
       "ref": "Psalm 150:6"
     },
     {
+      "id": "verse-4",
       "text": "“Boibw hang gwnangfwr, FWRBUkou baknaitwng.”",
       "ref": "Gitfwr 150:6"
     }
