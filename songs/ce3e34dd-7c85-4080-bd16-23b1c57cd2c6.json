@@ -5,11 +5,13 @@
   "composer": "Mrinal Iswarari",
   "date": "2026-09-19",
   "composeDate": "0001-01-01",
-  "key": "",
-  "scaleSet": false,
-  "version": "",
-  "audioType": "youtube",
+  "lyrics": "Khwnasongdw jwngni gabnai\nJwng haoria alai-silai -2\nNwngni swrjinai gwsw-mwdwm-jiu\nNimaha hwdw jwngkhou -2\n(A)\nSubunga dhwrwmkhou baogarlangbai\nBifa Isorkhou lajihwbai -2\nGwmalangbai gwmwrlangbai\nGwjaolangbai bwi lwithwao -2\n(B)\nSubunga jiukhou khwmalangbai\nSongsarni dhwnkhou hastainanwi -2\nGwmalangbai gwmwrlangbai\nGwjaolangbai bwi lwithwao -2",
+  "tags": [
+    "Bodo",
+    "Prayer"
+  ],
   "audioUrl": "https://youtu.be/_MyLHQKk6qE?si=2QbINKmBUQQ5F14I",
+  "audioType": "youtube",
   "audioSources": [
     {
       "id": "src-1",
@@ -33,9 +35,7 @@
       "versionType": "scratch"
     }
   ],
-  "tags": [
-    "Bodo",
-    "Prayer"
-  ],
-  "lyrics": "Khwnasongdw jwngni gabnai\nJwng haoria alai-silai -2\nNwngni swrjinai gwsw-mwdwm-jiu\nNimaha hwdw jwngkhou -2\n(A)\nSubunga dhwrwmkhou baogarlangbai\nBifa Isorkhou lajihwbai -2\nGwmalangbai gwmwrlangbai\nGwjaolangbai bwi lwithwao -2\n(B)\nSubunga jiukhou khwmalangbai\nSongsarni dhwnkhou hastainanwi -2\nGwmalangbai gwmwrlangbai\nGwjaolangbai bwi lwithwao -2"
+  "version": "",
+  "key": "D| hi",
+  "scaleSet": true
 }
