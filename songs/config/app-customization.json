@@ -47,6 +47,14 @@
       "linkText": "Open in youtube ",
       "comments": "",
       "enabled": true
+    },
+    {
+      "id": "verse-1789841104926",
+      "text": "The recording session",
+      "ref": "Scripture 1:1",
+      "type": "photo",
+      "enabled": true,
+      "imageUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/announcements/photos/1789841145730_1000144930.jpg"
     }
   ],
   "verseIntervalSeconds": 6,
