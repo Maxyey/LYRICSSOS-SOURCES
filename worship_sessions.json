@@ -106,22 +106,22 @@
     "isPublic": false,
     "items": [
       {
-        "id": "871eba75-acfd-412d-97a0-c551b28edcb6",
-        "songId": "dbd9f283-c0be-4148-b2f6-847d0fb7ae37",
-        "title": "Afa Isora jwngkhou lananwi",
-        "customLabel": "Worship Song",
-        "customLyrics": "Afa Isora jwngkhou lananwi\nSonani nikhor dagwn\n“Bwi gwjwn swrgwao”-2 -2\n(1)\nRongza-mini jug-jugani Afa Isor jwng\nAlw-gwnwn, ruju-rumu bwi swrgwao -2\nSwrgiding Isorni, Abraham-Isahaqjwng -2\nJwngbw lwgwse Arpho fwrjwng\nJwngbw lwgwse raijw jagwn -2\n",
-        "customScale": "C",
-        "customTempo": "",
-        "customNotes": ""
-      },
-      {
         "id": "d84639b6-230d-4825-85b9-3bab25f9f6d7",
         "songId": "e783eae0-7586-400b-816d-af1976366279",
         "title": "Aya vo jagat mein",
         "customLabel": "Worship Song",
         "customLyrics": "Aaya vo jagat mein, paapiyon ko karne paritran\nLaya vo jeevan deep sansar ko karne ujjala -2\nMarg vahi, satya vahi, jeevan bhi vahi hai -2\n(A)\nVo vahi Masi hai jo aane wala\nVo vahi Masi hai jo bachane wala -2\nSwarg uska, dharti bhi, sabka vahi hai rakha wala\n(B)\nDukh uthaya Prabhu ne, taaki hamen mukti mile\nBalidan hua Ishu ne, taise hamen jeevan mile-2\nMukti vahi hai, jeevan bhi, sabka vahi hai rakha wala",
         "customScale": "",
+        "customTempo": "",
+        "customNotes": ""
+      },
+      {
+        "id": "871eba75-acfd-412d-97a0-c551b28edcb6",
+        "songId": "dbd9f283-c0be-4148-b2f6-847d0fb7ae37",
+        "title": "Afa Isora jwngkhou lananwi",
+        "customLabel": "Worship Song",
+        "customLyrics": "Afa Isora jwngkhou lananwi\nSonani nikhor dagwn\n“Bwi gwjwn swrgwao”-2 -2\n(1)\nRongza-mini jug-jugani Afa Isor jwng\nAlw-gwnwn, ruju-rumu bwi swrgwao -2\nSwrgiding Isorni, Abraham-Isahaqjwng -2\nJwngbw lwgwse Arpho fwrjwng\nJwngbw lwgwse raijw jagwn -2\n",
+        "customScale": "C",
         "customTempo": "",
         "customNotes": ""
       },
