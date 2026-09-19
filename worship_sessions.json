@@ -158,5 +158,27 @@
         "customNotes": ""
       }
     ]
+  },
+  {
+    "id": "4bed2875-9cbe-493c-bd2f-f077ce539601",
+    "name": "5c bh u",
+    "creatorId": "admin",
+    "creatorName": "Administrator",
+    "createdAt": "2026-09-19T20:01:15.156Z",
+    "sessionMode": "event",
+    "eventDate": "2026-09-21",
+    "isPublic": true,
+    "items": [
+      {
+        "id": "33c6b405-0e99-4da4-bfba-bb0db76fcd96",
+        "songId": "e783eae0-7586-400b-816d-af1976366279",
+        "title": "Aya vo jagat mein",
+        "customLabel": "Worship Song",
+        "customLyrics": "Aaya vo jagat mein, paapiyon ko karne paritran\nLaya vo jeevan deep sansar ko karne ujjala -2\nMarg vahi, satya vahi, jeevan bhi vahi hai -2\n(A)\nVo vahi Masi hai jo aane wala\nVo vahi Masi hai jo bachane wala -2\nSwarg uska, dharti bhi, sabka vahi hai rakha wala\n(B)\nDukh uthaya Prabhu ne, taaki hamen mukti mile\nBalidan hua Ishu ne, taise hamen jeevan mile-2\nMukti vahi hai, jeevan bhi, sabka vahi hai rakha wala",
+        "customScale": "",
+        "customTempo": "",
+        "customNotes": ""
+      }
+    ]
   }
 ]
