@@ -35,8 +35,13 @@
     },
     {
       "id": "verse-1789838540230",
-      "text": "https://youtu.be/9rlSD_p2S6c?si=_y93rQTW0FfrJ-e_",
-      "ref": "New song"
+      "text": "R u ready",
+      "ref": "New song",
+      "type": "announcement",
+      "imageUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/announcements/photos/1789839818432_1000160600.jpg",
+      "linkUrl": "https://youtu.be/9rlSD_p2S6c?si=_y93rQTW0FfrJ-e_",
+      "linkText": "Open in youtube ",
+      "comments": "Lets praise "
     }
   ],
   "verseIntervalSeconds": 6,
