@@ -1,7 +1,10 @@
 {
   "id": "b4fd0885-ac05-4d7c-8ad8-f5998197c35e",
+  "serialNumber": 18,
   "title": "Bwi naihor gada bisayao",
   "composer": "Mrinal Iswarari ",
+  "date": "2025-05-04T07:26:22.700Z",
+  "composeDate": "0001-01-01",
   "lyrics": "Bwi naihor gada bisayao\nIsorni menda bisaya -2\nJerusalemni gwthar lamajwng\nBifa Isorni mwndirao thangw -2\n(A)\nHalleluiya Hossanna, subungni jiuni raja\nMwndir nonga bi, Isorni saogari\nSeler nonga be jiuni malasw -2\n",
   "tags": [
     "Bodo",
@@ -9,8 +12,7 @@
   ],
   "audioUrl": "",
   "audioType": "audio",
-  "composeDate": "0001-01-01",
-  "version": "Standard Version",
-  "serialNumber": 18,
-  "date": "2025-05-04T07:26:22.700Z"
+  "version": "",
+  "key": "",
+  "scaleSet": false
 }
