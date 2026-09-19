@@ -36,7 +36,7 @@
   ],
   "verseIntervalSeconds": 6,
   "verseTextColor": "default",
-  "verseFontSize": 12,
+  "verseFontSize": 9,
   "verseFontFamily": "default",
   "verseBadgeStyle": "pill",
   "verseAnimationStyle": "fade-slide-up",
