@@ -11,7 +11,7 @@
   "titleNeonEnabled": false,
   "titleNeonIntensity": 5,
   "titleNeonColor": "default",
-  "showBibleVerseRotator": true,
+  "showBibleVerseRotator": false,
   "bibleVerses": [
     {
       "id": "verse-1",
