@@ -34,12 +34,12 @@
       "ref": "Gitfwr 150:6"
     }
   ],
-  "verseIntervalSeconds": 6,
+  "verseIntervalSeconds": 2,
   "verseTextColor": "default",
   "verseFontSize": 9,
   "verseFontFamily": "cinzel-decorative",
   "verseBadgeStyle": "minimal-dash",
-  "verseAnimationStyle": "fade-slide-up",
+  "verseAnimationStyle": "flip-x",
   "verseNeonEnabled": false,
   "verseNeonIntensity": 5,
   "verseNeonColor": "default",
