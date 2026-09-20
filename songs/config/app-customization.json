@@ -69,6 +69,14 @@
       "linkUrl": "https://youtu.be/_MyLHQKk6qE?si=DitjiU9xiGV7a-yR",
       "linkText": "open in youtube ",
       "order": 6
+    },
+    {
+      "id": "verse-1789896025637",
+      "order": 7,
+      "text": "Special Church Announcement or Event Notice",
+      "ref": "Notice",
+      "type": "announcement",
+      "enabled": true
     }
   ],
   "verseIntervalSeconds": 6,
