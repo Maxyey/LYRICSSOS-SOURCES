@@ -69,14 +69,6 @@
       "linkUrl": "https://youtu.be/_MyLHQKk6qE?si=DitjiU9xiGV7a-yR",
       "linkText": "open in youtube ",
       "order": 6
-    },
-    {
-      "id": "verse-1789895694923",
-      "order": 7,
-      "text": "Church Gallery Photo / Banner Caption",
-      "ref": "Photo",
-      "type": "photo",
-      "enabled": true
     }
   ],
   "verseIntervalSeconds": 6,
