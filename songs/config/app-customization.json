@@ -73,10 +73,16 @@
     {
       "id": "verse-1789896025637",
       "order": 7,
-      "text": "Special Church Announcement or Event Notice",
-      "ref": "Notice",
+      "text": "Singer _ Alex Iswarari\nComooser_ Mrinal Iswarari ",
+      "ref": "",
       "type": "announcement",
-      "enabled": true
+      "enabled": true,
+      "linkUrl": "https://youtu.be/31K6JMrnZEA?si=l1v6WH0uR45-tOgY",
+      "linkText": "open in youtube",
+      "hymnId": "bb712cc7-e0e7-4410-83f6-f0ad78c6475d",
+      "hymnNumber": "74",
+      "hymnTitle": "Oh Bifa Isor khaolai horw jwng",
+      "imageUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/announcements/photos/1789896201048_1000160858.jpg"
     }
   ],
   "verseIntervalSeconds": 6,
