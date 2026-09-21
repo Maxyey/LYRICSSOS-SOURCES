@@ -1,16 +1,34 @@
 {
   "id": "566870b8-05fd-43da-b818-ef138b74ba89",
+  "serialNumber": 106,
   "title": "Sonadoba N.E.L.C jwngni mondoli",
-  "composer": "Mrinal Iswarari ",
-  "lyrics": "​Ch.\nSonadoba N.E.L.C. jwngni mondoli\n\nKhusi-khusi jwnglai khusi, dinwi Jubilee-2\n\nPhungbili jubilee, nwi jiba bwswrari\n\nSibigwn khulumgwn, boibw jwng firi-firi -2\n\nHa ha... lara la la-3:\n\n(A) \n\nRongjanaini dengkhw, sibinaini hangkhw \n\nSomaina girja, nwng jwngnw hwbai\n\nBaonw haya jwng, hambai hwyw jwng\n\nAogai grwnai, ajou-ajwi fwrkhou -2\n\n(B) \n\nMondolikhou jwngni, ajaonanwi labai \n\nNwi rwja maithaini, dinwini sanao\n\nHambai hwyw jwng, Gothaibari circle\n\nJwngkhou onnanwi, gojobna labai -2",
+  "composer": "Mrinal Iswarari",
+  "date": "2026-09-21",
+  "composeDate": "2025-07-29",
+  "key": "",
+  "scaleSet": false,
+  "version": "",
+  "audioType": "audio",
+  "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/4973ebb9-6127-497a-9c0e-0c697fb4258e.m4a",
+  "audioSources": [
+    {
+      "id": "src-566870b8-05fd-43da-b818-ef138b74ba89-primary",
+      "label": "With Music",
+      "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/4973ebb9-6127-497a-9c0e-0c697fb4258e.m4a",
+      "type": "audio",
+      "versionType": "with-music"
+    },
+    {
+      "id": "src-1789951476685-sqzt",
+      "label": "YouTube Official Published Version",
+      "url": "https://youtu.be/C03XB0IBGus?si=gBILSC-0sWz2_jw3",
+      "type": "youtube",
+      "versionType": "youtube"
+    }
+  ],
   "tags": [
     "Bodo",
     "Silver Jubilee 2025"
   ],
-  "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/4973ebb9-6127-497a-9c0e-0c697fb4258e.m4a",
-  "audioType": "audio",
-  "composeDate": "2025-07-29",
-  "version": "Standard Version",
-  "serialNumber": 106,
-  "date": "2025-10-14T10:33:31.112Z"
+  "lyrics": "​Ch.\nSonadoba N.E.L.C. jwngni mondoli\n\nKhusi-khusi jwnglai khusi, dinwi Jubilee-2\n\nPhungbili jubilee, nwi jiba bwswrari\n\nSibigwn khulumgwn, boibw jwng firi-firi -2\n\nHa ha... lara la la-3:\n\n(A) \n\nRongjanaini dengkhw, sibinaini hangkhw \n\nSomaina girja, nwng jwngnw hwbai\n\nBaonw haya jwng, hambai hwyw jwng\n\nAogai grwnai, ajou-ajwi fwrkhou -2\n\n(B) \n\nMondolikhou jwngni, ajaonanwi labai \n\nNwi rwja maithaini, dinwini sanao\n\nHambai hwyw jwng, Gothaibari circle\n\nJwngkhou onnanwi, gojobna labai -2"
 }
