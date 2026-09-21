@@ -2071,7 +2071,7 @@
       "audioSources": [
         {
           "id": "src-566870b8-05fd-43da-b818-ef138b74ba89-primary",
-          "label": "With Music",
+          "label": "Live Worship Recording",
           "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/4973ebb9-6127-497a-9c0e-0c697fb4258e.m4a",
           "type": "audio",
           "versionType": "with-music"
@@ -2147,5 +2147,5 @@
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-21T00:44:51.212Z"
+  "lastUpdated": "2026-09-21T00:45:10.565Z"
 }
