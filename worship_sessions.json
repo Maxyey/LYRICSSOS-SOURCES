@@ -1,57 +1,5 @@
 [
   {
-    "id": "4697ecee-6e20-4061-8737-fba054cb0cbb",
-    "name": "Genu",
-    "creatorId": "admin",
-    "creatorName": "Mr.Administrator",
-    "createdAt": "2026-09-17T18:39:01.603Z",
-    "sessionMode": "collection",
-    "collectionName": "REVIVAL FESTIVAL",
-    "isPublic": true,
-    "items": [
-      {
-        "id": "6f4085f3-adfe-48b1-9c8e-c385bbd95cce",
-        "songId": "71fa2708-c533-44b2-8861-0cb0bde8355f",
-        "title": "Afa Isorni noa",
-        "customLabel": "Worship Song",
-        "customLyrics": "Aa . . . . . . . . . . Aa . . . . . . . . . . -2\nAfa Isorni noa, Swithw-dhwrwmni dera\nShrang alari jwngblaobai thathwng\nJwngni sibithiliao -2\n(A)\nWi menglinai fwr, fwi nwngswrw fwi\nWi unkhwinaifwr, fwi nwngswrw fwi -2\nKhwmsi lamanifrai ongkharnan fwi\nIswrni raijwao bahafw lafwi -2\n(B)\nJiu hwsartnanwi dhwrwm sibinangwn\nGwsw hwsartnanwi swithw lakhinangwn -2\nAros thanangwn firi-firi\nMwngwn oblasw bwrni jhwri -2\n",
-        "customScale": "",
-        "customTempo": "",
-        "customNotes": ""
-      },
-      {
-        "id": "f97ebbc2-5213-45cf-948e-c03c3ba89590",
-        "songId": "ef1c4dd9-d90c-4d39-ae1d-86802a873496",
-        "title": "Ami asibo abar ekdin",
-        "customLabel": "Worship Song",
-        "customLyrics": "আমি আসিব আবার একদিন-2\nসেই দিন-2 সেই দিন ডাকিব সবারে -2\n(A)\nযে যেমন কর্ম করিবে তাকে তেমন ফল দিব\nযদি কেহ মন না ফিরায়, সে মরিবেই মরিবে\nযেইদিনে কাঁপিবে ভূবন, সেইদিনে দেখিবে সেজন -2\n(B)\nধন্য যারা আত্মাতে দীনহীন স্বর্গরাজ্য তাহাদেরই\nধন্য যারা নির্মলান্তকরন, সে দেখিবে জীবন পথ\nযেইদিনে আসিব আমি, সেই দিনে ডাকিব তোমায় -2\n______________________________________________\n\nAmi asibo abar ekdin -2\nSei din -2 sei din dakibo sabare -2\n(A)\nJe jemon kormo koribe take temon phal dibo\nJodi keho mon na phiray, se moribei moribe\nJeidin khampe bhuvan, seidin dekhibe sejon -2\n(B)\nDhanya jara atmate dinhin swargarajya tahaderi\nDhanya jara nirmal antar karane, se dekhibe jibon path\nJeidin asibo ami, seidin dakibo tomay -2",
-        "customScale": "",
-        "customTempo": "",
-        "customNotes": ""
-      },
-      {
-        "id": "2240319f-28b4-409f-950a-b3042efcf318",
-        "songId": "e783eae0-7586-400b-816d-af1976366279",
-        "title": "Aya vo jagat mein",
-        "customLabel": "Worship Song",
-        "customLyrics": "Aaya vo jagat mein, paapiyon ko karne paritran\nLaya vo jeevan deep sansar ko karne ujjala -2\nMarg vahi, satya vahi, jeevan bhi vahi hai -2\n(A)\nVo vahi Masi hai jo aane wala\nVo vahi Masi hai jo bachane wala -2\nSwarg uska, dharti bhi, sabka vahi hai rakha wala\n(B)\nDukh uthaya Prabhu ne, taaki hamen mukti mile\nBalidan hua Ishu ne, taise hamen jeevan mile-2\nMukti vahi hai, jeevan bhi, sabka vahi hai rakha wala",
-        "customScale": "",
-        "customTempo": "",
-        "customNotes": ""
-      },
-      {
-        "id": "7c8c163a-6ee1-45b6-9786-d0e0cc7a895c",
-        "songId": "49f87414-efd2-4b79-9678-24a564ef5b1f",
-        "title": "Fwrbuni mungwi sofwinai subung",
-        "customLabel": "Worship Song",
-        "customLyrics": "Fwrbuni mungwi sofwinai subung\nJiuni nangoukhou hastainai subung – 2\nJwng hambai hwnw rwja-rwja\nPhwrbuni mungwi borai layw - 2\n(A)\nGaswi nangou fwrkhou, jrab garnanwi\nGaswi hengta fwrkhou baogarnanwi – 2\nSofwi habai dinwi be langwnao - 2\n(B)\nJiuni gangnai arw unkwinaikhou\nPhwrbu Jisuniao swfungjanw – 2\nSofwi habai dinwi be langwnao - 2\n",
-        "customScale": "",
-        "customTempo": "",
-        "customNotes": ""
-      }
-    ]
-  },
-  {
     "id": "c256c1ec-8404-4dab-bbfb-b3846d92ba21",
     "name": "V7g",
     "creatorId": "admin",
