@@ -42,37 +42,5 @@
         "customNotes": ""
       }
     ]
-  },
-  {
-    "id": "5bfa2a58-c150-48ab-b6b4-e61393ddb519",
-    "name": "Sundayschoo dsy",
-    "creatorId": "b2af4142-1f8b-42d2-9257-6dbe8d9d7b10",
-    "creatorName": "genui",
-    "createdAt": "2026-09-21T02:22:56.403Z",
-    "sessionMode": "event",
-    "eventDate": "2026-11-01",
-    "isPublic": false,
-    "items": [
-      {
-        "id": "6af0ae0a-deb4-4ecd-b57b-0b3b848c3ad2",
-        "songId": "c16831b7-0eb4-444a-9e29-9a016299b8d0",
-        "title": "Gwthar Gwthar Sandayschool san",
-        "customLabel": "Worship Song",
-        "customLyrics": "Gwthar  Gwthar\n Sandayschool san- sandayschool san\n“Dinwi bese rongzanai” -2\n(a)\nRongzagwn jwng, rwjabgwn jwng -2\nDinwini be dibosao\n(b)\nPhorai boibw khwnta boibw -2\nGwthar Bibleni batra\n",
-        "customScale": "C",
-        "customTempo": "",
-        "customNotes": ""
-      },
-      {
-        "id": "1b8bdcdd-1ae8-49a9-8b55-a19dca57b411",
-        "songId": "50130c09-8b71-4c41-95c2-987fa6922618",
-        "title": "Dihun janai dibosa",
-        "customLabel": "Prayer",
-        "customLyrics": "Dihun janai dibosa\nJwngni mwnse jarimin\nBe jarimin dihun jandwng\nSubungkhou fwjakhangnw -2\n(A)\nJwng sibigwn khouse janan\n“Kristoni gaham batra-2”\nJwng rwjabgwn Kristni methai\n“Subungkhou fwjakhangnw-2” -2\n(B)\nKhonsaibwdwng be dibosa\n“Buhumni subung fwrkhou-2”\nSomai hwdwng be dibosa\n“Geremsa khwmsali khou-2”\n",
-        "customScale": "C",
-        "customTempo": "",
-        "customNotes": ""
-      }
-    ]
   }
 ]
