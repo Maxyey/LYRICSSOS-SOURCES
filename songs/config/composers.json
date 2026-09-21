@@ -72,5 +72,13 @@
     "badgeTitle": "Hymnist",
     "skills": "Composer, Lyricist",
     "ministryYears": "Composer, Lyricist"
+  },
+  {
+    "id": "composer-1789957138296-lki9mdp",
+    "name": "Sundayschoo 1990",
+    "bio": "Newly added contributor for \"Yeshule hamro jeevan lai\".",
+    "photoUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&auto=format&fit=crop&q=80",
+    "ministryLabel": "Contributor",
+    "badgeTitle": "Hymnist"
   }
 ]
