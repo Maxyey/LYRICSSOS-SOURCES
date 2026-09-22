@@ -81,7 +81,8 @@
       "audioType": "audio",
       "version": "",
       "key": "",
-      "scaleSet": false
+      "scaleSet": false,
+      "chords": "Aa . . . . . . . . . . Aa . . . . . . . . . . -2\n[G:5]Afa Isorni noa, Swithw-dhwrwmni dera\n[C:3]Shrang alari jwngblaobai thathwng\nJwngni sibithiliao -2\n[A]\nWi menglinai fwr, fwi nwngswrw fwi\nWi unkhwinaifwr, fwi nwngswrw fwi -2\nKhwmsi lamanifrai ongkharnan fwi\nIswrni raijwao bahafw lafwi -2\n[B]\nJiu hwsartnanwi dhwrwm sibinangwn\nGwsw hwsartnanwi swithw lakhinangwn -2\nAros thanangwn firi-firi\nMwngwn oblasw bwrni jhwri -2\n"
     },
     {
       "id": "8555fae3-0062-4027-9513-fef513e9cebd",
@@ -1993,15 +1994,15 @@
       "composer": "Sundayschoo 1990",
       "date": "2026-09-21",
       "composeDate": "0001-01-01",
-      "key": "",
-      "scaleSet": false,
-      "version": "Youtube Scratch ",
-      "audioType": "audio",
-      "audioUrl": "",
+      "lyrics": "Yeshule hamro jeevan lai\nYeshule hamro pap lai dhoi dene chan.\n'Aunu hos -2 mukti linu lai -2\n(1)\nChini hamro Prabhu Ishu raja lai\nBishwas garo unai ma aajnai -2\n'Aunu hos -2 shanti linu lai -2\n(2)\nUni hon shanti dine Prabhu\nUni hon bato swarga ko -2\n'Aunu hos -2 jeevan linu lai -2",
       "tags": [
         "Nepali"
       ],
-      "lyrics": "Yeshule hamro jeevan lai\nYeshule hamro pap lai dhoi dene chan.\n'Aunu hos -2 mukti linu lai -2\n(1)\nChini hamro Prabhu Ishu raja lai\nBishwas garo unai ma aajnai -2\n'Aunu hos -2 shanti linu lai -2\n(2)\nUni hon shanti dine Prabhu\nUni hon bato swarga ko -2\n'Aunu hos -2 jeevan linu lai -2"
+      "audioUrl": "",
+      "audioType": "audio",
+      "version": "Youtube Scratch ",
+      "key": "",
+      "scaleSet": false
     },
     {
       "id": "350a16b7-3fc2-4abe-950b-0ba8f73a2ba7",
@@ -2147,5 +2148,5 @@
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-21T02:19:03.008Z"
+  "lastUpdated": "2026-09-22T09:03:43.556Z"
 }
