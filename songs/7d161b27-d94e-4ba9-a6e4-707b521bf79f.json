@@ -6,6 +6,7 @@
   "date": "2025-05-04T07:27:11.803Z",
   "composeDate": "0001-01-01",
   "lyrics": "Dabw undwi gotho jwngw\nRwnga raya jwng sibiyw\n“O . . Bifa Isor”-2\n(1)\nDhwrwm hangkhw khou barlangfrangw jwng\nOblabw jwngnikhou khwnasongdo\nJwngni nokhor arw bima-bifa\nNwngnao gothayw jwng Afa\n",
+  "chords": "[C:2] Dabw undwi [D:2] gotho jwngw\n[F#:2] Rwnga raya [G:2] jwng sibiyw\n[Fmaj:5] “O . . Bifa Isor”-2\n[1]\nDhwrwm hangkhw khou barlangfrangw jwng\nOblabw jwngnikhou khwnasongdo\nJwngni nokhor arw bima-bifa\nNwngnao gothayw jwng Afa\n",
   "tags": [
     "Bodo",
     "Jingle",
@@ -15,6 +16,5 @@
   "audioType": "audio",
   "version": "",
   "key": "C",
-  "scaleSet": false,
-  "chords": "[C:2] Dabw undwi [D:2] gotho jwngw\n[F#:2] Rwnga raya [G:2] jwng sibiyw\n[Fmaj:5] “O . . Bifa Isor”-2\n[1]\nDhwrwm hangkhw khou barlangfrangw jwng\nOblabw jwngnikhou khwnasongdo\nJwngni nokhor arw bima-bifa\nNwngnao gothayw jwng Afa\n"
+  "scaleSet": true
 }
