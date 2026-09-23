@@ -2,8 +2,8 @@
   "appTitle": "Songs of Salvation",
   "appTitleColor": "default",
   "titleTextColor": "default",
-  "appTitleFontSize": 35,
-  "titleFontSize": 35,
+  "appTitleFontSize": 53,
+  "titleFontSize": 53,
   "appTitleFontFamily": "custom-lainyday-1790190058361",
   "titleFontFamily": "custom-lainyday-1790190058361",
   "appTitleFontWeight": 100,
@@ -11,7 +11,7 @@
   "titleNeonEnabled": false,
   "titleNeonIntensity": 10,
   "titleNeonColor": "default",
-  "titleLetterSpacing": 0,
+  "titleLetterSpacing": 1,
   "showBibleVerseRotator": false,
   "bibleVerses": [
     {
