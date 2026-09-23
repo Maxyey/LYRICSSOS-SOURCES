@@ -6,12 +6,12 @@
   "titleFontSize": 35,
   "appTitleFontFamily": "custom-lainyday-1790190058361",
   "titleFontFamily": "custom-lainyday-1790190058361",
-  "appTitleFontWeight": 100,
-  "titleFontWeight": 100,
+  "appTitleFontWeight": 900,
+  "titleFontWeight": 900,
   "titleNeonEnabled": false,
   "titleNeonIntensity": 10,
   "titleNeonColor": "default",
-  "titleLetterSpacing": -10,
+  "titleLetterSpacing": 0,
   "showBibleVerseRotator": false,
   "bibleVerses": [
     {
