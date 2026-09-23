@@ -11,17 +11,6 @@
     "featured": true
   },
   {
-    "id": "alen-mochari",
-    "name": "Alen Mochari",
-    "bio": "Renowned lyricist and co-creator of uplifting worship anthems, collaborating closely with the Sonadoba ministry to spread the gospel through music.",
-    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789820590862_1000160607.jpg",
-    "ministryYears": "Lyricist",
-    "ministryLabel": "SKILL Set ",
-    "skills": "Lyricist",
-    "badgeTitle": "Lyricist",
-    "featured": true
-  },
-  {
     "id": "protensing-narjinari",
     "name": "Protensing Narjinari",
     "bio": "Passionate hymnist and composer contributing traditional and contemporary worship compositions to enrich church fellowship and devotion.",
@@ -30,6 +19,17 @@
     "ministryLabel": "Hlo",
     "skills": "Hmm",
     "badgeTitle": "Melodious Composer & Hymnist",
+    "featured": true
+  },
+  {
+    "id": "alen-mochari",
+    "name": "Alen Mochari",
+    "bio": "Renowned lyricist and co-creator of uplifting worship anthems, collaborating closely with the Sonadoba ministry to spread the gospel through music.",
+    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789820590862_1000160607.jpg",
+    "ministryYears": "Lyricist",
+    "ministryLabel": "SKILL Set ",
+    "skills": "Lyricist",
+    "badgeTitle": "Lyricist",
     "featured": true
   },
   {
