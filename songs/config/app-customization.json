@@ -11,7 +11,7 @@
   "titleNeonEnabled": false,
   "titleNeonIntensity": 10,
   "titleNeonColor": "default",
-  "titleLetterSpacing": -4,
+  "titleLetterSpacing": 2,
   "showBibleVerseRotator": false,
   "bibleVerses": [
     {
