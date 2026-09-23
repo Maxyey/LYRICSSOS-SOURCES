@@ -64,8 +64,8 @@
       "audioUrl": "",
       "audioType": "audio",
       "version": "",
-      "key": "C",
-      "scaleSet": false
+      "key": "Y",
+      "scaleSet": true
     },
     {
       "id": "71fa2708-c533-44b2-8861-0cb0bde8355f",
@@ -2149,5 +2149,5 @@
   ],
   "audioData": {},
   "total": 108,
-  "lastUpdated": "2026-09-23T06:15:20.472Z"
+  "lastUpdated": "2026-09-23T06:21:23.165Z"
 }
