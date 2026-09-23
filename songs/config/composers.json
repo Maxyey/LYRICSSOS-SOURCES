@@ -22,17 +22,6 @@
     "featured": true
   },
   {
-    "id": "alex-iswarari",
-    "name": "Alex Iswarari",
-    "bio": "Dedicated songwriter and musical arranger contributing spiritual hymns and inspiring melodies to the Songs of Salvation anthology.",
-    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789650172690_1000158164.jpg",
-    "ministryYears": "Keybordist , Vocalist, Composer",
-    "ministryLabel": "SINGER",
-    "skills": "Keybordist , Vocalist, Composer",
-    "badgeTitle": "Lyricis",
-    "featured": true
-  },
-  {
     "id": "protensing-narjinari",
     "name": "Protensing Narjinari",
     "bio": "Passionate hymnist and composer contributing traditional and contemporary worship compositions to enrich church fellowship and devotion.",
@@ -41,6 +30,17 @@
     "ministryLabel": "Hlo",
     "skills": "Hmm",
     "badgeTitle": "Melodious Composer & Hymnist",
+    "featured": true
+  },
+  {
+    "id": "alex-iswarari",
+    "name": "Alex Iswarari",
+    "bio": "Dedicated songwriter and musical arranger contributing spiritual hymns and inspiring melodies to the Songs of Salvation anthology.",
+    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789650172690_1000158164.jpg",
+    "ministryYears": "Keybordist , Vocalist, Composer",
+    "ministryLabel": "SINGER",
+    "skills": "Keybordist , Vocalist, Composer",
+    "badgeTitle": "Lyricis",
     "featured": true
   },
   {
@@ -77,8 +77,10 @@
     "id": "composer-1789957138296-lki9mdp",
     "name": "Sundayschoo 1990",
     "bio": "Newly added contributor for \"Yeshule hamro jeevan lai\".",
-    "photoUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&auto=format&fit=crop&q=80",
+    "photoUrl": "",
     "ministryLabel": "Contributor",
-    "badgeTitle": "Hymnist"
+    "badgeTitle": "Hymnist",
+    "skills": "Composer, Lyricist",
+    "ministryYears": "Composer, Lyricist"
   }
 ]
