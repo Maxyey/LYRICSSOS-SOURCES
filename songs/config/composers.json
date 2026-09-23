@@ -1,16 +1,5 @@
 [
   {
-    "id": "protensing-narjinari",
-    "name": "Protensing Narjinari",
-    "bio": "Passionate hymnist and composer contributing traditional and contemporary worship compositions to enrich church fellowship and devotion.",
-    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789820590862_1000160607.jpg",
-    "ministryYears": "Hmm",
-    "ministryLabel": "Hlo",
-    "skills": "Hmm",
-    "badgeTitle": "Melodious Composer & Hymnist",
-    "featured": true
-  },
-  {
     "id": "mrinal-iswarari",
     "name": "Mrinal Iswarari",
     "bio": "Primary composer and lyricist for Songs of Salvation (Sonadoba N.E.L.C.), dedicated to creating heartfelt Christian hymns and spiritual songs in local and regional languages.",
@@ -18,6 +7,17 @@
     "ministryYears": "Composer, Lyricist, Vocalist, Keybordist",
     "ministryLabel": "Skill Set",
     "skills": "Composer, Lyricist, Vocalist, Keybordist",
+    "badgeTitle": "Melodious Composer & Hymnist",
+    "featured": true
+  },
+  {
+    "id": "protensing-narjinari",
+    "name": "Protensing Narjinari",
+    "bio": "Passionate hymnist and composer contributing traditional and contemporary worship compositions to enrich church fellowship and devotion.",
+    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789820590862_1000160607.jpg",
+    "ministryYears": "Hmm",
+    "ministryLabel": "Hlo",
+    "skills": "Hmm",
     "badgeTitle": "Melodious Composer & Hymnist",
     "featured": true
   },
