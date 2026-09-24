@@ -1,7 +1,7 @@
 {
   "appTitle": "Songs Of Salvation",
   "appTitleColor": "default",
-  "titleTextColor": "#22D3EE",
+  "titleTextColor": "default",
   "appTitleFontSize": 28,
   "titleFontSize": 28,
   "appTitleFontFamily": "custom-blackdeath-personal-1790267913139",
