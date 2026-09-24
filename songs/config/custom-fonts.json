@@ -49,14 +49,5 @@
     "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/fonts/custom-qalisten-1790276412180_1790276412426.otf",
     "format": "opentype",
     "fileName": "custom-qalisten-1790276412180_1790276412426.otf"
-  },
-  {
-    "key": "custom-wfonts-com-1790276454645",
-    "label": "wfonts.com",
-    "fontFamilyCSS": "\"custom-wfonts-com-1790276454645\", \"wfonts.com\", sans-serif, serif",
-    "dataUrl": "data:text/plain;base64,RnJlZSBkb3dubG9hZCBmb250cyBhdCBodHRwczovL3d3dy53Zm9udHMuY29t",
-    "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/fonts/custom-wfonts-com-1790276454645_1790276454873.txt",
-    "format": "truetype",
-    "fileName": "custom-wfonts-com-1790276454645_1790276454873.txt"
   }
 ]
