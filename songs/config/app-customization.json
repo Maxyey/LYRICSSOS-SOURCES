@@ -2,8 +2,8 @@
   "appTitle": "Songs \nOf \nSalvation",
   "appTitleColor": "default",
   "titleTextColor": "default",
-  "appTitleFontSize": 33,
-  "titleFontSize": 33,
+  "appTitleFontSize": 27,
+  "titleFontSize": 27,
   "appTitleFontFamily": "custom-symphony-1790196015480",
   "titleFontFamily": "custom-symphony-1790196015480",
   "appTitleFontWeight": 100,
@@ -11,7 +11,7 @@
   "titleNeonEnabled": false,
   "titleNeonIntensity": 10,
   "titleNeonColor": "#10b981",
-  "titleLetterSpacing": 15,
+  "titleLetterSpacing": 8,
   "showBibleVerseRotator": true,
   "bibleVerses": [
     {
