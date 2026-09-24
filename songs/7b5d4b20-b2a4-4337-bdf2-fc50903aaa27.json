@@ -1,7 +1,10 @@
 {
   "id": "7b5d4b20-b2a4-4337-bdf2-fc50903aaa27",
+  "serialNumber": 32,
   "title": "Fungzani dinwi honwi",
   "composer": "Mrinal Iswarari ",
+  "date": "2025-09-29T16:06:32.784Z",
+  "composeDate": "0001-01-01",
   "lyrics": "Fungzani dinwi honwi\nDaoma-daosa birnai jwng -2\nSana swrangbwgwu honwi\nBwthwra nujabwgwu -2\n(A)\nSukhu-dukhuni bwthwr jagwn\nRongza-miniwi dwidenbaogwn -2\nHangkrayw jwng nwngkhwu\nBorayw jwng nwngkhwu -2\n",
   "tags": [
     "Bodo",
@@ -9,8 +12,16 @@
   ],
   "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/53045a7a-1b5a-4e84-a4f6-a8b20df46c8e.m4a",
   "audioType": "audio",
-  "composeDate": "0001-01-01",
-  "version": "Standard Version",
-  "serialNumber": 32,
-  "date": "2025-09-29T16:06:32.784Z"
+  "audioSources": [
+    {
+      "id": "src-7b5d4b20-b2a4-4337-bdf2-fc50903aaa27-primary",
+      "label": "With Music",
+      "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/53045a7a-1b5a-4e84-a4f6-a8b20df46c8e.m4a",
+      "type": "audio",
+      "versionType": "with-music"
+    }
+  ],
+  "version": "",
+  "key": "",
+  "scaleSet": false
 }
