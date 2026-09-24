@@ -89,7 +89,7 @@
   "verseIntervalSeconds": 6,
   "verseTextColor": "default",
   "verseFontSize": 9,
-  "verseFontFamily": "custom-qalisten-1790190392112",
+  "verseFontFamily": "default",
   "verseBadgeStyle": "floating-cloud",
   "verseAnimationStyle": "blur-reveal",
   "verseNeonEnabled": false,
