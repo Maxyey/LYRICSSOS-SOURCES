@@ -4,14 +4,14 @@
   "titleTextColor": "#22D3EE",
   "appTitleFontSize": 62,
   "titleFontSize": 62,
-  "appTitleFontFamily": "default",
-  "titleFontFamily": "default",
+  "appTitleFontFamily": "custom-lainyday-1790190058361",
+  "titleFontFamily": "custom-lainyday-1790190058361",
   "appTitleFontWeight": 100,
   "titleFontWeight": 100,
   "titleNeonEnabled": false,
   "titleNeonIntensity": 10,
   "titleNeonColor": "#10b981",
-  "titleLetterSpacing": 8,
+  "titleLetterSpacing": -3,
   "showBibleVerseRotator": false,
   "bibleVerses": [
     {
