@@ -3,15 +3,13 @@
   "serialNumber": 65,
   "title": "Khwnasongdw jwngni gabnai",
   "composer": "Mrinal Iswarari",
-  "date": "2026-09-19",
+  "date": "2026-09-24",
   "composeDate": "0001-01-01",
-  "lyrics": "Khwnasongdw jwngni gabnai\nJwng haoria alai-silai -2\nNwngni swrjinai gwsw-mwdwm-jiu\nNimaha hwdw jwngkhou -2\n(A)\nSubunga dhwrwmkhou baogarlangbai\nBifa Isorkhou lajihwbai -2\nGwmalangbai gwmwrlangbai\nGwjaolangbai bwi lwithwao -2\n(B)\nSubunga jiukhou khwmalangbai\nSongsarni dhwnkhou hastainanwi -2\nGwmalangbai gwmwrlangbai\nGwjaolangbai bwi lwithwao -2",
-  "tags": [
-    "Bodo",
-    "Prayer"
-  ],
-  "audioUrl": "https://youtu.be/_MyLHQKk6qE?si=2QbINKmBUQQ5F14I",
+  "key": "",
+  "scaleSet": false,
+  "version": "",
   "audioType": "youtube",
+  "audioUrl": "https://youtu.be/_MyLHQKk6qE?si=2QbINKmBUQQ5F14I",
   "audioSources": [
     {
       "id": "src-1",
@@ -26,16 +24,11 @@
       "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/1789557884921_khwnasongdw_jwngni_gabnai.mp3",
       "type": "audio",
       "versionType": "scratch"
-    },
-    {
-      "id": "src-1789828059796-hy35",
-      "label": "Scratch Version",
-      "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/1789828031958_khwnasongdw_jwngni_gabnai.mp3",
-      "type": "audio",
-      "versionType": "scratch"
     }
   ],
-  "version": "",
-  "key": "",
-  "scaleSet": false
+  "tags": [
+    "Bodo",
+    "Prayer"
+  ],
+  "lyrics": "Khwnasongdw jwngni gabnai\nJwng haoria alai-silai -2\nNwngni swrjinai gwsw-mwdwm-jiu\nNimaha hwdw jwngkhou -2\n(A)\nSubunga dhwrwmkhou baogarlangbai\nBifa Isorkhou lajihwbai -2\nGwmalangbai gwmwrlangbai\nGwjaolangbai bwi lwithwao -2\n(B)\nSubunga jiukhou khwmalangbai\nSongsarni dhwnkhou hastainanwi -2\nGwmalangbai gwmwrlangbai\nGwjaolangbai bwi lwithwao -2"
 }
