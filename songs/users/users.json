@@ -46,5 +46,14 @@
     "password": "abhijit@gmail.com",
     "role": "user",
     "createdAt": "2026-09-18T16:35:22.385Z"
+  },
+  {
+    "id": "user-1790442281887",
+    "name": "123",
+    "email": "abc@gmail.com",
+    "password": "abc@gmail.com",
+    "role": "user",
+    "isSonadobaMember": true,
+    "createdAt": "2026-09-26T17:04:41.887Z"
   }
 ]
