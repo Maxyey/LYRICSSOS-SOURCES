@@ -4,9 +4,9 @@
     "name": "Alex Iswarari",
     "bio": "Dedicated songwriter and musical arranger contributing spiritual hymns and inspiring melodies to the Songs of Salvation anthology.",
     "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789650172690_1000158164.jpg",
-    "ministryYears": "Keybordist , Vocalist, Composer",
-    "ministryLabel": "SINGER",
     "skills": "Keybordist , Vocalist, Composer",
+    "ministryYears": "2016 – Present",
+    "ministryLabel": "SINGER",
     "badgeTitle": "Lyricis",
     "featured": true
   },
@@ -15,9 +15,9 @@
     "name": "Protensing Narjinari",
     "bio": "Passionate hymnist and composer contributing traditional and contemporary worship compositions to enrich church fellowship and devotion.",
     "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789820590862_1000160607.jpg",
-    "ministryYears": "Hmm",
-    "ministryLabel": "Hlo",
     "skills": "Hmm",
+    "ministryYears": "2017 – Present",
+    "ministryLabel": "Hlo",
     "badgeTitle": "Melodious Composer & Hymnist",
     "featured": true
   },
@@ -26,9 +26,9 @@
     "name": "Mrinal Iswarari",
     "bio": "Primary composer and lyricist for Songs of Salvation (Sonadoba N.E.L.C.), dedicated to creating heartfelt Christian hymns and spiritual songs in local and regional languages.",
     "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789649745598_1000025037.png",
-    "ministryYears": "Composer, Lyricist, Vocalist, Keybordist",
-    "ministryLabel": "Skill Set",
     "skills": "Composer, Lyricist, Vocalist, Keybordist",
+    "ministryYears": "2015 – Present",
+    "ministryLabel": "Skill Set",
     "badgeTitle": "Melodious Composer & Hymnist",
     "featured": true
   },
@@ -37,51 +37,87 @@
     "name": "Alen Mochari",
     "bio": "Renowned lyricist and co-creator of uplifting worship anthems, collaborating closely with the Sonadoba ministry to spread the gospel through music.",
     "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789820590862_1000160607.jpg",
-    "ministryYears": "Lyricist",
-    "ministryLabel": "SKILL Set ",
     "skills": "Lyricist",
+    "ministryYears": "2018 – Present",
+    "ministryLabel": "SKILL Set ",
     "badgeTitle": "Lyricist",
     "featured": true
   },
   {
     "id": "composer-1789668796818-7bzurv8",
     "name": "xxxxxxxxxxxxxx",
-    "badgeTitle": "Hymnist",
-    "ministryLabel": "Contributor",
-    "ministryYears": "Hu",
     "bio": "Newly added contributor for \"Dinwi jwng gwdan gwthar sanao\".",
-    "photoUrl": "",
-    "skills": "Hu"
+    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1790411256198_1000001139.jpg",
+    "skills": "Hu",
+    "ministryYears": "Hu",
+    "ministryLabel": "Contributor",
+    "badgeTitle": "Hymnist",
+    "featured": true
   },
   {
     "id": "composer-1789668924209-ncz7t6m",
     "name": "translated version",
     "bio": "Newly added contributor for \"Prabhu tumi acho kothay\".",
     "photoUrl": "",
+    "skills": "Composer, Lyricist",
+    "ministryYears": "Composer, Lyricist",
     "ministryLabel": "Contributor",
     "badgeTitle": "Hymnist",
-    "skills": "Composer, Lyricist",
-    "ministryYears": "Composer, Lyricist"
+    "featured": true
   },
   {
     "id": "composer-1789668974578-y2ldncw",
     "name": "Collected from YouTube [All in One Subip]",
     "bio": "Newly added contributor for \"Ami Gane Gane sudhu tomar kothai bolbo\".",
     "photoUrl": "",
+    "skills": "Composer, Lyricist",
+    "ministryYears": "Composer, Lyricist",
     "ministryLabel": "Contributor",
     "badgeTitle": "Hymnist",
-    "skills": "Composer, Lyricist",
-    "ministryYears": "Composer, Lyricist"
+    "featured": true
   },
   {
     "id": "composer-1789957138296-lki9mdp",
     "name": "Sundayschool 1990",
     "bio": "Newly added contributor for \"Yeshule hamro jeevan lai\".",
     "photoUrl": "",
-    "ministryYears": "Sunday School, Heritage Choir, Children Ministry",
-    "ministryLabel": "Contributor",
     "skills": "Sunday School, Heritage Choir, Children Ministry",
+    "ministryYears": "1990 – Present",
+    "ministryLabel": "Contributor",
     "badgeTitle": "Hymnist",
+    "featured": true
+  },
+  {
+    "id": "provenance-sonadoba-nelc",
+    "name": "Sonadoba N.E.L.C. Originals",
+    "bio": "Authentic sacred hymn collection and original spiritual anthems composed, recorded, and preserved within the Sonadoba N.E.L.C. Gospel Ministry.",
+    "photoUrl": "",
+    "skills": "Sonadoba Originals, Sacred Hymnody, Church Compositions",
+    "ministryYears": "Church Heritage",
+    "ministryLabel": "Provenance",
+    "badgeTitle": "Sonadoba Church Heritage",
+    "featured": true
+  },
+  {
+    "id": "provenance-youtube",
+    "name": "YouTube Gospel Collection",
+    "bio": "Comprehensive digital gospel archive curated from online ministries and YouTube worship recordings, preserving video hymns, live audio sessions, and modern worship renditions.",
+    "photoUrl": "",
+    "skills": "YouTube Archive, Digital Recordings, Video Hymns, Online Worship",
+    "ministryYears": "Digital Archive",
+    "ministryLabel": "Provenance",
+    "badgeTitle": "YouTube Gospel Archive",
+    "featured": true
+  },
+  {
+    "id": "provenance-others",
+    "name": "Other Ministry Collections",
+    "bio": "General sacred hymnal collection from various church traditions, regional fellowships, and universal Christian hymnody.",
+    "photoUrl": "",
+    "skills": "General Ministry, Church Traditions, Regional Anthems",
+    "ministryYears": "General Archive",
+    "ministryLabel": "Provenance",
+    "badgeTitle": "Universal Gospel Anthology",
     "featured": true
   }
 ]
