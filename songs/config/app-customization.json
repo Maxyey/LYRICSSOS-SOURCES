@@ -12,7 +12,7 @@
   "titleNeonIntensity": 10,
   "titleNeonColor": "#10b981",
   "titleLetterSpacing": 7,
-  "showBibleVerseRotator": true,
+  "showBibleVerseRotator": false,
   "bibleVerses": [
     {
       "id": "verse-1",
