@@ -1,16 +1,5 @@
 [
   {
-    "id": "mrinal-iswarari",
-    "name": "Mrinal Iswarari",
-    "bio": "Primary composer and lyricist for Songs of Salvation (Sonadoba N.E.L.C.), dedicated to creating heartfelt Christian hymns and spiritual songs in local and regional languages.",
-    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789649745598_1000025037.png",
-    "ministryYears": "Composer, Lyricist, Vocalist, Keybordist",
-    "ministryLabel": "Skill Set",
-    "skills": "Composer, Lyricist, Vocalist, Keybordist",
-    "badgeTitle": "Melodious Composer & Hymnist",
-    "featured": true
-  },
-  {
     "id": "protensing-narjinari",
     "name": "Protensing Narjinari",
     "bio": "Passionate hymnist and composer contributing traditional and contemporary worship compositions to enrich church fellowship and devotion.",
@@ -18,6 +7,17 @@
     "ministryYears": "Hmm",
     "ministryLabel": "Hlo",
     "skills": "Hmm",
+    "badgeTitle": "Melodious Composer & Hymnist",
+    "featured": true
+  },
+  {
+    "id": "mrinal-iswarari",
+    "name": "Mrinal Iswarari",
+    "bio": "Primary composer and lyricist for Songs of Salvation (Sonadoba N.E.L.C.), dedicated to creating heartfelt Christian hymns and spiritual songs in local and regional languages.",
+    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789649745598_1000025037.png",
+    "ministryYears": "Composer, Lyricist, Vocalist, Keybordist",
+    "ministryLabel": "Skill Set",
+    "skills": "Composer, Lyricist, Vocalist, Keybordist",
     "badgeTitle": "Melodious Composer & Hymnist",
     "featured": true
   },
@@ -76,10 +76,45 @@
   {
     "id": "composer-1789957138296-lki9mdp",
     "name": "Sundayschool 1990",
-    "badgeTitle": "Hymnist",
-    "ministryLabel": "Contributor",
-    "ministryYears": "Composer, Lyricist",
     "bio": "Newly added contributor for \"Yeshule hamro jeevan lai\".",
-    "photoUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&auto=format&fit=crop&q=80"
+    "photoUrl": "",
+    "ministryYears": "Sunday School, Heritage Choir, Children Ministry",
+    "ministryLabel": "Contributor",
+    "skills": "Sunday School, Heritage Choir, Children Ministry",
+    "badgeTitle": "Hymnist",
+    "featured": true
+  },
+  {
+    "id": "allen-rocky-anthony",
+    "name": "Allen Rocky Anthony",
+    "bio": "Gospel vocalist and musical collaborator contributing evocative worship arrangements and modern sacred vocal guides.",
+    "photoUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&auto=format&fit=crop&q=80",
+    "ministryYears": "Gospel Vocalist, Worship Leader, Arrangement",
+    "ministryLabel": "Skill Set",
+    "skills": "Gospel Vocalist, Worship Leader, Arrangement",
+    "badgeTitle": "Sacred Music Contributor",
+    "featured": true
+  },
+  {
+    "id": "sonadoba-choir",
+    "name": "Sonadoba Church Choir",
+    "bio": "Devoted choral ministry of Sonadoba N.E.L.C. leading the congregation in sacred worship, traditional four-part harmony, and festival praise anthems.",
+    "photoUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&auto=format&fit=crop&q=80",
+    "ministryYears": "Church Choir, Vocal Harmony, Choral Praise",
+    "ministryLabel": "Ministry Unit",
+    "skills": "Church Choir, Vocal Harmony, Choral Praise",
+    "badgeTitle": "Sanctuary Worship Choir",
+    "featured": true
+  },
+  {
+    "id": "gospel-ministry-team",
+    "name": "Gospel Ministry Team",
+    "bio": "United fellowship of evangelists, musicians, and praise leaders dedicated to proclaiming the good news through local hymns and outreach recordings.",
+    "photoUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&auto=format&fit=crop&q=80",
+    "ministryYears": "Evangelism, Community Worship, Sacred Music",
+    "ministryLabel": "Ministry Unit",
+    "skills": "Evangelism, Community Worship, Sacred Music",
+    "badgeTitle": "United Gospel Outreach",
+    "featured": true
   }
 ]
