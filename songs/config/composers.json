@@ -83,16 +83,5 @@
     "skills": "Sunday School, Heritage Choir, Children Ministry",
     "badgeTitle": "Hymnist",
     "featured": true
-  },
-  {
-    "id": "allen-rocky-anthony",
-    "name": "Allen Rocky Anthony",
-    "bio": "Gospel vocalist and musical collaborator contributing evocative worship arrangements and modern sacred vocal guides.",
-    "photoUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&auto=format&fit=crop&q=80",
-    "ministryYears": "Gospel Vocalist, Worship Leader, Arrangement",
-    "ministryLabel": "Skill Set",
-    "skills": "Gospel Vocalist, Worship Leader, Arrangement",
-    "badgeTitle": "Sacred Music Contributor",
-    "featured": true
   }
 ]
