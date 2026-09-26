@@ -83,16 +83,5 @@
     "skills": "Sunday School, Heritage Choir, Children Ministry",
     "badgeTitle": "Hymnist",
     "featured": true
-  },
-  {
-    "id": "gospel-ministry-team",
-    "name": "Gospel Ministry Team",
-    "bio": "United fellowship of evangelists, musicians, and praise leaders dedicated to proclaiming the good news through local hymns and outreach recordings.",
-    "photoUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&auto=format&fit=crop&q=80",
-    "ministryYears": "Evangelism, Community Worship, Sacred Music",
-    "ministryLabel": "Ministry Unit",
-    "skills": "Evangelism, Community Worship, Sacred Music",
-    "badgeTitle": "United Gospel Outreach",
-    "featured": true
   }
 ]
