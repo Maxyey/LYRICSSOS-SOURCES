@@ -15,7 +15,7 @@
   "audioSources": [
     {
       "id": "src-ef1c4dd9-d90c-4d39-ae1d-86802a873496-primary",
-      "label": "With Music",
+      "label": "Vocal Guide",
       "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/5ac40d10-dae6-4bef-a5a1-5ad32cc7e281.m4a",
       "type": "audio",
       "versionType": "with-music"
