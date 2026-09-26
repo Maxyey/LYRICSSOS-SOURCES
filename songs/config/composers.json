@@ -105,16 +105,5 @@
     "skills": "Evangelism, Community Worship, Sacred Music",
     "badgeTitle": "United Gospel Outreach",
     "featured": true
-  },
-  {
-    "id": "sonadoba-choir",
-    "name": "Sonadoba Church Choir",
-    "bio": "Devoted choral ministry of Sonadoba N.E.L.C. leading the congregation in sacred worship, traditional four-part harmony, and festival praise anthems.",
-    "photoUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&auto=format&fit=crop&q=80",
-    "ministryYears": "Church Choir, Vocal Harmony, Choral Praise",
-    "ministryLabel": "Ministry Unit",
-    "skills": "Church Choir, Vocal Harmony, Choral Praise",
-    "badgeTitle": "Sanctuary Worship Choir",
-    "featured": true
   }
 ]
