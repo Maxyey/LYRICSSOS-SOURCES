@@ -52,8 +52,8 @@
     "name": "123",
     "email": "abc@gmail.com",
     "password": "abc@gmail.com",
-    "role": "editor",
+    "role": "user",
     "isSonadobaMember": true,
-    "createdAt": "2026-09-26T17:09:18.012Z"
+    "createdAt": "2026-09-26T17:09:25.942Z"
   }
 ]
