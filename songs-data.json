@@ -2253,27 +2253,9 @@
       "key": "",
       "scaleSet": false,
       "originCategory": "youtube"
-    },
-    {
-      "id": "1790420766210",
-      "serialNumber": 109,
-      "title": "123",
-      "composer": "xxxxxxxxxxxxxx",
-      "date": "2026-09-26",
-      "composeDate": "2026-09-26",
-      "key": "C",
-      "scaleSet": true,
-      "version": "",
-      "audioType": "audio",
-      "audioUrl": "",
-      "tags": [
-        "Ascension"
-      ],
-      "originCategory": "sonadoba-nelc",
-      "lyrics": "Hfhj\n\nPlay"
     }
   ],
   "audioData": {},
-  "total": 109,
-  "lastUpdated": "2026-09-26T11:07:27.903Z"
+  "total": 108,
+  "lastUpdated": "2026-09-26T11:48:01.666Z"
 }
