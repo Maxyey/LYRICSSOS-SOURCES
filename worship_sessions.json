@@ -90,5 +90,26 @@
         "customNotes": ""
       }
     ]
+  },
+  {
+    "id": "a34e1f73-58f0-497b-8117-29fb540a26da",
+    "name": "Jhc",
+    "creatorId": "user-1789749322385",
+    "creatorName": "Abhijit",
+    "createdAt": "2026-09-26T17:37:17.621Z",
+    "sessionMode": "collection",
+    "isPublic": false,
+    "items": [
+      {
+        "id": "8db1d7e2-a822-46d3-9b61-39e7fa455fd8",
+        "songId": "8555fae3-0062-4027-9513-fef513e9cebd",
+        "title": "O Afa nwng ankhou manw",
+        "customLabel": "Worship Song",
+        "customLyrics": "O Afa nwng ankhou manw \nLenghorbai thayw, gaoni jaigayao -2\n(A)\nJanw hagou Afa nwngni lenghornaia\n mwnse thanki -2\nDinwigwn nwng gwjwnpuriao\n“Gaoni jaigayao” -2\n(B)\nNathai afa Ang  mwdainw burkhainayao\nGwlwdwng papni buhumao -2\nOblabw nagara nwng angkhou\n“Ang papi khou” -2",
+        "customScale": "",
+        "customTempo": "",
+        "customNotes": ""
+      }
+    ]
   }
 ]
