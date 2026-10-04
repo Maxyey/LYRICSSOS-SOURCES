@@ -1,22 +1,6 @@
 {
   "songs": [
     {
-      "id": "1791107295650",
-      "serialNumber": 109,
-      "title": "12345678",
-      "composer": "Genuine",
-      "date": "2026-10-04",
-      "composeDate": "2026-10-04",
-      "key": "",
-      "scaleSet": false,
-      "version": "",
-      "audioType": "audio",
-      "audioUrl": "",
-      "tags": [],
-      "originCategory": "youtube",
-      "lyrics": "Hsjjdjdjddvd \nNdjejrkr\nJdjjdrkrkd\nNmdmdmmd"
-    },
-    {
       "id": "efc43d16-f7f5-46f9-90c9-78561d38a8ee",
       "serialNumber": 1,
       "title": "Aaj maha paritran bhai",
@@ -1001,16 +985,16 @@
       "composer": "Unknown",
       "date": "2026-10-04",
       "composeDate": "0001-01-01",
-      "key": "",
-      "scaleSet": false,
-      "version": "",
-      "audioType": "audio",
-      "audioUrl": "",
+      "lyrics": "Yeshu bulauchhan sabailai -2\nPrem sath bulauchhan angalomaa unko\n'Yeshu bulauchhan sabailai -2\n(A)\nHriday timro hatas bhayo, shanti cha tim laagi -2\nMuktiko jyoti tim laagi, Ishu kaha linu aaja -2\n(B)\nSab rog lai niko parne, shakti cha unai kaha -2\nMuktiko jyoti tim laagi, pyar garnu sada timilai -2",
       "tags": [
         "Nepali"
       ],
-      "originCategory": "others",
-      "lyrics": "Yeshu bulauchhan sabailai -2\nPrem sath bulauchhan angalomaa unko\n'Yeshu bulauchhan sabailai -2\n(A)\nHriday timro hatas bhayo, shanti cha tim laagi -2\nMuktiko jyoti tim laagi, Ishu kaha linu aaja -2\n(B)\nSab rog lai niko parne, shakti cha unai kaha -2\nMuktiko jyoti tim laagi, pyar garnu sada timilai -2"
+      "audioUrl": "",
+      "audioType": "audio",
+      "version": "",
+      "key": "",
+      "scaleSet": false,
+      "originCategory": "others"
     },
     {
       "id": "ec9cff8c-4547-43a7-a9ba-08a7c0097312",
@@ -1206,17 +1190,17 @@
       "composer": "Unknown",
       "date": "2026-10-04",
       "composeDate": "0001-01-01",
-      "key": "",
-      "scaleSet": false,
-      "version": "",
-      "audioType": "audio",
-      "audioUrl": "",
+      "lyrics": "Jo cruse par kurbaan, o mera Masiha hai\nHar zakhm jo uska hai, o mere gunah ka hai -2\n-1\nIs duniya mein le aaye, (mere gunah usko -2)\nYe zulm sitam us par, (maine hi karaya hai -2)\n-2\nInsan hai wo kabil, (aur sachcha Khuda wo hai -2)\nO pyar ka dariya hai, (sachchai ka rastaa hai -2)\n-3\nDene ko tujhe jeevan, (khud mot se hi usne -2)\nKya khub hai kurbaani, (kya pyar anokha hai -2)",
       "tags": [
         "Hindi",
         "Goodfriday"
       ],
-      "originCategory": "others",
-      "lyrics": "Jo cruse par kurbaan, o mera Masiha hai\nHar zakhm jo uska hai, o mere gunah ka hai -2\n-1\nIs duniya mein le aaye, (mere gunah usko -2)\nYe zulm sitam us par, (maine hi karaya hai -2)\n-2\nInsan hai wo kabil, (aur sachcha Khuda wo hai -2)\nO pyar ka dariya hai, (sachchai ka rastaa hai -2)\n-3\nDene ko tujhe jeevan, (khud mot se hi usne -2)\nKya khub hai kurbaani, (kya pyar anokha hai -2)"
+      "audioUrl": "",
+      "audioType": "audio",
+      "version": "",
+      "key": "",
+      "scaleSet": false,
+      "originCategory": "others"
     },
     {
       "id": "d7c2c108-afaa-41e4-9c47-67b7c19498e1",
@@ -2272,6 +2256,6 @@
     }
   ],
   "audioData": {},
-  "total": 109,
-  "lastUpdated": "2026-10-04T09:49:05.891Z"
+  "total": 108,
+  "lastUpdated": "2026-10-04T09:50:33.414Z"
 }
