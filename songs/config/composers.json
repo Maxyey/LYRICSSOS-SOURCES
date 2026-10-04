@@ -11,17 +11,6 @@
     "featured": true
   },
   {
-    "id": "alex-iswarari",
-    "name": "Alex Iswarari",
-    "bio": "Dedicated songwriter and musical arranger contributing spiritual hymns and inspiring melodies to the Songs of Salvation anthology.",
-    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789650172690_1000158164.jpg",
-    "skills": "Keybordist , Vocalist, Composer",
-    "ministryYears": "Continuing",
-    "ministryLabel": "SINGER",
-    "badgeTitle": "Contributor",
-    "featured": true
-  },
-  {
     "id": "provenance-youtube",
     "name": "YouTube Gospel Collection",
     "bio": "Comprehensive digital gospel archive curated from online ministries and YouTube worship recordings, preserving video hymns, live audio sessions, and modern worship renditions.",
@@ -30,6 +19,17 @@
     "ministryYears": "Digital Archive",
     "ministryLabel": "Provenance",
     "badgeTitle": "YouTube Gospel Archive",
+    "featured": true
+  },
+  {
+    "id": "alex-iswarari",
+    "name": "Alex Iswarari",
+    "bio": "Dedicated songwriter and musical arranger contributing spiritual hymns and inspiring melodies to the Songs of Salvation anthology.",
+    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789650172690_1000158164.jpg",
+    "skills": "Keybordist , Vocalist, Composer",
+    "ministryYears": "Continuing",
+    "ministryLabel": "SINGER",
+    "badgeTitle": "Contributor",
     "featured": true
   },
   {
