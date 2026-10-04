@@ -88,17 +88,6 @@
     "featured": true
   },
   {
-    "id": "composer-1789957138296-lki9mdp",
-    "name": "Sundayschool 1990",
-    "bio": "Newly added contributor for \"Yeshule hamro jeevan lai\".",
-    "photoUrl": "",
-    "skills": "Sunday School, Heritage Choir, Children Ministry",
-    "ministryYears": "1990 – Present",
-    "ministryLabel": "Contributor",
-    "badgeTitle": "Hymnist",
-    "featured": true
-  },
-  {
     "id": "provenance-youtube",
     "name": "YouTube Gospel Collection",
     "bio": "Comprehensive digital gospel archive curated from online ministries and YouTube worship recordings, preserving video hymns, live audio sessions, and modern worship renditions.",
@@ -107,6 +96,17 @@
     "ministryYears": "Digital Archive",
     "ministryLabel": "Provenance",
     "badgeTitle": "YouTube Gospel Archive",
+    "featured": true
+  },
+  {
+    "id": "composer-1789957138296-lki9mdp",
+    "name": "Sundayschool 1990",
+    "bio": "Newly added contributor for \"Yeshule hamro jeevan lai\".",
+    "photoUrl": "",
+    "skills": "Sunday School, Heritage Choir, Children Ministry",
+    "ministryYears": "1990 – Present",
+    "ministryLabel": "Contributor",
+    "badgeTitle": "Hymnist",
     "featured": true
   },
   {
