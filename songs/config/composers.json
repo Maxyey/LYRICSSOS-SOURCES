@@ -44,17 +44,6 @@
     "featured": true
   },
   {
-    "id": "alex-iswarari",
-    "name": "Alex Iswarari",
-    "bio": "Dedicated songwriter and musical arranger contributing spiritual hymns and inspiring melodies to the Songs of Salvation anthology.",
-    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789650172690_1000158164.jpg",
-    "skills": "Keybordist , Vocalist, Composer",
-    "ministryYears": "Continuing",
-    "ministryLabel": "SINGER",
-    "badgeTitle": "Contributor",
-    "featured": true
-  },
-  {
     "id": "protensing-narjinari",
     "name": "Protensing Narjinari",
     "bio": "Passionate hymnist and composer contributing traditional and contemporary worship compositions to enrich church fellowship and devotion.",
@@ -63,6 +52,17 @@
     "ministryYears": "2017 – Present",
     "ministryLabel": "Hlo",
     "badgeTitle": "Melodious Composer & Hymnist",
+    "featured": true
+  },
+  {
+    "id": "alex-iswarari",
+    "name": "Alex Iswarari",
+    "bio": "Dedicated songwriter and musical arranger contributing spiritual hymns and inspiring melodies to the Songs of Salvation anthology.",
+    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789650172690_1000158164.jpg",
+    "skills": "Keybordist , Vocalist, Composer",
+    "ministryYears": "Continuing",
+    "ministryLabel": "SINGER",
+    "badgeTitle": "Contributor",
     "featured": true
   },
   {
