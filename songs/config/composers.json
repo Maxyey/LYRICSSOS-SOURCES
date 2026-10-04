@@ -55,17 +55,6 @@
     "featured": true
   },
   {
-    "id": "composer-1789668924209-ncz7t6m",
-    "name": "translated version",
-    "bio": "Newly added contributor for \"Prabhu tumi acho kothay\".",
-    "photoUrl": "",
-    "skills": "Composer, Lyricist",
-    "ministryYears": "Composer, Lyricist",
-    "ministryLabel": "Contributor",
-    "badgeTitle": "Hymnist",
-    "featured": true
-  },
-  {
     "id": "provenance-sonadoba-nelc",
     "name": "Sonadoba N.E.L.C. Originals",
     "bio": "Authentic sacred hymn collection and original spiritual anthems composed, recorded, and preserved within the Sonadoba N.E.L.C. Gospel Ministry.",
@@ -74,6 +63,17 @@
     "ministryYears": "Church Heritage",
     "ministryLabel": "Provenance",
     "badgeTitle": "Sonadoba Church Heritage",
+    "featured": true
+  },
+  {
+    "id": "composer-1789668924209-ncz7t6m",
+    "name": "translated version",
+    "bio": "Newly added contributor for \"Prabhu tumi acho kothay\".",
+    "photoUrl": "",
+    "skills": "Composer, Lyricist",
+    "ministryYears": "Composer, Lyricist",
+    "ministryLabel": "Contributor",
+    "badgeTitle": "Hymnist",
     "featured": true
   },
   {
