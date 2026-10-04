@@ -55,17 +55,6 @@
     "featured": true
   },
   {
-    "id": "alen-mochari",
-    "name": "Alen Mochari",
-    "bio": "Renowned lyricist and co-creator of uplifting worship anthems, collaborating closely with the Sonadoba ministry to spread the gospel through music.",
-    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789820590862_1000160607.jpg",
-    "skills": "Lyricist",
-    "ministryYears": "2018 – Present",
-    "ministryLabel": "SKILL Set ",
-    "badgeTitle": "Lyricist",
-    "featured": true
-  },
-  {
     "id": "provenance-others",
     "name": "Other Ministry Collections",
     "bio": "General sacred hymnal collection from various church traditions, regional fellowships, and universal Christian hymnody.",
@@ -74,6 +63,17 @@
     "ministryYears": "General Archive",
     "ministryLabel": "Provenance",
     "badgeTitle": "Universal Gospel Anthology",
+    "featured": true
+  },
+  {
+    "id": "alen-mochari",
+    "name": "Alen Mochari",
+    "bio": "Renowned lyricist and co-creator of uplifting worship anthems, collaborating closely with the Sonadoba ministry to spread the gospel through music.",
+    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789820590862_1000160607.jpg",
+    "skills": "Lyricist",
+    "ministryYears": "2018 – Present",
+    "ministryLabel": "SKILL Set ",
+    "badgeTitle": "Lyricist",
     "featured": true
   },
   {
