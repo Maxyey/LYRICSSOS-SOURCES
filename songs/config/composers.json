@@ -88,17 +88,6 @@
     "featured": true
   },
   {
-    "id": "composer-1789668974578-y2ldncw",
-    "name": "Collected from YouTube [All in One Subip]",
-    "bio": "Newly added contributor for \"Ami Gane Gane sudhu tomar kothai bolbo\".",
-    "photoUrl": "",
-    "skills": "Composer, Lyricist",
-    "ministryYears": "Composer, Lyricist",
-    "ministryLabel": "Contributor",
-    "badgeTitle": "Hymnist",
-    "featured": true
-  },
-  {
     "id": "provenance-others",
     "name": "Other Ministry Collections",
     "bio": "General sacred hymnal collection from various church traditions, regional fellowships, and universal Christian hymnody.",
@@ -107,6 +96,17 @@
     "ministryYears": "General Archive",
     "ministryLabel": "Provenance",
     "badgeTitle": "Universal Gospel Anthology",
+    "featured": true
+  },
+  {
+    "id": "composer-1789668974578-y2ldncw",
+    "name": "Collected from YouTube [All in One Subip]",
+    "bio": "Newly added contributor for \"Ami Gane Gane sudhu tomar kothai bolbo\".",
+    "photoUrl": "",
+    "skills": "Composer, Lyricist",
+    "ministryYears": "Composer, Lyricist",
+    "ministryLabel": "Contributor",
+    "badgeTitle": "Hymnist",
     "featured": true
   },
   {
