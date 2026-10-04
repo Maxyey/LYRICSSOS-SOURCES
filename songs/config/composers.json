@@ -66,17 +66,6 @@
     "featured": true
   },
   {
-    "id": "composer-1789668796818-7bzurv8",
-    "name": "xxxxxxxxxxxxxx",
-    "bio": "Newly added contributor for \"Dinwi jwng gwdan gwthar sanao\".",
-    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1790411315396_1000160600.jpg",
-    "skills": "Hu",
-    "ministryYears": "Hu",
-    "ministryLabel": "Contributor",
-    "badgeTitle": "Hymnist",
-    "featured": true
-  },
-  {
     "id": "provenance-others",
     "name": "Other Ministry Collections",
     "bio": "General sacred hymnal collection from various church traditions, regional fellowships, and universal Christian hymnody.",
@@ -85,6 +74,17 @@
     "ministryYears": "General Archive",
     "ministryLabel": "Provenance",
     "badgeTitle": "Universal Gospel Anthology",
+    "featured": true
+  },
+  {
+    "id": "composer-1789668796818-7bzurv8",
+    "name": "xxxxxxxxxxxxxx",
+    "bio": "Newly added contributor for \"Dinwi jwng gwdan gwthar sanao\".",
+    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1790411315396_1000160600.jpg",
+    "skills": "Hu",
+    "ministryYears": "Hu",
+    "ministryLabel": "Contributor",
+    "badgeTitle": "Hymnist",
     "featured": true
   },
   {
