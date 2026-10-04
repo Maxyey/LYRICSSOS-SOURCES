@@ -33,17 +33,6 @@
     "featured": true
   },
   {
-    "id": "alex-iswarari",
-    "name": "Alex Iswarari",
-    "bio": "Dedicated songwriter and musical arranger contributing spiritual hymns and inspiring melodies to the Songs of Salvation anthology.",
-    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789650172690_1000158164.jpg",
-    "skills": "Keybordist , Vocalist, Composer",
-    "ministryYears": "Continuing",
-    "ministryLabel": "SINGER",
-    "badgeTitle": "Contributor",
-    "featured": true
-  },
-  {
     "id": "mrinal-iswarari",
     "name": "Mrinal Iswarari",
     "bio": "Primary composer and lyricist for Songs of Salvation (Sonadoba N.E.L.C.), dedicated to creating heartfelt Christian hymns and spiritual songs in local and regional languages.",
@@ -52,6 +41,17 @@
     "ministryYears": "2015 – Present",
     "ministryLabel": "Skill Set",
     "badgeTitle": "Melodious Composer & Hymnist",
+    "featured": true
+  },
+  {
+    "id": "alex-iswarari",
+    "name": "Alex Iswarari",
+    "bio": "Dedicated songwriter and musical arranger contributing spiritual hymns and inspiring melodies to the Songs of Salvation anthology.",
+    "photoUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/composers/photos/1789650172690_1000158164.jpg",
+    "skills": "Keybordist , Vocalist, Composer",
+    "ministryYears": "Continuing",
+    "ministryLabel": "SINGER",
+    "badgeTitle": "Contributor",
     "featured": true
   },
   {
