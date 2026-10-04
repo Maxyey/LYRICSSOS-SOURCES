@@ -77,17 +77,6 @@
     "featured": true
   },
   {
-    "id": "composer-1789957138296-lki9mdp",
-    "name": "Sundayschool 1990",
-    "bio": "Newly added contributor for \"Yeshule hamro jeevan lai\".",
-    "photoUrl": "",
-    "skills": "Sunday School, Heritage Choir, Children Ministry",
-    "ministryYears": "1990 – Present",
-    "ministryLabel": "Contributor",
-    "badgeTitle": "Hymnist",
-    "featured": true
-  },
-  {
     "id": "provenance-sonadoba-nelc",
     "name": "Sonadoba N.E.L.C. Originals",
     "bio": "Authentic sacred hymn collection and original spiritual anthems composed, recorded, and preserved within the Sonadoba N.E.L.C. Gospel Ministry.",
@@ -96,6 +85,17 @@
     "ministryYears": "Church Heritage",
     "ministryLabel": "Provenance",
     "badgeTitle": "Sonadoba Church Heritage",
+    "featured": true
+  },
+  {
+    "id": "composer-1789957138296-lki9mdp",
+    "name": "Sundayschool 1990",
+    "bio": "Newly added contributor for \"Yeshule hamro jeevan lai\".",
+    "photoUrl": "",
+    "skills": "Sunday School, Heritage Choir, Children Ministry",
+    "ministryYears": "1990 – Present",
+    "ministryLabel": "Contributor",
+    "badgeTitle": "Hymnist",
     "featured": true
   },
   {
