@@ -66,17 +66,6 @@
     "featured": true
   },
   {
-    "id": "composer-1789668924209-ncz7t6m",
-    "name": "translated version",
-    "bio": "Newly added contributor for \"Prabhu tumi acho kothay\".",
-    "photoUrl": "",
-    "skills": "Composer, Lyricist",
-    "ministryYears": "Composer, Lyricist",
-    "ministryLabel": "Contributor",
-    "badgeTitle": "Hymnist",
-    "featured": true
-  },
-  {
     "id": "provenance-youtube",
     "name": "YouTube Gospel Collection",
     "bio": "Comprehensive digital gospel archive curated from online ministries and YouTube worship recordings, preserving video hymns, live audio sessions, and modern worship renditions.",
@@ -85,6 +74,17 @@
     "ministryYears": "Digital Archive",
     "ministryLabel": "Provenance",
     "badgeTitle": "YouTube Gospel Archive",
+    "featured": true
+  },
+  {
+    "id": "composer-1789668924209-ncz7t6m",
+    "name": "translated version",
+    "bio": "Newly added contributor for \"Prabhu tumi acho kothay\".",
+    "photoUrl": "",
+    "skills": "Composer, Lyricist",
+    "ministryYears": "Composer, Lyricist",
+    "ministryLabel": "Contributor",
+    "badgeTitle": "Hymnist",
     "featured": true
   },
   {
