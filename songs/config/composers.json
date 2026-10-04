@@ -88,23 +88,23 @@
     "featured": true
   },
   {
-    "id": "composer-1789668924209-ncz7t6m",
-    "name": "translated version",
-    "bio": "Newly added contributor for \"Prabhu tumi acho kothay\".",
-    "photoUrl": "",
-    "skills": "Composer, Lyricist",
-    "ministryYears": "Composer, Lyricist",
-    "ministryLabel": "Contributor",
-    "badgeTitle": "Hymnist",
-    "featured": true
-  },
-  {
     "id": "composer-1789957138296-lki9mdp",
     "name": "Sundayschool 1990",
     "bio": "Newly added contributor for \"Yeshule hamro jeevan lai\".",
     "photoUrl": "",
     "skills": "Sunday School, Heritage Choir, Children Ministry",
     "ministryYears": "1990 – Present",
+    "ministryLabel": "Contributor",
+    "badgeTitle": "Hymnist",
+    "featured": true
+  },
+  {
+    "id": "composer-1789668924209-ncz7t6m",
+    "name": "translated version",
+    "bio": "Newly added contributor for \"Prabhu tumi acho kothay\".",
+    "photoUrl": "",
+    "skills": "Composer, Lyricist",
+    "ministryYears": "Composer, Lyricist",
     "ministryLabel": "Contributor",
     "badgeTitle": "Hymnist",
     "featured": true
