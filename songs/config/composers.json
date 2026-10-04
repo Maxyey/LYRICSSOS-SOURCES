@@ -77,17 +77,6 @@
     "featured": true
   },
   {
-    "id": "composer-1789668974578-y2ldncw",
-    "name": "Collected from YouTube [All in One Subip]",
-    "bio": "Newly added contributor for \"Ami Gane Gane sudhu tomar kothai bolbo\".",
-    "photoUrl": "",
-    "skills": "Composer, Lyricist",
-    "ministryYears": "Composer, Lyricist",
-    "ministryLabel": "Contributor",
-    "badgeTitle": "Hymnist",
-    "featured": true
-  },
-  {
     "id": "provenance-youtube",
     "name": "YouTube Gospel Collection",
     "bio": "Comprehensive digital gospel archive curated from online ministries and YouTube worship recordings, preserving video hymns, live audio sessions, and modern worship renditions.",
@@ -96,6 +85,17 @@
     "ministryYears": "Digital Archive",
     "ministryLabel": "Provenance",
     "badgeTitle": "YouTube Gospel Archive",
+    "featured": true
+  },
+  {
+    "id": "composer-1789668974578-y2ldncw",
+    "name": "Collected from YouTube [All in One Subip]",
+    "bio": "Newly added contributor for \"Ami Gane Gane sudhu tomar kothai bolbo\".",
+    "photoUrl": "",
+    "skills": "Composer, Lyricist",
+    "ministryYears": "Composer, Lyricist",
+    "ministryLabel": "Contributor",
+    "badgeTitle": "Hymnist",
     "featured": true
   },
   {
