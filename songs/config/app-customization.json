@@ -16,14 +16,14 @@
   "bibleVerses": [
     {
       "id": "verse-1",
-      "text": "“Sing to the Lord a New Song, Sing to the Lord, all the Earth.”",
+      "text": "“Sing to the Lord a new song, sing to the Lord, all the Earth.”",
       "ref": "Psalm 96:1",
       "enabled": true,
       "order": 1
     },
     {
       "id": "verse-3",
-      "text": "“Let Everything that has Breath Praise the Lord.”",
+      "text": "“Let everything that has Breath  Praise the Lord.”",
       "ref": "Psalm 150:6",
       "enabled": true,
       "order": 2
@@ -89,7 +89,7 @@
   "verseIntervalSeconds": 6,
   "verseTextColor": "default",
   "verseFontSize": 18,
-  "verseFontFamily": "custom-lainyday-1790190058361",
+  "verseFontFamily": "custom-yevidapotens-1790276605212",
   "verseBadgeStyle": "diamond-cut",
   "verseAnimationStyle": "blur-reveal",
   "verseNeonEnabled": false,
