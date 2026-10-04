@@ -77,17 +77,6 @@
     "featured": true
   },
   {
-    "id": "composer-1789668924209-ncz7t6m",
-    "name": "translated version",
-    "bio": "Newly added contributor for \"Prabhu tumi acho kothay\".",
-    "photoUrl": "",
-    "skills": "Composer, Lyricist",
-    "ministryYears": "Composer, Lyricist",
-    "ministryLabel": "Contributor",
-    "badgeTitle": "Hymnist",
-    "featured": true
-  },
-  {
     "id": "provenance-others",
     "name": "Other Ministry Collections",
     "bio": "General sacred hymnal collection from various church traditions, regional fellowships, and universal Christian hymnody.",
@@ -96,6 +85,17 @@
     "ministryYears": "General Archive",
     "ministryLabel": "Provenance",
     "badgeTitle": "Universal Gospel Anthology",
+    "featured": true
+  },
+  {
+    "id": "composer-1789668924209-ncz7t6m",
+    "name": "translated version",
+    "bio": "Newly added contributor for \"Prabhu tumi acho kothay\".",
+    "photoUrl": "",
+    "skills": "Composer, Lyricist",
+    "ministryYears": "Composer, Lyricist",
+    "ministryLabel": "Contributor",
+    "badgeTitle": "Hymnist",
     "featured": true
   },
   {
