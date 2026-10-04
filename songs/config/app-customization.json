@@ -87,8 +87,8 @@
     }
   ],
   "verseIntervalSeconds": 6,
-  "verseTextColor": "#22D3EE",
-  "verseFontSize": 11,
+  "verseTextColor": "default",
+  "verseFontSize": 16,
   "verseFontFamily": "custom-yevidapotens-1790276605212",
   "verseBadgeStyle": "glassmorphism",
   "verseAnimationStyle": "blur-reveal",
