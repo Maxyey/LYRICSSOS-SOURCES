@@ -18,7 +18,7 @@
       "id": "verse-1",
       "text": "“Sing to the Lord a new song, sing to the Lord, all the earth.”",
       "ref": "Psalm 96:1",
-      "enabled": false,
+      "enabled": true,
       "order": 1
     },
     {
@@ -88,7 +88,7 @@
   ],
   "verseIntervalSeconds": 6,
   "verseTextColor": "default",
-  "verseFontSize": 29,
+  "verseFontSize": 32,
   "verseFontFamily": "default",
   "verseBadgeStyle": "floating-cloud",
   "verseAnimationStyle": "blur-reveal",
