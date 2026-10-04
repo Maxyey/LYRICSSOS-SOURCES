@@ -16,14 +16,14 @@
   "bibleVerses": [
     {
       "id": "verse-1",
-      "text": "“Sing to the Lord a new song, sing to the Lord, all the earth.”",
+      "text": "“Sing to the Lord a New Song, Sing to the Lord, all the Earth.”",
       "ref": "Psalm 96:1",
       "enabled": true,
       "order": 1
     },
     {
       "id": "verse-3",
-      "text": "“Let everything that has breath praise the Lord.”",
+      "text": "“Let Everything that has Breath Praise the Lord.”",
       "ref": "Psalm 150:6",
       "enabled": true,
       "order": 2
