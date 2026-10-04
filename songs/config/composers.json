@@ -99,17 +99,6 @@
     "featured": true
   },
   {
-    "id": "composer-1789957138296-lki9mdp",
-    "name": "Sundayschool 1990",
-    "bio": "Newly added contributor for \"Yeshule hamro jeevan lai\".",
-    "photoUrl": "",
-    "skills": "Sunday School, Heritage Choir, Children Ministry",
-    "ministryYears": "1990 – Present",
-    "ministryLabel": "Contributor",
-    "badgeTitle": "Hymnist",
-    "featured": true
-  },
-  {
     "id": "provenance-others",
     "name": "Other Ministry Collections",
     "bio": "General sacred hymnal collection from various church traditions, regional fellowships, and universal Christian hymnody.",
@@ -118,6 +107,17 @@
     "ministryYears": "General Archive",
     "ministryLabel": "Provenance",
     "badgeTitle": "Universal Gospel Anthology",
+    "featured": true
+  },
+  {
+    "id": "composer-1789957138296-lki9mdp",
+    "name": "Sundayschool 1990",
+    "bio": "Newly added contributor for \"Yeshule hamro jeevan lai\".",
+    "photoUrl": "",
+    "skills": "Sunday School, Heritage Choir, Children Ministry",
+    "ministryYears": "1990 – Present",
+    "ministryLabel": "Contributor",
+    "badgeTitle": "Hymnist",
     "featured": true
   }
 ]
