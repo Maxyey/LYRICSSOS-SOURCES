@@ -66,17 +66,6 @@
     "featured": true
   },
   {
-    "id": "composer-1789668974578-y2ldncw",
-    "name": "Collected from YouTube [All in One Subip]",
-    "bio": "Newly added contributor for \"Ami Gane Gane sudhu tomar kothai bolbo\".",
-    "photoUrl": "",
-    "skills": "Composer, Lyricist",
-    "ministryYears": "Composer, Lyricist",
-    "ministryLabel": "Contributor",
-    "badgeTitle": "Hymnist",
-    "featured": true
-  },
-  {
     "id": "provenance-sonadoba-nelc",
     "name": "Sonadoba N.E.L.C. Originals",
     "bio": "Authentic sacred hymn collection and original spiritual anthems composed, recorded, and preserved within the Sonadoba N.E.L.C. Gospel Ministry.",
@@ -85,6 +74,17 @@
     "ministryYears": "Church Heritage",
     "ministryLabel": "Provenance",
     "badgeTitle": "Sonadoba Church Heritage",
+    "featured": true
+  },
+  {
+    "id": "composer-1789668974578-y2ldncw",
+    "name": "Collected from YouTube [All in One Subip]",
+    "bio": "Newly added contributor for \"Ami Gane Gane sudhu tomar kothai bolbo\".",
+    "photoUrl": "",
+    "skills": "Composer, Lyricist",
+    "ministryYears": "Composer, Lyricist",
+    "ministryLabel": "Contributor",
+    "badgeTitle": "Hymnist",
     "featured": true
   },
   {
