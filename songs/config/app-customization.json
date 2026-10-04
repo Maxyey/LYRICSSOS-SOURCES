@@ -23,14 +23,14 @@
     },
     {
       "id": "verse-3",
-      "text": "“Let everything that has breath praise the LORD.”",
+      "text": "“Let everything that has breath praise the Lord.”",
       "ref": "Psalm 150:6",
       "enabled": true,
       "order": 2
     },
     {
       "id": "verse-4",
-      "text": "“Boibw hang gwnangfwr, FWRBUkou baknaitwng.”",
+      "text": "“Boibw hang gwnangfwr, Fwrbukhou baknaitwng.”",
       "ref": "Gitfwr 150:67",
       "enabled": true,
       "order": 3
@@ -52,7 +52,7 @@
     },
     {
       "id": "verse-2",
-      "text": "“FWRBUni lagwi gwdan dwngse mwtai kondw, gaswi buhumni mansifwr, FWRBUni mungwi mwtai kondw.”",
+      "text": "“Fwrbuni lagwi gwdan dwngse mwtai kondw, gaswi buhumni mansifwr, Fwrbuni mungwi mwtai kondw.”",
       "ref": "Gitfwr 69:1",
       "enabled": true,
       "order": 5
