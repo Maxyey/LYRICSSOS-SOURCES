@@ -1,9 +1,9 @@
 {
   "songs": [
     {
-      "id": "1791302125302",
-      "serialNumber": 110,
-      "title": "Rongzani De Lwgwfwr Denwi Hai",
+      "id": "1791302955898",
+      "serialNumber": 111,
+      "title": "Menda Gwmgra Laokhara Jwngni Phorbu jisu a Sari Jafwibai",
       "composer": "Mrinal Iswarari",
       "date": "2026-10-06",
       "composeDate": "2026-10-06",
@@ -17,25 +17,7 @@
         "Bodo"
       ],
       "originCategory": "sonadoba-nelc",
-      "lyrics": ": : Rongzani De Lwgwfwr Denwi Hai\nJisu gotho sari jabai\nBwi... Goali noao : :\n\n*\nSanja desni jotishi fwra,\nSona-Rupha-Gondoros lananwi - 2\nBwi Jisugotho khou khulumdng - 2\n\n**\nBinw jwngni jiuni raja,\npaphi fwrkhow basainw sarijabai - 2\nFwi Jisugotho khou khulumni - 2"
-    },
-    {
-      "id": "1791301703862",
-      "serialNumber": 109,
-      "title": "Onnai ni Bari ao",
-      "composer": "Mrinal Iswarari",
-      "date": "2026-10-06",
-      "composeDate": "2026-10-06",
-      "key": "",
-      "scaleSet": false,
-      "version": "",
-      "audioType": "audio",
-      "audioUrl": "",
-      "tags": [
-        "Christmas"
-      ],
-      "originCategory": "sonadoba-nelc",
-      "lyrics": ": : Onnai ni Bari ao\n     Gaijadng jwnglai\n        Onnai ni Bari ao : :\n\n*\nIswra Papi fwrkhow Onswgarw\nOu Ou onswgarw  -2\n\n**\nIswra Adom-Hoba khow Onswgarw\nOu Ou onswgarw  -2\n\n***\nIswra Sonadoba khow Onswgarw\nOu Ou onswgarw  -2"
+      "lyrics": ": : Menda Gwmgra Laokhara\nJwngni Phorbu jisua \nSari jafwibai, Bwi goaliao Sari jafwibai : :\n\n✟"
     },
     {
       "id": "efc43d16-f7f5-46f9-90c9-78561d38a8ee",
@@ -2290,9 +2272,46 @@
       "key": "",
       "scaleSet": false,
       "originCategory": "youtube"
+    },
+    {
+      "id": "1791301703862",
+      "serialNumber": 109,
+      "title": "Onnai ni Bari ao",
+      "composer": "Mrinal Iswarari",
+      "date": "2026-10-06",
+      "composeDate": "2026-10-06",
+      "lyrics": ": : Onnai ni Bari ao\n     Gaijadng jwnglai\n        Onnai ni Bari ao : :\n\n*\nIswra Papi fwrkhow Onswgarw\nOu Ou onswgarw  -2\n\n**\nIswra Adom-Hoba khow Onswgarw\nOu Ou onswgarw  -2\n\n***\nIswra Sonadoba khow Onswgarw\nOu Ou onswgarw  -2",
+      "tags": [
+        "Christmas"
+      ],
+      "audioUrl": "",
+      "audioType": "audio",
+      "version": "",
+      "key": "",
+      "scaleSet": false,
+      "originCategory": "sonadoba-nelc"
+    },
+    {
+      "id": "1791302125302",
+      "serialNumber": 110,
+      "title": "Rongzani De Lwgwfwr Denwi Hai",
+      "composer": "Mrinal Iswarari",
+      "date": "2026-10-06",
+      "composeDate": "2026-10-06",
+      "lyrics": ": : Rongzani De Lwgwfwr Denwi Hai\nJisu gotho sari jabai\nBwi... Goali noao : :\n\n*\nSanja desni jotishi fwra,\nSona-Rupha-Gondoros lananwi - 2\nBwi Jisugotho khou khulumdng - 2\n\n**\nBinw jwngni jiuni raja,\npaphi fwrkhow basainw sarijabai - 2\nFwi Jisugotho khou khulumni - 2",
+      "tags": [
+        "Christmas",
+        "Bodo"
+      ],
+      "audioUrl": "",
+      "audioType": "audio",
+      "version": "",
+      "key": "",
+      "scaleSet": false,
+      "originCategory": "sonadoba-nelc"
     }
   ],
   "audioData": {},
-  "total": 110,
-  "lastUpdated": "2026-10-06T15:55:29.175Z"
+  "total": 111,
+  "lastUpdated": "2026-10-06T16:09:18.942Z"
 }
