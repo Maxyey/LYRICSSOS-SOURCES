@@ -1,25 +1,6 @@
 {
   "songs": [
     {
-      "id": "1791302955898",
-      "serialNumber": 111,
-      "title": "Menda Gwmgra Laokhara Jwngni Phorbu jisu a Sari Jafwibai",
-      "composer": "Mrinal Iswarari",
-      "date": "2026-10-06",
-      "composeDate": "2026-10-06",
-      "key": "",
-      "scaleSet": false,
-      "version": "",
-      "audioType": "audio",
-      "audioUrl": "",
-      "tags": [
-        "Christmas",
-        "Bodo"
-      ],
-      "originCategory": "sonadoba-nelc",
-      "lyrics": ": : Menda Gwmgra Laokhara\nJwngni Phorbu jisua \nSari jafwibai, Bwi goaliao Sari jafwibai : :\n\n✟"
-    },
-    {
       "id": "efc43d16-f7f5-46f9-90c9-78561d38a8ee",
       "serialNumber": 1,
       "title": "Aaj maha paritran bhai",
@@ -437,7 +418,7 @@
       "date": "2025-05-04T07:27:11.803Z",
       "composeDate": "0001-01-01",
       "lyrics": "Dabw undwi gotho jwngw\nRwnga raya jwng sibiyw\n“O . . Bifa Isor”-2\n(1)\nDhwrwm hangkhw khou barlangfrangw jwng\nOblabw jwngnikhou khwnasongdo\nJwngni nokhor arw bima-bifa\nNwngnao gothayw jwng Afa\n",
-      "chords": "[C:2|c:#ff00ff|ls:diamond] Dabw undwi [D:2] gotho jwngw\n[F#:2] Rwnga raya [G:2] jwng sibiyw\n[Fmaj:5] “O . . Bifa Isor”-2\n[1]\nDhwrwm hangkhw khou barlangfrangw jwng\nOblabw jwngnikhou khwnasongdo\nJwngni nokhor arw bima-bifa\nNwngnao gothayw jwng Afa\n",
+      "chords": "Dabw undwi gotho jwngw\nRwnga raya jwng sibiyw\n“O . . Bifa Isor”-2\n[1]\nDhwrwm hangkhw khou barlangfrangw jwng\nOblabw jwngnikhou khwnasongdo\nJwngni nokhor arw bima-bifa\nNwngnao gothayw jwng Afa\n",
       "tags": [
         "Bodo",
         "Jingle",
@@ -447,8 +428,7 @@
       "audioType": "audio",
       "version": "",
       "key": "C",
-      "scaleSet": true,
-      "originCategory": "sonadoba-nelc"
+      "scaleSet": true
     },
     {
       "id": "3fa7c589-5ff0-4999-92e6-34df123e8ef7",
@@ -2309,9 +2289,28 @@
       "key": "",
       "scaleSet": false,
       "originCategory": "sonadoba-nelc"
+    },
+    {
+      "id": "1791302955898",
+      "serialNumber": 111,
+      "title": "Menda Gwmgra Laokhara Jwngni Phorbu jisu a Sari Jafwibai",
+      "composer": "Mrinal Iswarari",
+      "date": "2026-10-06",
+      "composeDate": "2026-10-06",
+      "lyrics": ": : Menda Gwmgra Laokhara\nJwngni Phorbu jisua \nSari jafwibai, Bwi goaliao Sari jafwibai : :\n\n✟",
+      "tags": [
+        "Christmas",
+        "Bodo"
+      ],
+      "audioUrl": "",
+      "audioType": "audio",
+      "version": "",
+      "key": "",
+      "scaleSet": false,
+      "originCategory": "sonadoba-nelc"
     }
   ],
   "audioData": {},
   "total": 111,
-  "lastUpdated": "2026-10-06T16:09:18.942Z"
+  "lastUpdated": "2026-10-06T16:19:13.733Z"
 }
