@@ -60,5 +60,46 @@
         "customNotes": ""
       }
     ]
+  },
+  {
+    "id": "04cade4d-6c36-43a1-8059-13562eee7e56",
+    "name": "CHRISTMAS COLLECTION",
+    "creatorId": "admin",
+    "creatorName": "Administrator",
+    "createdAt": "2026-10-08T05:16:00.775Z",
+    "sessionMode": "collection",
+    "isPublic": false,
+    "items": [
+      {
+        "id": "91b5fc5e-0e78-4f95-957d-bc51739e22e5",
+        "songId": "efc43d16-f7f5-46f9-90c9-78561d38a8ee",
+        "title": "Aaj maha paritran bhai",
+        "customLabel": "Worship Song",
+        "customLyrics": "আজ মহা পরিত্রান ভাই আজ মহা পরিত্রান -2\nযীশুই উঠেছেন দেখো, পাপীরে করিতে ত্রাণ\n(1)\nচেয়ে দেখো কবর পানে, যীশুর দেহ নাই সেখানে  -2\nশুধু - বস্ত্রগুলি পরে আছে, দূতে করে সাক্ষ্যদান,\n(2)\nবিশ্বাসী যদিও মরে, তবু সে উঠিবে পরে, -2\nও ভাই - মৃত্যুঞ্জয়ী সেই যীশু সত্যের চীর প্রমাণ\n(3)\nযীশু আগে স্বর্গে গিয়ে, স্বর্গ দুয়ার দিলেন খুলে -2\nআমরা - যাব যাব স্বর্গে যাব, যীশুর রক্তে পেয়ে ত্রাণ\n(4)\nনেচে নেচে তালে তালে, সবে মিলে বাহু তুলে -2\nএখন । জয় যীশু জয় যীশু বলে কর তাহার গুন কীর্তন\n--------------------------------------------\n\nAaj maha paritran bhai aaj maha paritran -2\nJishui uthechen dekho, papire korite tran\n(1)\nCheye dekho kabar pane, Jishur deh nai shekhane -2\nShudhu - bastraguli pore ache, dute kore sakshyadan,\n(2)\nBishwasi jodi o more, tabu se uthibe pore -2\nO bhai - mritunjoyi sei Jishu satyer chir praman\n(3)\nJishu age swarge giye, swarg duar dilen khule -2\nAmra - jabo jabo swarge jabo, Jishur rakhte peye tran\n(4)\nNeche neche tale tale, shabe mile bahu tule -2\nEkhon - Joy Jishu Joy Jishu bole koro tahara gun kirtan",
+        "customScale": "",
+        "customTempo": "",
+        "customNotes": ""
+      },
+      {
+        "id": "0e6f92c1-a762-4d02-81f0-0f95a7436959",
+        "songId": "71fa2708-c533-44b2-8861-0cb0bde8355f",
+        "title": "Afa Isorni noa",
+        "customLabel": "Prayer Song",
+        "customLyrics": "Aa . . . . . . . . . . Aa . . . . . . . . . . -2\nAfa Isorni noa, Swithw-dhwrwmni dera\nShrang alari jwngblaobai thathwng\nJwngni sibithiliao -2\n(A)\nWi menglinai fwr, fwi nwngswrw fwi\nWi unkhwinaifwr, fwi nwngswrw fwi -2\nKhwmsi lamanifrai ongkharnan fwi\nIswrni raijwao bahafw lafwi -2\n(B)\nJiu hwsartnanwi dhwrwm sibinangwn\nGwsw hwsartnanwi swithw lakhinangwn -2\nAros thanangwn firi-firi\nMwngwn oblasw bwrni jhwri -2\n",
+        "customScale": "",
+        "customTempo": "",
+        "customNotes": ""
+      },
+      {
+        "id": "4c0a1797-8263-4b1d-a543-0d92a91594f8",
+        "songId": "8555fae3-0062-4027-9513-fef513e9cebd",
+        "title": "O Afa nwng ankhou manw",
+        "customLabel": "Worship Song",
+        "customLyrics": "O Afa nwng ankhou manw \nLenghorbai thayw, gaoni jaigayao -2\n(A)\nJanw hagou Afa nwngni lenghornaia\n mwnse thanki -2\nDinwigwn nwng gwjwnpuriao\n“Gaoni jaigayao” -2\n(B)\nNathai afa Ang  mwdainw burkhainayao\nGwlwdwng papni buhumao -2\nOblabw nagara nwng angkhou\n“Ang papi khou” -2",
+        "customScale": "",
+        "customTempo": "",
+        "customNotes": ""
+      }
+    ]
   }
 ]
