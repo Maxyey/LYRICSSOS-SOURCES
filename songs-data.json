@@ -86,7 +86,8 @@
       "audioType": "audio",
       "version": "",
       "key": "",
-      "scaleSet": false
+      "scaleSet": false,
+      "originCategory": "sonadoba-nelc"
     },
     {
       "id": "8555fae3-0062-4027-9513-fef513e9cebd",
@@ -2139,29 +2140,36 @@
       "id": "dfa00a27-b940-48e9-99d8-6dbfd39c8b64",
       "serialNumber": 105,
       "title": "Iswrni onnajwng, rupati fwrbwao",
-      "composer": "Mrinal Iswarari ",
-      "date": "2025-10-06T07:14:43.756Z",
+      "composer": "Mrinal Iswarari",
+      "date": "2026-10-19",
       "composeDate": "2025-08-23",
-      "lyrics": "Ch,\nIswrni onnajwng, rupati fwrbwao\nSofwinw hanai, gaswi alasi\nGaham onsainanwi, gugrup kulumnanwi\n\"Boraiyw maninang alasi fwrkhou\" -2\n\n-A-\n\nDhwrwmiya jiu khangnw, jwngkhou fwrwngdw\nSwithw lama thabainw, tulunga hwdw-2\nThwiso thangso oraibw\nSwithwni lama thabaigwn -2\n\n-B-\n\nRongja rongja de rongja, dinwini sanao\nRongjabaogwn mabwla, dinwi nongabla-2\nPhorbunao jwng rongjayw bla\nSwrgwao arpho rongjayw -2",
+      "key": "",
+      "scaleSet": false,
+      "version": "",
+      "audioType": "audio",
+      "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/2c6d6940-4a49-47b0-a96b-fdc6cbfa1255.m4a",
+      "audioSources": [
+        {
+          "id": "src-dfa00a27-b940-48e9-99d8-6dbfd39c8b64-primary",
+          "label": "Scratch Version",
+          "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/2c6d6940-4a49-47b0-a96b-fdc6cbfa1255.m4a",
+          "type": "audio",
+          "versionType": "with-music"
+        },
+        {
+          "id": "src-1792391121919-zfi1",
+          "label": "With Music Version",
+          "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/1792391105684_iswrni_onnajwng__rupati_fwrbwa.mp3",
+          "type": "audio",
+          "versionType": "scratch"
+        }
+      ],
       "tags": [
         "Bodo",
         "Silver Jubilee 2025"
       ],
-      "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/2c6d6940-4a49-47b0-a96b-fdc6cbfa1255.m4a",
-      "audioType": "audio",
-      "audioSources": [
-        {
-          "id": "src-dfa00a27-b940-48e9-99d8-6dbfd39c8b64-primary",
-          "label": "With Music",
-          "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/2c6d6940-4a49-47b0-a96b-fdc6cbfa1255.m4a",
-          "type": "audio",
-          "versionType": "with-music"
-        }
-      ],
-      "version": "",
-      "key": "",
-      "scaleSet": false,
-      "originCategory": "sonadoba-nelc"
+      "originCategory": "sonadoba-nelc",
+      "lyrics": "Ch,\nIswrni onnajwng, rupati fwrbwao\nSofwinw hanai, gaswi alasi\nGaham onsainanwi, gugrup kulumnanwi\n\"Boraiyw maninang alasi fwrkhou\" -2\n\n-A-\n\nDhwrwmiya jiu khangnw, jwngkhou fwrwngdw\nSwithw lama thabainw, tulunga hwdw-2\nThwiso thangso oraibw\nSwithwni lama thabaigwn -2\n\n-B-\n\nRongja rongja de rongja, dinwini sanao\nRongjabaogwn mabwla, dinwi nongabla-2\nPhorbunao jwng rongjayw bla\nSwrgwao arpho rongjayw -2"
     },
     {
       "id": "566870b8-05fd-43da-b818-ef138b74ba89",
@@ -2313,5 +2321,5 @@
   ],
   "audioData": {},
   "total": 111,
-  "lastUpdated": "2026-10-08T05:39:45.728Z"
+  "lastUpdated": "2026-10-19T06:25:48.933Z"
 }
