@@ -1,16 +1,35 @@
 {
   "id": "dfa00a27-b940-48e9-99d8-6dbfd39c8b64",
+  "serialNumber": 105,
   "title": "Iswrni onnajwng, rupati fwrbwao",
-  "composer": "Mrinal Iswarari ",
-  "lyrics": "Ch,\nIswrni onnajwng, rupati fwrbwao\nSofwinw hanai, gaswi alasi\nGaham onsainanwi, gugrup kulumnanwi\n\"Boraiyw maninang alasi fwrkhou\" -2\n\n-A-\n\nDhwrwmiya jiu khangnw, jwngkhou fwrwngdw\nSwithw lama thabainw, tulunga hwdw-2\nThwiso thangso oraibw\nSwithwni lama thabaigwn -2\n\n-B-\n\nRongja rongja de rongja, dinwini sanao\nRongjabaogwn mabwla, dinwi nongabla-2\nPhorbunao jwng rongjayw bla\nSwrgwao arpho rongjayw -2",
+  "composer": "Mrinal Iswarari",
+  "date": "2026-10-19",
+  "composeDate": "2025-08-23",
+  "key": "",
+  "scaleSet": false,
+  "version": "",
+  "audioType": "audio",
+  "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/2c6d6940-4a49-47b0-a96b-fdc6cbfa1255.m4a",
+  "audioSources": [
+    {
+      "id": "src-dfa00a27-b940-48e9-99d8-6dbfd39c8b64-primary",
+      "label": "Scratch Version",
+      "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/2c6d6940-4a49-47b0-a96b-fdc6cbfa1255.m4a",
+      "type": "audio",
+      "versionType": "with-music"
+    },
+    {
+      "id": "src-1792391121919-zfi1",
+      "label": "With Music Version",
+      "url": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/1792391105684_iswrni_onnajwng__rupati_fwrbwa.mp3",
+      "type": "audio",
+      "versionType": "scratch"
+    }
+  ],
   "tags": [
     "Bodo",
     "Silver Jubilee 2025"
   ],
-  "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/2c6d6940-4a49-47b0-a96b-fdc6cbfa1255.m4a",
-  "audioType": "audio",
-  "composeDate": "2025-08-23",
-  "version": "Standard Version",
-  "serialNumber": 105,
-  "date": "2025-10-06T07:14:43.756Z"
+  "originCategory": "sonadoba-nelc",
+  "lyrics": "Ch,\nIswrni onnajwng, rupati fwrbwao\nSofwinw hanai, gaswi alasi\nGaham onsainanwi, gugrup kulumnanwi\n\"Boraiyw maninang alasi fwrkhou\" -2\n\n-A-\n\nDhwrwmiya jiu khangnw, jwngkhou fwrwngdw\nSwithw lama thabainw, tulunga hwdw-2\nThwiso thangso oraibw\nSwithwni lama thabaigwn -2\n\n-B-\n\nRongja rongja de rongja, dinwini sanao\nRongjabaogwn mabwla, dinwi nongabla-2\nPhorbunao jwng rongjayw bla\nSwrgwao arpho rongjayw -2"
 }
