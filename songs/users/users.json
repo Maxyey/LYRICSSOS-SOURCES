@@ -30,5 +30,14 @@
     "password": "User@gmail.com",
     "role": "user",
     "createdAt": "2026-09-17T04:36:05.648Z"
+  },
+  {
+    "id": "user-1792753038222",
+    "name": "Abhijit",
+    "email": "abhijitborogaon@gmail.com",
+    "password": "17020217",
+    "role": "user",
+    "isSonadobaMember": true,
+    "createdAt": "2026-10-23T10:57:18.222Z"
   }
 ]
