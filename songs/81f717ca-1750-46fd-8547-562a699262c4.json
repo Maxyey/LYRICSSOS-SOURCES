@@ -5,15 +5,14 @@
   "composer": "Mrinal Iswarari",
   "date": "2026-10-23",
   "composeDate": "0001-01-01",
-  "key": "",
-  "scaleSet": false,
-  "version": "",
-  "audioType": "audio",
-  "audioUrl": "",
+  "lyrics": "Dinwini dina bese somaina\nFwi jwng rongjani -2\n(A)\nDinwi subunga, gwswkhangdwng nwngkhou\nDinwi subunga, somaihwdwng nwngkhou -2\n(B)\nGwthar dibosao, fwrwng Phwrbu nwngni rao\nGwthar dibosao, hepajab hw jwngnw -2",
   "tags": [
     "Bodo",
     "Sundayschoolday"
   ],
-  "originCategory": "sonadoba-nelc",
-  "lyrics": "Dinwini dina bese somaina\nFwi jwng rongjani -2\n(A)\nDinwi subunga, gwswkhangdwng nwngkhou\nDinwi subunga, somaihwdwng nwngkhou -2\n(B)\nGwthar dibosao, fwrwng Phwrbu nwngni rao\nGwthar dibosao, hepajab hw jwngnw -2"
+  "audioUrl": "",
+  "audioType": "audio",
+  "version": "",
+  "key": "E/F",
+  "scaleSet": true
 }
