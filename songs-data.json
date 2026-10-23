@@ -571,20 +571,20 @@
       "id": "81f717ca-1750-46fd-8547-562a699262c4",
       "serialNumber": 29,
       "title": "Dinwini dina bese somaina",
-      "composer": "Mrinal Iswarari ",
-      "date": "2025-05-04T07:36:34.565Z",
+      "composer": "Mrinal Iswarari",
+      "date": "2026-10-23",
       "composeDate": "0001-01-01",
-      "lyrics": "Dinwini dina bese somaina\nFwi jwng rongjani -2\n(A)\nDinwi subunga, gwswkhangdwng nwngkhou\nDinwi subunga, gsomaihwdwng nwngkhou -2\n(B)\nGwthar dibosao, fwrwng Phwrbu nwngni rao\nGwthar dibosao, hepajab hw jwngnw -2\n",
-      "tags": [
-        "BODO",
-        "Sundayschoolday"
-      ],
-      "audioUrl": "",
-      "audioType": "audio",
-      "version": "",
       "key": "",
       "scaleSet": false,
-      "originCategory": "sonadoba-nelc"
+      "version": "",
+      "audioType": "audio",
+      "audioUrl": "",
+      "tags": [
+        "Bodo",
+        "Sundayschoolday"
+      ],
+      "originCategory": "sonadoba-nelc",
+      "lyrics": "Dinwini dina bese somaina\nFwi jwng rongjani -2\n(A)\nDinwi subunga, gwswkhangdwng nwngkhou\nDinwi subunga, somaihwdwng nwngkhou -2\n(B)\nGwthar dibosao, fwrwng Phwrbu nwngni rao\nGwthar dibosao, hepajab hw jwngnw -2"
     },
     {
       "id": "e512918b-ad3a-40e7-af3a-5027790e6673",
@@ -2321,5 +2321,5 @@
   ],
   "audioData": {},
   "total": 111,
-  "lastUpdated": "2026-10-23T11:14:45.342Z"
+  "lastUpdated": "2026-10-23T11:16:12.962Z"
 }
