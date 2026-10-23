@@ -1,7 +1,10 @@
 {
   "id": "c16831b7-0eb4-444a-9e29-9a016299b8d0",
+  "serialNumber": 41,
   "title": "Gwthar Gwthar Sandayschool san",
   "composer": "Mrinal Iswarari ",
+  "date": "2025-05-04T07:40:30.244Z",
+  "composeDate": "0001-01-01",
   "lyrics": "Gwthar  Gwthar\n Sandayschool san- sandayschool san\n“Dinwi bese rongzanai” -2\n(a)\nRongzagwn jwng, rwjabgwn jwng -2\nDinwini be dibosao\n(b)\nPhorai boibw khwnta boibw -2\nGwthar Bibleni batra\n",
   "tags": [
     "BODO",
@@ -9,8 +12,8 @@
   ],
   "audioUrl": "",
   "audioType": "audio",
-  "composeDate": "0001-01-01",
-  "version": "Standard Version",
-  "serialNumber": 41,
-  "date": "2025-05-04T07:40:30.244Z"
+  "version": "",
+  "key": "G",
+  "scaleSet": true,
+  "originCategory": "sonadoba-nelc"
 }
