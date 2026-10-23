@@ -1935,9 +1935,8 @@
       "audioUrl": "",
       "audioType": "audio",
       "version": "",
-      "key": "",
-      "scaleSet": false,
-      "originCategory": "sonadoba-nelc"
+      "key": "F#",
+      "scaleSet": true
     },
     {
       "id": "cfcd3b59-c63f-459d-a742-38ed2ec35b06",
@@ -2143,11 +2142,13 @@
       "composer": "Mrinal Iswarari",
       "date": "2026-10-19",
       "composeDate": "2025-08-23",
-      "key": "",
-      "scaleSet": false,
-      "version": "",
-      "audioType": "audio",
+      "lyrics": "Ch,\nIswrni onnajwng, rupati fwrbwao\nSofwinw hanai, gaswi alasi\nGaham onsainanwi, gugrup kulumnanwi\n\"Boraiyw maninang alasi fwrkhou\" -2\n\n-A-\n\nDhwrwmiya jiu khangnw, jwngkhou fwrwngdw\nSwithw lama thabainw, tulunga hwdw-2\nThwiso thangso oraibw\nSwithwni lama thabaigwn -2\n\n-B-\n\nRongja rongja de rongja, dinwini sanao\nRongjabaogwn mabwla, dinwi nongabla-2\nPhorbunao jwng rongjayw bla\nSwrgwao arpho rongjayw -2",
+      "tags": [
+        "Bodo",
+        "Silver Jubilee 2025"
+      ],
       "audioUrl": "https://raw.githubusercontent.com/Maxyey/LYRICSSOS-SOURCES/main/songs/audio/2c6d6940-4a49-47b0-a96b-fdc6cbfa1255.m4a",
+      "audioType": "audio",
       "audioSources": [
         {
           "id": "src-dfa00a27-b940-48e9-99d8-6dbfd39c8b64-primary",
@@ -2164,12 +2165,10 @@
           "versionType": "scratch"
         }
       ],
-      "tags": [
-        "Bodo",
-        "Silver Jubilee 2025"
-      ],
-      "originCategory": "sonadoba-nelc",
-      "lyrics": "Ch,\nIswrni onnajwng, rupati fwrbwao\nSofwinw hanai, gaswi alasi\nGaham onsainanwi, gugrup kulumnanwi\n\"Boraiyw maninang alasi fwrkhou\" -2\n\n-A-\n\nDhwrwmiya jiu khangnw, jwngkhou fwrwngdw\nSwithw lama thabainw, tulunga hwdw-2\nThwiso thangso oraibw\nSwithwni lama thabaigwn -2\n\n-B-\n\nRongja rongja de rongja, dinwini sanao\nRongjabaogwn mabwla, dinwi nongabla-2\nPhorbunao jwng rongjayw bla\nSwrgwao arpho rongjayw -2"
+      "version": "",
+      "key": "",
+      "scaleSet": false,
+      "originCategory": "sonadoba-nelc"
     },
     {
       "id": "566870b8-05fd-43da-b818-ef138b74ba89",
@@ -2321,5 +2320,5 @@
   ],
   "audioData": {},
   "total": 111,
-  "lastUpdated": "2026-10-19T06:25:48.933Z"
+  "lastUpdated": "2026-10-23T11:13:14.887Z"
 }
