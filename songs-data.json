@@ -818,8 +818,8 @@
       "audioUrl": "",
       "audioType": "audio",
       "version": "",
-      "key": "",
-      "scaleSet": false,
+      "key": "G",
+      "scaleSet": true,
       "originCategory": "sonadoba-nelc"
     },
     {
@@ -1936,7 +1936,8 @@
       "audioType": "audio",
       "version": "",
       "key": "F#",
-      "scaleSet": true
+      "scaleSet": true,
+      "originCategory": "sonadoba-nelc"
     },
     {
       "id": "cfcd3b59-c63f-459d-a742-38ed2ec35b06",
@@ -2320,5 +2321,5 @@
   ],
   "audioData": {},
   "total": 111,
-  "lastUpdated": "2026-10-23T11:13:14.887Z"
+  "lastUpdated": "2026-10-23T11:13:28.795Z"
 }
