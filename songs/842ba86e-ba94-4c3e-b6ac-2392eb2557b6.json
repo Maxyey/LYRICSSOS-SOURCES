@@ -1,7 +1,10 @@
 {
   "id": "842ba86e-ba94-4c3e-b6ac-2392eb2557b6",
+  "serialNumber": 27,
   "title": "Dinwini be dibosha, Bibar badi somaina",
   "composer": "Mrinal Iswarari ",
+  "date": "2025-05-04T07:35:34.008Z",
+  "composeDate": "2021-11-01",
   "lyrics": "Dinwini be dibosha, Bibar badi somaina\nJwngkhou fwjakhangw, Jwngkhou thulungayw-2\n(A)\nBifang, Bibar, bithaibw thaiyw, Daosen daolafwrbw Bafwiyw\nFwrbuni mungwi gabjrikhaow, Be buhuma somaiswtharw -2\n(B)\nGwthar bibelkhou bujinw hayw, Dhwrwm lamakhou sinai hayw\nGwthar Jiua basa lafwiyw, Jwbnw gwiywi jiu mwnkhatharw-2\n(C)\nDukhu somaobw Banjaifwyw,  Andaibwla lama dinthiyw\nSudem bara suglaihwfwyw, Hajw halabw rongzakhangw-2\n",
   "tags": [
     "BODO",
@@ -9,8 +12,7 @@
   ],
   "audioUrl": "",
   "audioType": "audio",
-  "composeDate": "2021-11-01",
-  "version": "Standard Version",
-  "serialNumber": 27,
-  "date": "2025-05-04T07:35:34.008Z"
+  "version": "",
+  "key": "C",
+  "scaleSet": true
 }
