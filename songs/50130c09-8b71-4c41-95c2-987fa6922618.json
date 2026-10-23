@@ -1,7 +1,10 @@
 {
   "id": "50130c09-8b71-4c41-95c2-987fa6922618",
+  "serialNumber": 25,
   "title": "Dihun janai dibosa",
   "composer": "Mrinal Iswarari ",
+  "date": "2025-05-04T07:31:51.702Z",
+  "composeDate": "0001-01-01",
   "lyrics": "Dihun janai dibosa\nJwngni mwnse jarimin\nBe jarimin dihun jandwng\nSubungkhou fwjakhangnw -2\n(A)\nJwng sibigwn khouse janan\n“Kristoni gaham batra-2”\nJwng rwjabgwn Kristni methai\n“Subungkhou fwjakhangnw-2” -2\n(B)\nKhonsaibwdwng be dibosa\n“Buhumni subung fwrkhou-2”\nSomai hwdwng be dibosa\n“Geremsa khwmsali khou-2”\n",
   "tags": [
     "BODO",
@@ -9,8 +12,8 @@
   ],
   "audioUrl": "",
   "audioType": "audio",
-  "composeDate": "0001-01-01",
-  "version": "Standard Version",
-  "serialNumber": 25,
-  "date": "2025-05-04T07:31:51.702Z"
+  "version": "",
+  "key": "C",
+  "scaleSet": true,
+  "originCategory": "sonadoba-nelc"
 }
