@@ -494,20 +494,20 @@
       "id": "50130c09-8b71-4c41-95c2-987fa6922618",
       "serialNumber": 25,
       "title": "Dihun janai dibosa",
-      "composer": "Mrinal Iswarari ",
-      "date": "2025-05-04T07:31:51.702Z",
+      "composer": "Mrinal Iswarari",
+      "date": "2026-10-24",
       "composeDate": "0001-01-01",
-      "lyrics": "Dihun janai dibosa\nJwngni mwnse jarimin\nBe jarimin dihun jandwng\nSubungkhou fwjakhangnw -2\n(A)\nJwng sibigwn khouse janan\n“Kristoni gaham batra-2”\nJwng rwjabgwn Kristni methai\n“Subungkhou fwjakhangnw-2” -2\n(B)\nKhonsaibwdwng be dibosa\n“Buhumni subung fwrkhou-2”\nSomai hwdwng be dibosa\n“Geremsa khwmsali khou-2”\n",
-      "tags": [
-        "BODO",
-        "Sundayschoolday"
-      ],
-      "audioUrl": "",
-      "audioType": "audio",
-      "version": "",
       "key": "C",
       "scaleSet": true,
-      "originCategory": "sonadoba-nelc"
+      "version": "",
+      "audioType": "audio",
+      "audioUrl": "",
+      "tags": [
+        "Bodo",
+        "Sundayschoolday"
+      ],
+      "originCategory": "sonadoba-nelc",
+      "lyrics": ": : Dihun janai dibosa\nJwngni mwnse jarimin\nBe jarimin dihun jandwng\nSubungkhou fwjakhangnw -2 : :\n(A)\nJwng sibigwn khouse janan\n“Kristoni gaham batra-2”\nJwng rwjabgwn Kristni methai\n“Subungkhou fwjakhangnw-2” -2\n(B)\nKhonsaibwdwng be dibosa\n“Buhumni subung fwrkhou-2”\nSomai hwdwng be dibosa\n“Geremsa khwmsali khou-2”"
     },
     {
       "id": "7ec772f0-dfee-414f-bbbb-f4296680e532",
@@ -810,17 +810,17 @@
       "composer": "Mrinal Iswarari",
       "date": "2026-10-24",
       "composeDate": "0001-01-01",
-      "key": "G",
-      "scaleSet": true,
-      "version": "",
-      "audioType": "audio",
-      "audioUrl": "",
+      "lyrics": ": : Gwthar  Gwthar\n Sandayschool san- sandayschool san\n“Dinwi bese rongzanai” -2 : :\n(a)\n: : Rongzagwn jwng, rwjabgwn jwng -2 \nDinwini be dibosao : :\n(b)\n: : Phorai boibw khwnta boibw -2\nGwthar Bibleni batra  : :",
       "tags": [
         "Bodo",
         "Sundayschoolday"
       ],
-      "originCategory": "sonadoba-nelc",
-      "lyrics": ": : Gwthar  Gwthar\n Sandayschool san- sandayschool san\n“Dinwi bese rongzanai” -2 : :\n(a)\n: : Rongzagwn jwng, rwjabgwn jwng -2 \nDinwini be dibosao : :\n(b)\n: : Phorai boibw khwnta boibw -2\nGwthar Bibleni batra  : :"
+      "audioUrl": "",
+      "audioType": "audio",
+      "version": "",
+      "key": "G",
+      "scaleSet": true,
+      "originCategory": "sonadoba-nelc"
     },
     {
       "id": "5e16f273-cf11-4794-86d1-5f6d8149b824",
@@ -2321,5 +2321,5 @@
   ],
   "audioData": {},
   "total": 111,
-  "lastUpdated": "2026-10-24T13:45:59.108Z"
+  "lastUpdated": "2026-10-24T14:28:12.296Z"
 }
