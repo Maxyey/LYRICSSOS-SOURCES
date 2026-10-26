@@ -5,15 +5,14 @@
   "composer": "Mrinal Iswarari",
   "date": "2026-10-24",
   "composeDate": "0001-01-01",
-  "key": "C",
-  "scaleSet": true,
-  "version": "",
-  "audioType": "audio",
-  "audioUrl": "",
+  "lyrics": ": : Dihun janai dibosa\nJwngni mwnse jarimin\nBe jarimin dihun jandwng\nSubungkhou fwjakhangnw -2 : :\n(A)\nJwng sibigwn khouse janan\n“Kristoni gaham batra-2”\nJwng rwjabgwn Kristni methai\n“Subungkhou fwjakhangnw-2”\n(B)\nKhonsaibwdwng be dibosa\n“Buhumni subung fwrkhou-2”\nSomai hwdwng be dibosa\n“Geremsa khwmsali khou-2”",
   "tags": [
     "Bodo",
     "Sundayschoolday"
   ],
-  "originCategory": "sonadoba-nelc",
-  "lyrics": ": : Dihun janai dibosa\nJwngni mwnse jarimin\nBe jarimin dihun jandwng\nSubungkhou fwjakhangnw -2 : :\n(A)\nJwng sibigwn khouse janan\n“Kristoni gaham batra-2”\nJwng rwjabgwn Kristni methai\n“Subungkhou fwjakhangnw-2”\n(B)\nKhonsaibwdwng be dibosa\n“Buhumni subung fwrkhou-2”\nSomai hwdwng be dibosa\n“Geremsa khwmsali khou-2”"
+  "audioUrl": "",
+  "audioType": "audio",
+  "version": "",
+  "key": "B",
+  "scaleSet": true
 }
