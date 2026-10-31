@@ -1,6 +1,24 @@
 {
   "songs": [
     {
+      "id": "1793435282055",
+      "serialNumber": 113,
+      "title": "DHANYAWAD KE SAATH",
+      "composer": "@DnThomasPaulose",
+      "date": "2026-10-31",
+      "composeDate": "2026-10-31",
+      "key": "",
+      "scaleSet": false,
+      "version": "",
+      "audioType": "audio",
+      "audioUrl": "",
+      "tags": [
+        "Worship"
+      ],
+      "originCategory": "others",
+      "lyrics": "Dhanyawad ke saath stuti gaoonga\nHey yeeshu mere Khuda\nUpkaar tere hain beshumaar\nKoti koti stuti dhanyawad\n\nYogyata se badke diya hai\nApni daya se tune mujhe\nMangne se zyaada mila mujhe\nAabhaari hun prabhu mai\n\nYogyata se badke diya hai\nApni daya se tune mujhe\n\nDhanyawad ke saath stuti gaoonga\nHey yeeshu mere Khuda\nUpkaar tere hain beshumaar\nKoti koti stuti dhanyawad\n\nTu hai sacha zinda khuda\nTujh par hi bharosa mera\nSeva poori karke paoon inaam\nPrabhu aisa do vardaan\n\nTu hai sacha zinda khuda\nTujh par hi bharosa mera"
+    },
+    {
       "id": "efc43d16-f7f5-46f9-90c9-78561d38a8ee",
       "serialNumber": 1,
       "title": "Aaj maha paritran bhai",
@@ -2333,10 +2351,11 @@
       "audioType": "audio",
       "version": "",
       "key": "E",
-      "scaleSet": true
+      "scaleSet": true,
+      "originCategory": "others"
     }
   ],
   "audioData": {},
-  "total": 112,
-  "lastUpdated": "2026-10-31T07:53:27.294Z"
+  "total": 113,
+  "lastUpdated": "2026-10-31T08:28:06.588Z"
 }
