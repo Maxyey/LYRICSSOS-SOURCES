@@ -1,6 +1,24 @@
 {
   "songs": [
     {
+      "id": "1793433083647",
+      "serialNumber": 112,
+      "title": "Saari srishti ke malik tumhi ho",
+      "composer": "Other Ministry Collections",
+      "date": "2026-10-31",
+      "composeDate": "2026-10-31",
+      "key": "",
+      "scaleSet": false,
+      "version": "",
+      "audioType": "audio",
+      "audioUrl": "",
+      "tags": [
+        "Worship"
+      ],
+      "originCategory": "others",
+      "lyrics": "Saari srishti ke malik tumhi ho\nSaare srishti ke rakshak tumhi ho\nKarte hain tujh ko saader pranaam\nGaate hey tere hi gungan\nHa ha ha halelluya \nHa ha ha halelluya\nHa ha ha halelluya\nHa ha ha halelluya\nHa ha ha halelluya \nHa ha ha halelluya\nHa ha ha halelluya\nAa--men\n #\nSaari srishti ko tera sahara\nSaare sankat se hamko bachaana\nTere haatho me jeevan hamaara hei\nApni raahon par hamko chalana\n ##\nHam hen tere haathon ki rachana\nHam par rahe teri karuna\nTan, man, dhan hamara tera hei\nInhe shaitan ko chhune na dena\n ###\nAb door nahi hei kinara\nDheeraj ko hamaare badhaana\nJeevan ki hamaari is naiyya ko\nBhav sagar me khone na dena"
+    },
+    {
       "id": "efc43d16-f7f5-46f9-90c9-78561d38a8ee",
       "serialNumber": 1,
       "title": "Aaj maha paritran bhai",
@@ -506,7 +524,8 @@
       "audioType": "audio",
       "version": "",
       "key": "B",
-      "scaleSet": true
+      "scaleSet": true,
+      "originCategory": "sonadoba-nelc"
     },
     {
       "id": "7ec772f0-dfee-414f-bbbb-f4296680e532",
@@ -2319,6 +2338,6 @@
     }
   ],
   "audioData": {},
-  "total": 111,
-  "lastUpdated": "2026-10-26T10:58:58.721Z"
+  "total": 112,
+  "lastUpdated": "2026-10-31T07:51:26.156Z"
 }
