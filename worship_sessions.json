@@ -70,21 +70,21 @@
         "customNotes": ""
       },
       {
-        "id": "cd5dd85a-febb-4aea-957e-b64c1b4652fa",
-        "songId": "81f717ca-1750-46fd-8547-562a699262c4",
-        "title": "Dinwini dina bese somaina",
-        "customLabel": "Praise",
-        "customLyrics": "Dinwini dina bese somaina\nFwi jwng rongjani -2\n(A)\nDinwi subunga, gwswkhangdwng nwngkhou\nDinwi subunga, gsomaihwdwng nwngkhou -2\n(B)\nGwthar dibosao, fwrwng Phwrbu nwngni rao\nGwthar dibosao, hepajab hw jwngnw -2\n",
-        "customScale": "",
-        "customTempo": "",
-        "customNotes": ""
-      },
-      {
         "id": "b3176fbc-9cf2-4bbb-8710-fe612a6bf104",
         "songId": "5e16f273-cf11-4794-86d1-5f6d8149b824",
         "title": "Hamesha ekta ki bandhan mein",
         "customLabel": "Worship Song",
         "customLyrics": "Hamesha ekta ki bandhan mein\nHamesha ekta ki chhatra chhaya mein -2\nHam khilenge phool, phool khilenge ham -2\nPrabhu tere bagano mein\n(A)\nChahe ham jitne bhi door rahe\nTere hi nigahon se (door na hate-2) -2\n",
+        "customScale": "",
+        "customTempo": "",
+        "customNotes": ""
+      },
+      {
+        "id": "cd5dd85a-febb-4aea-957e-b64c1b4652fa",
+        "songId": "81f717ca-1750-46fd-8547-562a699262c4",
+        "title": "Dinwini dina bese somaina",
+        "customLabel": "Praise",
+        "customLyrics": "Dinwini dina bese somaina\nFwi jwng rongjani -2\n(A)\nDinwi subunga, gwswkhangdwng nwngkhou\nDinwi subunga, gsomaihwdwng nwngkhou -2\n(B)\nGwthar dibosao, fwrwng Phwrbu nwngni rao\nGwthar dibosao, hepajab hw jwngnw -2\n",
         "customScale": "",
         "customTempo": "",
         "customNotes": ""
