@@ -1,22 +1,22 @@
 {
   "songs": [
     {
-      "id": "1793435282055",
-      "serialNumber": 113,
-      "title": "DHANYAWAD KE SAATH",
-      "composer": "@DnThomasPaulose",
-      "date": "2026-10-31",
-      "composeDate": "2026-10-31",
-      "key": "",
-      "scaleSet": false,
+      "id": "1794111735068",
+      "serialNumber": 114,
+      "title": "Tomar Grihe Milechi Mora",
+      "composer": "Mrinal Iswarari",
+      "date": "2026-11-08",
+      "composeDate": "2026-11-08",
+      "key": "Am",
+      "scaleSet": true,
       "version": "",
       "audioType": "audio",
       "audioUrl": "",
       "tags": [
-        "Worship"
+        "Bengali"
       ],
-      "originCategory": "others",
-      "lyrics": "Dhanyawad ke saath stuti gaoonga\nHey yeeshu mere Khuda\nUpkaar tere hain beshumaar\nKoti koti stuti dhanyawad\n\nYogyata se badke diya hai\nApni daya se tune mujhe\nMangne se zyaada mila mujhe\nAabhaari hun prabhu mai\n\nYogyata se badke diya hai\nApni daya se tune mujhe\n\nDhanyawad ke saath stuti gaoonga\nHey yeeshu mere Khuda\nUpkaar tere hain beshumaar\nKoti koti stuti dhanyawad\n\nTu hai sacha zinda khuda\nTujh par hi bharosa mera\nSeva poori karke paoon inaam\nPrabhu aisa do vardaan\n\nTu hai sacha zinda khuda\nTujh par hi bharosa mera"
+      "originCategory": "sonadoba-nelc",
+      "lyrics": ": : Tomar grihe milechi mora\nTomai pujite... - 2\nTomar alo sekhao Prabhu - 2\nPoth cholite... : :\n#\n\nTumi amar jibon data\nTumi amar mukti data - 2\nTomai peye jiban amar - 2\nDhonno holo aji\n##\n\nOgo priyo biswo pita\nTumi amar poritrata - 2\nTomar boli dane e pran - 2\nDhonno holo aji"
     },
     {
       "id": "efc43d16-f7f5-46f9-90c9-78561d38a8ee",
@@ -2353,9 +2353,27 @@
       "key": "E",
       "scaleSet": true,
       "originCategory": "others"
+    },
+    {
+      "id": "1793435282055",
+      "serialNumber": 113,
+      "title": "DHANYAWAD KE SAATH",
+      "composer": "@DnThomasPaulose",
+      "date": "2026-10-31",
+      "composeDate": "2026-10-31",
+      "lyrics": "Dhanyawad ke saath stuti gaoonga\nHey yeeshu mere Khuda\nUpkaar tere hain beshumaar\nKoti koti stuti dhanyawad\n\nYogyata se badke diya hai\nApni daya se tune mujhe\nMangne se zyaada mila mujhe\nAabhaari hun prabhu mai\n\nYogyata se badke diya hai\nApni daya se tune mujhe\n\nDhanyawad ke saath stuti gaoonga\nHey yeeshu mere Khuda\nUpkaar tere hain beshumaar\nKoti koti stuti dhanyawad\n\nTu hai sacha zinda khuda\nTujh par hi bharosa mera\nSeva poori karke paoon inaam\nPrabhu aisa do vardaan\n\nTu hai sacha zinda khuda\nTujh par hi bharosa mera",
+      "tags": [
+        "Worship"
+      ],
+      "audioUrl": "",
+      "audioType": "audio",
+      "version": "",
+      "key": "",
+      "scaleSet": false,
+      "originCategory": "others"
     }
   ],
   "audioData": {},
-  "total": 113,
-  "lastUpdated": "2026-10-31T08:28:06.588Z"
+  "total": 114,
+  "lastUpdated": "2026-11-08T04:22:18.098Z"
 }
